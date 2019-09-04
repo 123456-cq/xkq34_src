@@ -1,0 +1,14 @@
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\obj\Debug\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Hidistro.SqlDal.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Hidistro.SqlDal.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Hidistro.Core.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Hidistro.Entities.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Hishop.Components.Validation.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Hidistro.Entities.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Hidistro.Core.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\bin\Debug\Hishop.Components.Validation.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\obj\Debug\Hidistro.SqlDal.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.SqlDal\obj\Debug\Hidistro.SqlDal.pdb

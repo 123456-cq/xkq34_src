@@ -1,0 +1,9 @@
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.TransferManager\bin\Debug\Hishop.TransferManager.dll
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.TransferManager\bin\Debug\Hishop.TransferManager.pdb
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.TransferManager\obj\x86\Debug\Hishop.TransferManager.dll
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.TransferManager\obj\x86\Debug\Hishop.TransferManager.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.TransferManager\bin\Debug\Hishop.TransferManager.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.TransferManager\bin\Debug\Hishop.TransferManager.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.TransferManager\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.TransferManager\obj\x86\Debug\Hishop.TransferManager.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.TransferManager\obj\x86\Debug\Hishop.TransferManager.pdb

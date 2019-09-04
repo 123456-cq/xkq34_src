@@ -1,0 +1,48 @@
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+F:\hishop程序_重要\销客多\3.3\销客多3.3_src\wwwroot1\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+F:\hishop程序_重要\销客多\3.3\销客多3.3_src\wwwroot1\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+F:\hishop程序_重要\销客多\3.3\销客多3.3_src\wwwroot1\Hishop.Plugins\obj\Debug\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.3\销客多3.3_src\wwwroot1\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+F:\hishop程序_重要\销客多\3.3\销客多3.3_src\wwwroot1\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+F:\hishop程序_重要\销客多\3.31\outputfile\wwwroot1\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+F:\hishop程序_重要\销客多\3.31\outputfile\wwwroot1\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+F:\hishop程序_重要\销客多\3.31\outputfile\wwwroot1\Hishop.Plugins\obj\Debug\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.31\outputfile\wwwroot1\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+F:\hishop程序_重要\销客多\3.31\outputfile\wwwroot1\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Plugins\obj\Debug\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+F:\淘宝上架源码\082 销客多3.4\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+F:\淘宝上架源码\082 销客多3.4\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+F:\淘宝上架源码\082 销客多3.4\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+F:\淘宝上架源码\082 销客多3.4\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+C:\Users\nsj\Desktop\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+C:\Users\nsj\Desktop\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Plugins\obj\Debug\Hishop.Plugins.csproj.CoreCompileInputs.cache
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+E:\软件打包\xkq34_src20160514 (1)\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+E:\软件打包\xkq34_src20160514 (1)\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+E:\软件打包\xkq34_src20160514 (1)\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+E:\软件打包\xkq34_src20160514 (1)\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb

@@ -1,0 +1,24 @@
+2019-06-18 08:34:26:当前微信模板类型：DistributorCreate,会员o1Adz0RgGBDoZEMzwPsVJcgLZzT8|分销商|
+---------------
+2019-06-18 08:34:26:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-06-18 16:08:32:当前模板类型：OrderCreate,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------
+2019-06-18 16:08:32:当前微信模板类型：OrderCreate,会员o1Adz0dA7pyJQzLxaIC25Vr8cs2g|分销商|
+---------------
+2019-06-18 16:09:04:当前微信模板类型：OrderPay,会员o1Adz0dA7pyJQzLxaIC25Vr8cs2g|分销商|
+---------------
+2019-06-18 16:09:04:当前模板类型：OrderPay,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------
+2019-06-18 17:29:38:当前微信模板类型：OrderDeliver,会员o1Adz0dA7pyJQzLxaIC25Vr8cs2g|分销商|
+---------------
+2019-06-18 17:29:38:当前模板类型：OrderDeliver,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------
+2019-06-18 21:31:26:当前模板类型：OrderCreate,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------
+2019-06-18 21:31:26:当前微信模板类型：OrderCreate,会员o1Adz0YELbmqLMbyXd_Kshk7Q9X8|分销商o1Adz0YELbmqLMbyXd_Kshk7Q9X8|
+---------------
+2019-06-18 21:33:03:当前微信模板类型：OrderPay,会员o1Adz0YELbmqLMbyXd_Kshk7Q9X8|分销商o1Adz0YELbmqLMbyXd_Kshk7Q9X8|
+---------------
+2019-06-18 21:33:03:当前模板类型：OrderPay,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------

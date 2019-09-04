@@ -1,0 +1,7 @@
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.AlipayFuwu.Api\bin\Release\Hishop.AlipayFuwu.Api.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.AlipayFuwu.Api\bin\Release\Hishop.AlipayFuwu.Api.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.AlipayFuwu.Api\bin\Release\AopSdk.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.AlipayFuwu.Api\bin\Release\Newtonsoft.Json.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.AlipayFuwu.Api\obj\Release\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.AlipayFuwu.Api\obj\Release\Hishop.AlipayFuwu.Api.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.AlipayFuwu.Api\obj\Release\Hishop.AlipayFuwu.Api.pdb

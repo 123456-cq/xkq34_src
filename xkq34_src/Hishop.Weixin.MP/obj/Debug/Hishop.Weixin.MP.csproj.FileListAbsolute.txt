@@ -1,0 +1,6 @@
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\obj\Debug\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\obj\Debug\Hishop.Weixin.MP.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\obj\Debug\Hishop.Weixin.MP.pdb

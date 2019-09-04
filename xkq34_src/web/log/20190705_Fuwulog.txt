@@ -1,0 +1,12 @@
+2019-07-05 09:37:17:当前微信模板类型：DistributorCreate,会员o1Adz0WcUHWLQymwgoW4ofUn8o1k|分销商|
+---------------
+2019-07-05 09:37:17:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-07-05 19:12:58:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-07-05 19:12:58:当前微信模板类型：DistributorCreate,会员o1Adz0Yb9CQ8KEaw2d-DTiAcZBzg|分销商|
+---------------
+2019-07-05 21:05:41:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-07-05 21:05:41:当前微信模板类型：DistributorCreate,会员o1Adz0SIFcQf2N-4bi3V_BZz9rVQ|分销商|
+---------------

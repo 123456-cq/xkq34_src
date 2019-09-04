@@ -1,0 +1,8 @@
+2019-02-20 14:56:24.675:[]
+---------------
+2019-02-20 14:56:24.675:启动计划任务失败：未能找到路径“C:\Users\Administrator\Desktop\developer\html\html\config\JobConfig.xml”的一部分。
+---------------
+2019-02-20 19:14:35.351:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2019-02-20 19:14:35.362:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
