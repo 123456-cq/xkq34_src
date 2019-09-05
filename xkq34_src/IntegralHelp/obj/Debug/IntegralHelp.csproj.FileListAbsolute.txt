@@ -1,8 +1,0 @@
-E:\软件打包\xkq34_src20160514 (1)\IntegralHelp\bin\Debug\IntegralHelp.dll
-E:\软件打包\xkq34_src20160514 (1)\IntegralHelp\bin\Debug\IntegralHelp.pdb
-E:\软件打包\xkq34_src20160514 (1)\IntegralHelp\obj\Debug\IntegralHelp.dll
-E:\软件打包\xkq34_src20160514 (1)\IntegralHelp\obj\Debug\IntegralHelp.pdb
-C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\IntegralHelp\bin\Debug\IntegralHelp.dll
-C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\IntegralHelp\bin\Debug\IntegralHelp.pdb
-C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\IntegralHelp\obj\Debug\IntegralHelp.dll
-C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\IntegralHelp\obj\Debug\IntegralHelp.pdb
