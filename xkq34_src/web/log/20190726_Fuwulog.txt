@@ -1,0 +1,16 @@
+2019-07-26 04:54:48:当前模板类型：ProductAsk,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-07-26 04:54:48:当前微信模板类型：ProductAsk,会员|分销商|
+---------------
+2019-07-26 08:41:23:当前微信模板类型：DistributorCreate,会员o1Adz0THZSbC9FKnC6OrCb8kLzis|分销商|
+---------------
+2019-07-26 08:41:23:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-07-26 15:31:52:当前模板类型：DrawCashReject,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-07-26 15:31:52:当前微信模板类型：DrawCashReject,会员o1Adz0aS5ApfxOWRtb1acS9J_NCc|分销商o1Adz0aS5ApfxOWRtb1acS9J_NCc|
+---------------
+2019-07-26 16:07:18:当前模板类型：OrderDeliver,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------
+2019-07-26 16:07:18:当前微信模板类型：OrderDeliver,会员o1Adz0T_w8Q6_aDiuY0HFn3W0jU4|分销商o1Adz0YELbmqLMbyXd_Kshk7Q9X8|
+---------------

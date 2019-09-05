@@ -1,0 +1,1 @@
+﻿<%@ WebHandler Language="C#" CodeBehind="IntegralHandler.ashx.cs" Class="Hidistro.UI.Web.API.IntegralHandler" %>

@@ -1,0 +1,28 @@
+2019-08-08 14:24:47.089:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2019-08-08 14:32:03.304:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2019-08-08 15:40:38.682:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2019-08-08 15:40:39.686:重启动Application_start失败！
+---------------
+2019-08-08 16:07:38.312:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2019-08-08 16:07:39.314:重启动Application_start失败！
+---------------
+2019-08-08 16:27:24.811:商品规格：False
+---------------
+2019-08-08 16:29:50.063:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2019-08-08 16:29:51.120:重启动Application_start失败！
+---------------
+2019-08-08 17:16:31.724:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2019-08-08 17:16:32.726:重启动Application_start失败！
+---------------
+2019-08-08 17:17:48.959:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2019-08-08 17:17:49.960:重启动Application_start失败！
+---------------
+2019-08-08 20:05:43.543:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
