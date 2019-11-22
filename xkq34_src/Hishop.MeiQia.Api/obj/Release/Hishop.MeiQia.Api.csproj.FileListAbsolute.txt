@@ -1,6 +1,0 @@
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.MeiQia.Api\bin\Release\Hishop.MeiQia.Api.dll
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.MeiQia.Api\bin\Release\Hishop.MeiQia.Api.pdb
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.MeiQia.Api\bin\Release\Newtonsoft.Json.dll
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.MeiQia.Api\obj\Release\ResolveAssemblyReference.cache
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.MeiQia.Api\obj\Release\Hishop.MeiQia.Api.dll
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.MeiQia.Api\obj\Release\Hishop.MeiQia.Api.pdb
