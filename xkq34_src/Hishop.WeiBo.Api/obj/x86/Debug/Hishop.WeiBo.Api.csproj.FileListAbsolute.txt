@@ -1,0 +1,60 @@
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Newtonsoft.Json.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.dll
+C:\Users\nsj\Desktop\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nsj\Desktop\xkq34_src\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
+C:\Users\nsj\Desktop\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
+C:\Users\nsj\Desktop\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Newtonsoft.Json.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.dll
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.pdb
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Newtonsoft.Json.dll
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.csprojAssemblyReference.cache
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.csproj.CoreCompileInputs.cache
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.csproj.CopyComplete
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
+E:\软件打包\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.dll
+E:\软件打包\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.pdb
+E:\软件打包\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Newtonsoft.Json.dll
+E:\软件打包\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
+E:\软件打包\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
+E:\软件打包\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.csprojResolveAssemblyReference.cache
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb

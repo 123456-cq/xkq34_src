@@ -1,0 +1,2096 @@
+2019-05-15 00:32:43.916:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 00:32:43.917:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 00:32:45.236:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001csvy91QOvoP1udOx91Yjxy91csvyc&state=STATE
+---------------
+2019-05-15 00:32:45.236:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001csvy91QOvoP1udOx91Yjxy91csvyc&state=STATE
+---------------
+2019-05-15 00:32:45.436:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001csvy91QOvoP1udOx91Yjxy91csvyc&state=STATE
+---------------
+2019-05-15 00:32:45.439:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001csvy91QOvoP1udOx91Yjxy91csvyc&state=STATE
+---------------
+2019-05-15 00:32:45.619:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001csvy91QOvoP1udOx91Yjxy91csvyc&state=STATE
+---------------
+2019-05-15 00:32:45.704:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001csvy91QOvoP1udOx91Yjxy91csvyc&state=STATE
+---------------
+2019-05-15 00:32:45.757:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001csvy91QOvoP1udOx91Yjxy91csvyc&state=STATE
+---------------
+2019-05-15 00:32:46.743:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001W2dRm00WyRk1IkXQm0gyRQm0W2dRp&state=STATE
+---------------
+2019-05-15 00:32:46.744:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001W2dRm00WyRk1IkXQm0gyRQm0W2dRp&state=STATE
+---------------
+2019-05-15 00:32:46.853:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001W2dRm00WyRk1IkXQm0gyRQm0W2dRp&state=STATE
+---------------
+2019-05-15 00:32:46.937:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001W2dRm00WyRk1IkXQm0gyRQm0W2dRp&state=STATE
+---------------
+2019-05-15 00:35:26.220:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 00:35:26.220:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 00:36:26.211:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 00:36:26.212:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 00:38:47.388:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductList.aspx?categoryId=1&ReferralId=0
+---------------
+2019-05-15 00:38:47.388:进入11，请求静默登录http://mail.beidoustar.net/ProductList.aspx?categoryId=1&ReferralId=0
+---------------
+2019-05-15 00:39:02.162:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/ShippingAddresses.aspx?ReferralId=0
+---------------
+2019-05-15 00:39:02.162:进入11，请求静默登录http://mail.beidoustar.net/Vshop/ShippingAddresses.aspx?ReferralId=0
+---------------
+2019-05-15 00:39:02.236:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/EditShippingAddress.aspx?ReferralId=0
+---------------
+2019-05-15 00:39:02.236:进入11，请求静默登录http://mail.beidoustar.net/Vshop/EditShippingAddress.aspx?ReferralId=0
+---------------
+2019-05-15 01:12:10.235:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=154&from=singlemessage
+---------------
+2019-05-15 01:12:10.235:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=154&from=singlemessage
+---------------
+2019-05-15 01:13:09.155:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=154&from=singlemessage
+---------------
+2019-05-15 01:13:09.155:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=154&from=singlemessage
+---------------
+2019-05-15 01:50:55.608:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 01:50:55.609:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 02:20:34.411:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/StorePromotion.aspx?UserID=                                2075&ReferralId=2165&from=singlemessage
+---------------
+2019-05-15 02:20:34.412:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/StorePromotion.aspx?UserID=                                2075&ReferralId=2165&from=singlemessage
+---------------
+2019-05-15 02:21:49.249:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=2165
+---------------
+2019-05-15 02:21:49.249:进入11，请求静默登录http://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=2165
+---------------
+2019-05-15 03:13:02.523:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 03:13:02.524:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 04:20:58.226:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 04:20:58.226:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 04:20:58.975:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071EgQun1IHnMq0zoZtn1tWPun1EgQuP&state=STATE
+---------------
+2019-05-15 04:20:58.976:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071EgQun1IHnMq0zoZtn1tWPun1EgQuP&state=STATE
+---------------
+2019-05-15 04:20:59.220:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071EgQun1IHnMq0zoZtn1tWPun1EgQuP&state=STATE
+---------------
+2019-05-15 04:20:59.228:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071EgQun1IHnMq0zoZtn1tWPun1EgQuP&state=STATE
+---------------
+2019-05-15 04:20:59.524:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071EgQun1IHnMq0zoZtn1tWPun1EgQuP&state=STATE
+---------------
+2019-05-15 04:20:59.617:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071EgQun1IHnMq0zoZtn1tWPun1EgQuP&state=STATE
+---------------
+2019-05-15 04:20:59.673:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071EgQun1IHnMq0zoZtn1tWPun1EgQuP&state=STATE
+---------------
+2019-05-15 04:21:00.402:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081BOnJ60MvjiD1NZhH60VjbJ60BOnJD&state=STATE
+---------------
+2019-05-15 04:21:00.402:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081BOnJ60MvjiD1NZhH60VjbJ60BOnJD&state=STATE
+---------------
+2019-05-15 04:21:00.525:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081BOnJ60MvjiD1NZhH60VjbJ60BOnJD&state=STATE
+---------------
+2019-05-15 04:21:00.639:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081BOnJ60MvjiD1NZhH60VjbJ60BOnJD&state=STATE
+---------------
+2019-05-15 04:54:24.636:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110
+---------------
+2019-05-15 04:54:24.636:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110
+---------------
+2019-05-15 04:55:24.228:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110
+---------------
+2019-05-15 04:55:24.228:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110
+---------------
+2019-05-15 05:33:27.183:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2123
+---------------
+2019-05-15 05:33:27.183:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2123
+---------------
+2019-05-15 05:34:26.996:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2123
+---------------
+2019-05-15 05:34:26.997:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2123
+---------------
+2019-05-15 05:39:22.457:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 05:39:22.458:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 05:45:23.330:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 05:45:23.331:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 05:48:53.164:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2875
+---------------
+2019-05-15 05:48:53.164:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2875
+---------------
+2019-05-15 05:49:53.010:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2875
+---------------
+2019-05-15 05:49:53.011:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2875
+---------------
+2019-05-15 06:07:55.964:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 06:07:55.964:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 06:09:38.193:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075
+---------------
+2019-05-15 06:09:38.193:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2075
+---------------
+2019-05-15 06:09:40.659:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075&code=011aKYAx0Z069c1XT8Cx0nUNAx0aKYAl&state=STATE
+---------------
+2019-05-15 06:09:40.660:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075&code=011aKYAx0Z069c1XT8Cx0nUNAx0aKYAl&state=STATE
+---------------
+2019-05-15 06:09:40.874:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075&code=011aKYAx0Z069c1XT8Cx0nUNAx0aKYAl&state=STATE
+---------------
+2019-05-15 06:10:37.899:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075
+---------------
+2019-05-15 06:10:37.899:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2075
+---------------
+2019-05-15 06:10:44.081:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2075
+---------------
+2019-05-15 06:10:44.081:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2075
+---------------
+2019-05-15 06:10:55.039:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=2075
+---------------
+2019-05-15 06:10:55.039:进入11，请求静默登录http://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=2075
+---------------
+2019-05-15 06:13:14.337:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2308&from=timeline
+---------------
+2019-05-15 06:13:14.337:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2308&from=timeline
+---------------
+2019-05-15 06:13:14.340:进入2，检测为匿名用户，并请求授权登录，去获得code参数http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2308&from=timeline
+---------------
+2019-05-15 06:13:15.369:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2308&from=timeline&code=001D9obY1aIrL01FLvbY14oJbY1D9obc&state=STATE
+---------------
+2019-05-15 06:13:15.552:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2308&from=timeline&code=001D9obY1aIrL01FLvbY14oJbY1D9obc&state=STATE
+---------------
+2019-05-15 06:13:19.848:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2308
+---------------
+2019-05-15 06:13:19.848:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2308
+---------------
+2019-05-15 06:13:19.851:进入2，检测为匿名用户，并请求授权登录，去获得code参数http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2308
+---------------
+2019-05-15 06:13:21.304:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2308&code=0812nzzV0StNn12kKMAV0ZKAzV02nzzz&state=STATE
+---------------
+2019-05-15 06:13:21.387:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2308&code=0812nzzV0StNn12kKMAV0ZKAzV02nzzz&state=STATE
+---------------
+2019-05-15 06:14:13.892:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2308&from=timeline
+---------------
+2019-05-15 06:14:13.893:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2308&from=timeline
+---------------
+2019-05-15 06:14:19.873:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2308
+---------------
+2019-05-15 06:14:19.873:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2308
+---------------
+2019-05-15 06:20:10.186:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2552
+---------------
+2019-05-15 06:20:10.186:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2552
+---------------
+2019-05-15 06:21:09.377:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2006
+---------------
+2019-05-15 06:21:09.378:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2006
+---------------
+2019-05-15 06:21:09.895:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2552
+---------------
+2019-05-15 06:21:09.895:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2552
+---------------
+2019-05-15 06:21:33.952:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 06:21:33.952:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 06:34:12.862:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1962
+---------------
+2019-05-15 06:34:12.863:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=1962
+---------------
+2019-05-15 06:34:13.787:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1962&code=001Xma6U1Mz60Y0yrz6U1Jw96U1Xma6D&state=STATE
+---------------
+2019-05-15 06:34:13.787:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=1962&code=001Xma6U1Mz60Y0yrz6U1Jw96U1Xma6D&state=STATE
+---------------
+2019-05-15 06:34:14.005:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=1962&code=001Xma6U1Mz60Y0yrz6U1Jw96U1Xma6D&state=STATE
+---------------
+2019-05-15 06:34:53.526:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1962
+---------------
+2019-05-15 06:34:53.527:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=1962
+---------------
+2019-05-15 06:34:54.343:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1962&code=021wwbYt1kdAJf0AHyYt12b6Yt1wwbYr&state=STATE
+---------------
+2019-05-15 06:34:54.344:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=1962&code=021wwbYt1kdAJf0AHyYt12b6Yt1wwbYr&state=STATE
+---------------
+2019-05-15 06:34:54.429:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=1962&code=021wwbYt1kdAJf0AHyYt12b6Yt1wwbYr&state=STATE
+---------------
+2019-05-15 06:35:12.875:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1962
+---------------
+2019-05-15 06:35:12.876:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=1962
+---------------
+2019-05-15 06:35:18.954:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=1962
+---------------
+2019-05-15 06:35:18.955:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=1962
+---------------
+2019-05-15 06:35:37.027:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=1962
+---------------
+2019-05-15 06:35:37.027:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=1962
+---------------
+2019-05-15 06:35:37.060:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=1962
+---------------
+2019-05-15 06:35:37.060:进入11，请求静默登录http://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=1962
+---------------
+2019-05-15 06:35:43.927:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorOrders.aspx?ReferralId=1962
+---------------
+2019-05-15 06:35:43.927:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorOrders.aspx?ReferralId=1962
+---------------
+2019-05-15 06:58:48.312:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2966
+---------------
+2019-05-15 06:58:48.312:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2966
+---------------
+2019-05-15 06:59:47.999:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2966
+---------------
+2019-05-15 06:59:47.999:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2966
+---------------
+2019-05-15 07:02:47.001:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 07:02:47.001:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 08:31:14.993:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 08:31:14.993:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 08:34:37.825:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=6296
+---------------
+2019-05-15 08:34:37.825:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=6296
+---------------
+2019-05-15 08:35:38.231:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=6296
+---------------
+2019-05-15 08:35:38.231:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=6296
+---------------
+2019-05-15 08:39:58.165:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 08:39:58.165:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 08:42:14.795:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductList.aspx?categoryId=1&ReferralId=4884
+---------------
+2019-05-15 08:42:14.795:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/ProductList.aspx?categoryId=1&ReferralId=4884
+---------------
+2019-05-15 08:42:57.140:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=5059
+---------------
+2019-05-15 08:42:57.141:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=5059
+---------------
+2019-05-15 08:43:18.200:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=4884
+---------------
+2019-05-15 08:43:18.200:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=4884
+---------------
+2019-05-15 08:43:18.272:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=4884
+---------------
+2019-05-15 08:43:18.273:进入11，请求静默登录http://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=4884
+---------------
+2019-05-15 08:43:20.871:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=4884
+---------------
+2019-05-15 08:43:20.872:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=4884
+---------------
+2019-05-15 08:44:05.247:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=5059
+---------------
+2019-05-15 08:44:05.247:进入11，请求静默登录http://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=5059
+---------------
+2019-05-15 08:44:32.197:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/EditShippingAddress.aspx?ReferralId=5059
+---------------
+2019-05-15 08:44:32.198:进入11，请求静默登录http://mail.beidoustar.net/Vshop/EditShippingAddress.aspx?ReferralId=5059
+---------------
+2019-05-15 08:44:32.278:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/ShippingAddresses.aspx?ReferralId=5059
+---------------
+2019-05-15 08:44:32.279:进入11，请求静默登录http://mail.beidoustar.net/Vshop/ShippingAddresses.aspx?ReferralId=5059
+---------------
+2019-05-15 08:45:49.255:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/NineImages.aspx?ReferralId=5059
+---------------
+2019-05-15 08:45:49.255:进入11，请求静默登录http://mail.beidoustar.net/Vshop/NineImages.aspx?ReferralId=5059
+---------------
+2019-05-15 08:45:52.498:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/FriendsCircle.aspx?ReferralId=5059
+---------------
+2019-05-15 08:45:52.498:进入11，请求静默登录http://mail.beidoustar.net/Vshop/FriendsCircle.aspx?ReferralId=5059
+---------------
+2019-05-15 08:46:38.368:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/StoreCard.aspx?userId=5059&ReferralId=5059
+---------------
+2019-05-15 08:46:38.368:进入11，请求静默登录http://mail.beidoustar.net/Vshop/StoreCard.aspx?userId=5059&ReferralId=5059
+---------------
+2019-05-15 08:51:20.665:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/StoreCard.aspx?userId=4884&ReferralId=4884
+---------------
+2019-05-15 08:51:20.665:进入11，请求静默登录http://mail.beidoustar.net/Vshop/StoreCard.aspx?userId=4884&ReferralId=4884
+---------------
+2019-05-15 08:54:29.851:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 08:54:29.851:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 09:06:10.731:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110
+---------------
+2019-05-15 09:06:10.731:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110
+---------------
+2019-05-15 09:06:11.708:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110&code=001tyKum1cpcLp0AHhum1qcHum1tyKuc&state=STATE
+---------------
+2019-05-15 09:06:11.708:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110&code=001tyKum1cpcLp0AHhum1qcHum1tyKuc&state=STATE
+---------------
+2019-05-15 09:06:11.898:获取到access_tokenhttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110&code=001tyKum1cpcLp0AHhum1qcHum1tyKuc&state=STATE
+---------------
+2019-05-15 09:06:12.462:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110&code=001JFgim0u9Hes127fjm0Kztim0JFgiU&state=STATE
+---------------
+2019-05-15 09:06:12.463:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110&code=001JFgim0u9Hes127fjm0Kztim0JFgiU&state=STATE
+---------------
+2019-05-15 09:06:12.544:获取到access_tokenhttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2110&code=001JFgim0u9Hes127fjm0Kztim0JFgiU&state=STATE
+---------------
+2019-05-15 09:31:14.460:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=0
+---------------
+2019-05-15 09:31:14.460:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=0
+---------------
+2019-05-15 09:31:14.463:进入2，检测为匿名用户，并请求授权登录，去获得code参数http://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=0
+---------------
+2019-05-15 09:31:14.788:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=0&code=011ZvfUi2nZLuB0aDFSi2KWlUi2ZvfUR&state=STATE
+---------------
+2019-05-15 09:31:14.789:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=0&code=011ZvfUi2nZLuB0aDFSi2KWlUi2ZvfUR&state=STATE
+---------------
+2019-05-15 09:31:15.034:进入5，准备获取到基本信息http://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=0&code=011ZvfUi2nZLuB0aDFSi2KWlUi2ZvfUR&state=STATE
+---------------
+2019-05-15 09:31:15.147:进入16，获取到基本信息http://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=0&code=011ZvfUi2nZLuB0aDFSi2KWlUi2ZvfUR&state=STATE
+---------------
+2019-05-15 09:32:30.413:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=17&ReferralId=0
+---------------
+2019-05-15 09:32:30.414:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=17&ReferralId=0
+---------------
+2019-05-15 09:46:57.718:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=5364
+---------------
+2019-05-15 09:46:57.718:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=5364
+---------------
+2019-05-15 09:46:58.683:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=081c44VZ0ekyIW1Aq8WZ0kQaVZ0c44Vk&state=STATE
+---------------
+2019-05-15 09:46:58.683:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=081c44VZ0ekyIW1Aq8WZ0kQaVZ0c44Vk&state=STATE
+---------------
+2019-05-15 09:46:58.891:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=081c44VZ0ekyIW1Aq8WZ0kQaVZ0c44Vk&state=STATE
+---------------
+2019-05-15 09:46:58.895:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=081c44VZ0ekyIW1Aq8WZ0kQaVZ0c44Vk&state=STATE
+---------------
+2019-05-15 09:46:59.398:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=081c44VZ0ekyIW1Aq8WZ0kQaVZ0c44Vk&state=STATE
+---------------
+2019-05-15 09:46:59.477:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=081c44VZ0ekyIW1Aq8WZ0kQaVZ0c44Vk&state=STATE
+---------------
+2019-05-15 09:46:59.531:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=081c44VZ0ekyIW1Aq8WZ0kQaVZ0c44Vk&state=STATE
+---------------
+2019-05-15 09:47:06.601:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=5364
+---------------
+2019-05-15 09:47:06.601:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=5364
+---------------
+2019-05-15 09:47:06.605:进入2，检测为匿名用户，并请求授权登录，去获得code参数http://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=5364
+---------------
+2019-05-15 09:47:57.149:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=5364
+---------------
+2019-05-15 09:47:57.149:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=5364
+---------------
+2019-05-15 09:48:06.187:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=5364
+---------------
+2019-05-15 09:48:06.188:进入11，请求静默登录http://mail.beidoustar.net/UserLogining.aspx?returnUrl=http://mail.beidoustar.net/default.aspx?ReferralId=5364
+---------------
+2019-05-15 10:36:05.370:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=3860
+---------------
+2019-05-15 10:36:05.371:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=3860
+---------------
+2019-05-15 10:36:28.812:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 10:36:28.813:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 10:37:02.073:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 10:37:02.073:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 10:37:02.977:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011qLrLz1GaScc0vsULz13AuLz1qLrLU&state=STATE
+---------------
+2019-05-15 10:37:02.977:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011qLrLz1GaScc0vsULz13AuLz1qLrLU&state=STATE
+---------------
+2019-05-15 10:37:03.216:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011qLrLz1GaScc0vsULz13AuLz1qLrLU&state=STATE
+---------------
+2019-05-15 10:37:03.219:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011qLrLz1GaScc0vsULz13AuLz1qLrLU&state=STATE
+---------------
+2019-05-15 10:37:03.429:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011qLrLz1GaScc0vsULz13AuLz1qLrLU&state=STATE
+---------------
+2019-05-15 10:37:03.513:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011qLrLz1GaScc0vsULz13AuLz1qLrLU&state=STATE
+---------------
+2019-05-15 10:37:03.585:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011qLrLz1GaScc0vsULz13AuLz1qLrLU&state=STATE
+---------------
+2019-05-15 10:37:04.482:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081IC1xB11xXZc0h0rwB1HoKwB1IC1x2&state=STATE
+---------------
+2019-05-15 10:37:04.482:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081IC1xB11xXZc0h0rwB1HoKwB1IC1x2&state=STATE
+---------------
+2019-05-15 10:37:04.584:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081IC1xB11xXZc0h0rwB1HoKwB1IC1x2&state=STATE
+---------------
+2019-05-15 10:37:04.688:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081IC1xB11xXZc0h0rwB1HoKwB1IC1x2&state=STATE
+---------------
+2019-05-15 11:06:16.680:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 11:06:16.680:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 11:06:17.183:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001tXOWl0roDks1aG1Yl02LEWl0tXOWa&state=STATE
+---------------
+2019-05-15 11:06:17.183:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001tXOWl0roDks1aG1Yl02LEWl0tXOWa&state=STATE
+---------------
+2019-05-15 11:06:17.397:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001tXOWl0roDks1aG1Yl02LEWl0tXOWa&state=STATE
+---------------
+2019-05-15 11:06:17.401:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001tXOWl0roDks1aG1Yl02LEWl0tXOWa&state=STATE
+---------------
+2019-05-15 11:06:17.687:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001tXOWl0roDks1aG1Yl02LEWl0tXOWa&state=STATE
+---------------
+2019-05-15 11:06:17.769:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001tXOWl0roDks1aG1Yl02LEWl0tXOWa&state=STATE
+---------------
+2019-05-15 11:06:17.825:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001tXOWl0roDks1aG1Yl02LEWl0tXOWa&state=STATE
+---------------
+2019-05-15 11:06:18.224:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011k4hQj0XzR8q1ugOOj0FbxQj0k4hQW&state=STATE
+---------------
+2019-05-15 11:06:18.225:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011k4hQj0XzR8q1ugOOj0FbxQj0k4hQW&state=STATE
+---------------
+2019-05-15 11:06:18.581:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011k4hQj0XzR8q1ugOOj0FbxQj0k4hQW&state=STATE
+---------------
+2019-05-15 11:06:18.689:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011k4hQj0XzR8q1ugOOj0FbxQj0k4hQW&state=STATE
+---------------
+2019-05-15 11:08:06.431:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=0
+---------------
+2019-05-15 11:08:06.431:进入11，请求静默登录http://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=0
+---------------
+2019-05-15 11:51:26.366:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:51:26.366:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:51:26.369:进入2，检测为匿名用户，并请求授权登录，去获得code参数http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:51:26.480:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:51:26.480:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:51:26.483:进入2，检测为匿名用户，并请求授权登录，去获得code参数http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:51:48.404:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2063&code=061XDUVL1rgga617xoXL1P9RVL1XDUV8&state=STATE
+---------------
+2019-05-15 11:51:48.609:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2063&code=061XDUVL1rgga617xoXL1P9RVL1XDUV8&state=STATE
+---------------
+2019-05-15 11:51:51.744:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:51:51.745:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:51:51.748:进入2，检测为匿名用户，并请求授权登录，去获得code参数http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:51:58.625:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2063&code=061Nxxsg2CFWLI0arVtg2LXDsg2Nxxsa&state=STATE
+---------------
+2019-05-15 11:51:58.687:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2063&code=061Nxxsg2CFWLI0arVtg2LXDsg2Nxxsa&state=STATE
+---------------
+2019-05-15 11:52:26.156:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2006
+---------------
+2019-05-15 11:52:26.157:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2006
+---------------
+2019-05-15 11:52:26.259:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:52:26.259:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:52:51.267:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 11:52:51.268:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2063
+---------------
+2019-05-15 12:13:49.195:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/StorePromotion.aspx?UserID=                                2075&ReferralId=2165&from=singlemessage
+---------------
+2019-05-15 12:13:49.195:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/StorePromotion.aspx?UserID=                                2075&ReferralId=2165&from=singlemessage
+---------------
+2019-05-15 12:14:11.401:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=5364
+---------------
+2019-05-15 12:14:11.402:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=5364
+---------------
+2019-05-15 12:14:12.306:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=001fquGf0qz51u1ulDJf0g5uGf0fquGU&state=STATE
+---------------
+2019-05-15 12:14:12.307:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=001fquGf0qz51u1ulDJf0g5uGf0fquGU&state=STATE
+---------------
+2019-05-15 12:14:12.540:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=001fquGf0qz51u1ulDJf0g5uGf0fquGU&state=STATE
+---------------
+2019-05-15 12:14:12.543:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=001fquGf0qz51u1ulDJf0g5uGf0fquGU&state=STATE
+---------------
+2019-05-15 12:14:12.964:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=001fquGf0qz51u1ulDJf0g5uGf0fquGU&state=STATE
+---------------
+2019-05-15 12:14:13.054:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=001fquGf0qz51u1ulDJf0g5uGf0fquGU&state=STATE
+---------------
+2019-05-15 12:14:13.112:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=001fquGf0qz51u1ulDJf0g5uGf0fquGU&state=STATE
+---------------
+2019-05-15 12:14:28.215:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=0819iK6i0y7dqw1wkh6i08Oz6i09iK6k&state=STATE
+---------------
+2019-05-15 12:14:28.215:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=0819iK6i0y7dqw1wkh6i08Oz6i09iK6k&state=STATE
+---------------
+2019-05-15 12:14:28.341:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=0819iK6i0y7dqw1wkh6i08Oz6i09iK6k&state=STATE
+---------------
+2019-05-15 12:14:28.448:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=5364&code=0819iK6i0y7dqw1wkh6i08Oz6i09iK6k&state=STATE
+---------------
+2019-05-15 12:21:13.577:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2165
+---------------
+2019-05-15 12:21:13.578:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2165
+---------------
+2019-05-15 12:21:13.955:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2165&code=0011y37d08WpaB1cgB6d0Xvo7d01y37C&state=STATE
+---------------
+2019-05-15 12:21:13.955:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2165&code=0011y37d08WpaB1cgB6d0Xvo7d01y37C&state=STATE
+---------------
+2019-05-15 12:21:14.209:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2165&code=0011y37d08WpaB1cgB6d0Xvo7d01y37C&state=STATE
+---------------
+2019-05-15 12:21:14.212:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2165&code=0011y37d08WpaB1cgB6d0Xvo7d01y37C&state=STATE
+---------------
+2019-05-15 12:21:14.671:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2165&code=0011y37d08WpaB1cgB6d0Xvo7d01y37C&state=STATE
+---------------
+2019-05-15 12:21:14.770:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2165&code=0011y37d08WpaB1cgB6d0Xvo7d01y37C&state=STATE
+---------------
+2019-05-15 12:21:14.837:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2165&code=0011y37d08WpaB1cgB6d0Xvo7d01y37C&state=STATE
+---------------
+2019-05-15 12:29:44.421:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/UserInfo.aspx?edit=true&ReferralId=5364
+---------------
+2019-05-15 12:29:44.422:进入11，请求静默登录http://mail.beidoustar.net/Vshop/UserInfo.aspx?edit=true&ReferralId=5364
+---------------
+2019-05-15 12:44:46.176:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2165
+---------------
+2019-05-15 12:44:46.176:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2165
+---------------
+2019-05-15 13:27:26.201:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 13:27:26.202:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 13:36:42.650:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 13:36:42.650:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 13:37:43.309:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 13:37:43.310:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 13:38:02.446:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/vshop/UserInfo.aspx?ReferralId=0
+---------------
+2019-05-15 13:38:02.446:进入11，请求静默登录http://mail.beidoustar.net/vshop/UserInfo.aspx?ReferralId=0
+---------------
+2019-05-15 13:38:57.000:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/notice.aspx?ReferralId=0
+---------------
+2019-05-15 13:38:57.001:进入11，请求静默登录http://mail.beidoustar.net/Vshop/notice.aspx?ReferralId=0
+---------------
+2019-05-15 13:46:50.033:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 13:46:50.034:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 13:46:50.502:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011AMnQb00FNrA13vmQb0q6tQb0AMnQS&state=STATE
+---------------
+2019-05-15 13:46:50.503:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011AMnQb00FNrA13vmQb0q6tQb0AMnQS&state=STATE
+---------------
+2019-05-15 13:46:50.734:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011AMnQb00FNrA13vmQb0q6tQb0AMnQS&state=STATE
+---------------
+2019-05-15 13:46:50.738:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011AMnQb00FNrA13vmQb0q6tQb0AMnQS&state=STATE
+---------------
+2019-05-15 13:46:50.936:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011AMnQb00FNrA13vmQb0q6tQb0AMnQS&state=STATE
+---------------
+2019-05-15 13:46:51.030:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011AMnQb00FNrA13vmQb0q6tQb0AMnQS&state=STATE
+---------------
+2019-05-15 13:46:51.087:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011AMnQb00FNrA13vmQb0q6tQb0AMnQS&state=STATE
+---------------
+2019-05-15 13:46:51.640:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071jDviO1oH8F81NociO1MsjiO1jDvin&state=STATE
+---------------
+2019-05-15 13:46:51.641:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071jDviO1oH8F81NociO1MsjiO1jDvin&state=STATE
+---------------
+2019-05-15 13:46:51.746:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071jDviO1oH8F81NociO1MsjiO1jDvin&state=STATE
+---------------
+2019-05-15 13:46:51.851:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071jDviO1oH8F81NociO1MsjiO1jDvin&state=STATE
+---------------
+2019-05-15 13:48:39.478:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=16&ReferralId=0
+---------------
+2019-05-15 13:48:39.479:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=16&ReferralId=0
+---------------
+2019-05-15 13:54:26.325:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberOrders.aspx?ReferralId=0
+---------------
+2019-05-15 13:54:26.326:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberOrders.aspx?ReferralId=0
+---------------
+2019-05-15 13:54:31.340:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberOrders.aspx?status=2&ReferralId=0
+---------------
+2019-05-15 13:54:31.340:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberOrders.aspx?status=2&ReferralId=0
+---------------
+2019-05-15 13:54:58.300:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/AddShippingAddress.aspx?returnUrl=http://mail.beidoustar.net/Vshop/SubmmitOrder.aspx?ReferralId=0
+---------------
+2019-05-15 13:54:58.300:进入11，请求静默登录http://mail.beidoustar.net/Vshop/AddShippingAddress.aspx?returnUrl=http://mail.beidoustar.net/Vshop/SubmmitOrder.aspx?ReferralId=0
+---------------
+2019-05-15 13:54:58.932:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/SubmmitOrder.aspx?ReferralId=0
+---------------
+2019-05-15 13:54:58.933:进入11，请求静默登录http://mail.beidoustar.net/Vshop/SubmmitOrder.aspx?ReferralId=0
+---------------
+2019-05-15 14:21:11.061:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 14:21:11.062:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 14:21:11.902:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081h06Oe2WcJPH0uMdPe2DRVNe2h06Oa&state=STATE
+---------------
+2019-05-15 14:21:11.902:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081h06Oe2WcJPH0uMdPe2DRVNe2h06Oa&state=STATE
+---------------
+2019-05-15 14:21:12.006:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081h06Oe2WcJPH0uMdPe2DRVNe2h06Oa&state=STATE
+---------------
+2019-05-15 14:21:12.009:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081h06Oe2WcJPH0uMdPe2DRVNe2h06Oa&state=STATE
+---------------
+2019-05-15 14:21:12.228:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081h06Oe2WcJPH0uMdPe2DRVNe2h06Oa&state=STATE
+---------------
+2019-05-15 14:21:12.301:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081h06Oe2WcJPH0uMdPe2DRVNe2h06Oa&state=STATE
+---------------
+2019-05-15 14:21:12.359:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081h06Oe2WcJPH0uMdPe2DRVNe2h06Oa&state=STATE
+---------------
+2019-05-15 14:21:14.672:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011QFkwv0OSRIi1cxKwv0Cjrwv0QFkwg&state=STATE
+---------------
+2019-05-15 14:21:14.673:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011QFkwv0OSRIi1cxKwv0Cjrwv0QFkwg&state=STATE
+---------------
+2019-05-15 14:21:14.771:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011QFkwv0OSRIi1cxKwv0Cjrwv0QFkwg&state=STATE
+---------------
+2019-05-15 14:21:14.869:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011QFkwv0OSRIi1cxKwv0Cjrwv0QFkwg&state=STATE
+---------------
+2019-05-15 14:21:18.781:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2075
+---------------
+2019-05-15 14:21:18.782:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2075
+---------------
+2019-05-15 14:22:18.258:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2075
+---------------
+2019-05-15 14:22:18.258:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2075
+---------------
+2019-05-15 14:23:21.561:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=3
+---------------
+2019-05-15 14:23:21.562:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=3
+---------------
+2019-05-15 14:25:26.314:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/SubmmitOrder.aspx?buyAmount=1&productSku=7_4&limitedTimeDiscountId=0&from=signBuy&ReferralId=0
+---------------
+2019-05-15 14:25:26.315:进入11，请求静默登录http://mail.beidoustar.net/Vshop/SubmmitOrder.aspx?buyAmount=1&productSku=7_4&limitedTimeDiscountId=0&from=signBuy&ReferralId=0
+---------------
+2019-05-15 15:11:40.966:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 15:11:40.967:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 15:11:40.970:进入2，检测为匿名用户，并请求授权登录，去获得code参数http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2019-05-15 15:11:42.180:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0&code=071TzSei1sI61u0dvAci1WqTei1TzSej&state=STATE
+---------------
+2019-05-15 15:11:42.249:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=0&code=071TzSei1sI61u0dvAci1WqTei1TzSej&state=STATE
+---------------
+2019-05-15 15:36:25.465:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductList.aspx?categoryId=1&ReferralId=0
+---------------
+2019-05-15 15:36:25.466:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/ProductList.aspx?categoryId=1&ReferralId=0
+---------------
+2019-05-15 16:07:28.937:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0
+---------------
+2019-05-15 16:07:28.938:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0
+---------------
+2019-05-15 16:08:31.426:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:08:31.427:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:08:32.126:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011Xrb1Y0VWf7U1AZ91Y07uq1Y0Xrb1B&state=STATE
+---------------
+2019-05-15 16:08:32.126:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011Xrb1Y0VWf7U1AZ91Y07uq1Y0Xrb1B&state=STATE
+---------------
+2019-05-15 16:08:32.261:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011Xrb1Y0VWf7U1AZ91Y07uq1Y0Xrb1B&state=STATE
+---------------
+2019-05-15 16:08:32.265:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011Xrb1Y0VWf7U1AZ91Y07uq1Y0Xrb1B&state=STATE
+---------------
+2019-05-15 16:08:32.496:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011Xrb1Y0VWf7U1AZ91Y07uq1Y0Xrb1B&state=STATE
+---------------
+2019-05-15 16:08:32.590:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011Xrb1Y0VWf7U1AZ91Y07uq1Y0Xrb1B&state=STATE
+---------------
+2019-05-15 16:08:32.658:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011Xrb1Y0VWf7U1AZ91Y07uq1Y0Xrb1B&state=STATE
+---------------
+2019-05-15 16:08:34.812:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081HOwfB1ywlhd0FS3gB1scafB1HOwfz&state=STATE
+---------------
+2019-05-15 16:08:34.812:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081HOwfB1ywlhd0FS3gB1scafB1HOwfz&state=STATE
+---------------
+2019-05-15 16:08:34.924:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081HOwfB1ywlhd0FS3gB1scafB1HOwfz&state=STATE
+---------------
+2019-05-15 16:08:35.025:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081HOwfB1ywlhd0FS3gB1scafB1HOwfz&state=STATE
+---------------
+2019-05-15 16:11:53.527:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:11:53.528:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:11:54.255:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081tOAal0BJE7r1Pioal0OGdal0tOAax&state=STATE
+---------------
+2019-05-15 16:11:54.256:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081tOAal0BJE7r1Pioal0OGdal0tOAax&state=STATE
+---------------
+2019-05-15 16:11:54.365:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081tOAal0BJE7r1Pioal0OGdal0tOAax&state=STATE
+---------------
+2019-05-15 16:11:54.369:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081tOAal0BJE7r1Pioal0OGdal0tOAax&state=STATE
+---------------
+2019-05-15 16:11:54.563:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081tOAal0BJE7r1Pioal0OGdal0tOAax&state=STATE
+---------------
+2019-05-15 16:11:54.643:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081tOAal0BJE7r1Pioal0OGdal0tOAax&state=STATE
+---------------
+2019-05-15 16:11:54.701:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081tOAal0BJE7r1Pioal0OGdal0tOAax&state=STATE
+---------------
+2019-05-15 16:11:57.529:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001pcadx10L62h0Jheex1cvPcx1pcadj&state=STATE
+---------------
+2019-05-15 16:11:57.530:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001pcadx10L62h0Jheex1cvPcx1pcadj&state=STATE
+---------------
+2019-05-15 16:11:57.644:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001pcadx10L62h0Jheex1cvPcx1pcadj&state=STATE
+---------------
+2019-05-15 16:11:57.746:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001pcadx10L62h0Jheex1cvPcx1pcadj&state=STATE
+---------------
+2019-05-15 16:13:22.930:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:13:22.931:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:13:23.759:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0811ZRJ32cCkmO0dH6M32AEMJ321ZRJB&state=STATE
+---------------
+2019-05-15 16:13:23.759:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0811ZRJ32cCkmO0dH6M32AEMJ321ZRJB&state=STATE
+---------------
+2019-05-15 16:13:23.888:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0811ZRJ32cCkmO0dH6M32AEMJ321ZRJB&state=STATE
+---------------
+2019-05-15 16:13:23.891:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0811ZRJ32cCkmO0dH6M32AEMJ321ZRJB&state=STATE
+---------------
+2019-05-15 16:13:24.100:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0811ZRJ32cCkmO0dH6M32AEMJ321ZRJB&state=STATE
+---------------
+2019-05-15 16:13:24.196:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0811ZRJ32cCkmO0dH6M32AEMJ321ZRJB&state=STATE
+---------------
+2019-05-15 16:13:24.260:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0811ZRJ32cCkmO0dH6M32AEMJ321ZRJB&state=STATE
+---------------
+2019-05-15 16:13:26.681:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071wsk2Z06HDkV1K4J5Z0J8B2Z0wsk2S&state=STATE
+---------------
+2019-05-15 16:13:26.681:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071wsk2Z06HDkV1K4J5Z0J8B2Z0wsk2S&state=STATE
+---------------
+2019-05-15 16:13:26.810:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071wsk2Z06HDkV1K4J5Z0J8B2Z0wsk2S&state=STATE
+---------------
+2019-05-15 16:13:26.923:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071wsk2Z06HDkV1K4J5Z0J8B2Z0wsk2S&state=STATE
+---------------
+2019-05-15 16:14:12.195:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:14:12.195:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:14:12.924:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001DV6611nhpOX1T2r911ufm611DV66d&state=STATE
+---------------
+2019-05-15 16:14:12.924:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001DV6611nhpOX1T2r911ufm611DV66d&state=STATE
+---------------
+2019-05-15 16:14:13.049:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001DV6611nhpOX1T2r911ufm611DV66d&state=STATE
+---------------
+2019-05-15 16:14:13.052:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001DV6611nhpOX1T2r911ufm611DV66d&state=STATE
+---------------
+2019-05-15 16:14:13.251:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001DV6611nhpOX1T2r911ufm611DV66d&state=STATE
+---------------
+2019-05-15 16:14:13.346:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001DV6611nhpOX1T2r911ufm611DV66d&state=STATE
+---------------
+2019-05-15 16:14:13.399:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001DV6611nhpOX1T2r911ufm611DV66d&state=STATE
+---------------
+2019-05-15 16:14:15.084:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0714TgdC0Tmiri2gj0dC06jrdC04TgdQ&state=STATE
+---------------
+2019-05-15 16:14:15.084:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0714TgdC0Tmiri2gj0dC06jrdC04TgdQ&state=STATE
+---------------
+2019-05-15 16:14:15.184:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0714TgdC0Tmiri2gj0dC06jrdC04TgdQ&state=STATE
+---------------
+2019-05-15 16:14:15.290:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0714TgdC0Tmiri2gj0dC06jrdC04TgdQ&state=STATE
+---------------
+2019-05-15 16:15:24.877:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:15:24.877:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:15:26.523:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0219aQAH1cmS620DcqEH1Ke7BH19aQAd&state=STATE
+---------------
+2019-05-15 16:15:26.523:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0219aQAH1cmS620DcqEH1Ke7BH19aQAd&state=STATE
+---------------
+2019-05-15 16:15:26.634:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0219aQAH1cmS620DcqEH1Ke7BH19aQAd&state=STATE
+---------------
+2019-05-15 16:15:26.637:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0219aQAH1cmS620DcqEH1Ke7BH19aQAd&state=STATE
+---------------
+2019-05-15 16:15:26.829:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0219aQAH1cmS620DcqEH1Ke7BH19aQAd&state=STATE
+---------------
+2019-05-15 16:15:26.921:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0219aQAH1cmS620DcqEH1Ke7BH19aQAd&state=STATE
+---------------
+2019-05-15 16:15:26.970:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0219aQAH1cmS620DcqEH1Ke7BH19aQAd&state=STATE
+---------------
+2019-05-15 16:15:34.382:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=061lUYH82ULMFJ0B3dL82EhCH82lUYHD&state=STATE
+---------------
+2019-05-15 16:15:34.383:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=061lUYH82ULMFJ0B3dL82EhCH82lUYHD&state=STATE
+---------------
+2019-05-15 16:15:34.495:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=061lUYH82ULMFJ0B3dL82EhCH82lUYHD&state=STATE
+---------------
+2019-05-15 16:15:34.617:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=061lUYH82ULMFJ0B3dL82EhCH82lUYHD&state=STATE
+---------------
+2019-05-15 16:15:38.028:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 16:15:38.028:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 16:15:39.212:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071USVTi1ohllv0AigXi1WMbUi1USVTR&state=STATE
+---------------
+2019-05-15 16:15:39.212:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071USVTi1ohllv0AigXi1WMbUi1USVTR&state=STATE
+---------------
+2019-05-15 16:15:39.318:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071USVTi1ohllv0AigXi1WMbUi1USVTR&state=STATE
+---------------
+2019-05-15 16:15:39.322:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071USVTi1ohllv0AigXi1WMbUi1USVTR&state=STATE
+---------------
+2019-05-15 16:15:39.768:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071USVTi1ohllv0AigXi1WMbUi1USVTR&state=STATE
+---------------
+2019-05-15 16:15:39.855:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071USVTi1ohllv0AigXi1WMbUi1USVTR&state=STATE
+---------------
+2019-05-15 16:15:39.912:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071USVTi1ohllv0AigXi1WMbUi1USVTR&state=STATE
+---------------
+2019-05-15 16:15:46.567:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=07133Yb015WYtW1Sv0d01lZZb0133YbW&state=STATE
+---------------
+2019-05-15 16:15:46.568:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=07133Yb015WYtW1Sv0d01lZZb0133YbW&state=STATE
+---------------
+2019-05-15 16:15:46.675:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=07133Yb015WYtW1Sv0d01lZZb0133YbW&state=STATE
+---------------
+2019-05-15 16:15:46.772:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=07133Yb015WYtW1Sv0d01lZZb0133YbW&state=STATE
+---------------
+2019-05-15 16:15:50.218:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0
+---------------
+2019-05-15 16:15:50.218:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0
+---------------
+2019-05-15 16:16:10.109:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 16:16:10.109:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 16:16:11.229:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071zSwcP0btva524D0cP07KMcP0zSwc0&state=STATE
+---------------
+2019-05-15 16:16:11.230:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071zSwcP0btva524D0cP07KMcP0zSwc0&state=STATE
+---------------
+2019-05-15 16:16:11.348:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071zSwcP0btva524D0cP07KMcP0zSwc0&state=STATE
+---------------
+2019-05-15 16:16:11.351:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071zSwcP0btva524D0cP07KMcP0zSwc0&state=STATE
+---------------
+2019-05-15 16:16:11.798:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071zSwcP0btva524D0cP07KMcP0zSwc0&state=STATE
+---------------
+2019-05-15 16:16:11.875:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071zSwcP0btva524D0cP07KMcP0zSwc0&state=STATE
+---------------
+2019-05-15 16:16:11.933:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071zSwcP0btva524D0cP07KMcP0zSwc0&state=STATE
+---------------
+2019-05-15 16:16:16.908:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001XpwhZ1PDSQS0WAxkZ132zhZ1Xpwh9&state=STATE
+---------------
+2019-05-15 16:16:16.908:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001XpwhZ1PDSQS0WAxkZ132zhZ1Xpwh9&state=STATE
+---------------
+2019-05-15 16:16:17.017:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001XpwhZ1PDSQS0WAxkZ132zhZ1Xpwh9&state=STATE
+---------------
+2019-05-15 16:16:17.121:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001XpwhZ1PDSQS0WAxkZ132zhZ1Xpwh9&state=STATE
+---------------
+2019-05-15 16:16:28.314:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 16:16:28.314:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 16:16:28.785:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=07192XXL0j5BZa2OeOUL0rm6YL092XXI&state=STATE
+---------------
+2019-05-15 16:16:28.786:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=07192XXL0j5BZa2OeOUL0rm6YL092XXI&state=STATE
+---------------
+2019-05-15 16:16:28.866:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=07192XXL0j5BZa2OeOUL0rm6YL092XXI&state=STATE
+---------------
+2019-05-15 16:16:36.300:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 16:16:36.300:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 16:17:06.864:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 16:17:06.864:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 16:17:34.966:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2070
+---------------
+2019-05-15 16:17:34.967:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2070
+---------------
+2019-05-15 16:18:51.083:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductList.aspx?categoryId=1&ReferralId=2070
+---------------
+2019-05-15 16:18:51.083:进入11，请求静默登录http://mail.beidoustar.net/ProductList.aspx?categoryId=1&ReferralId=2070
+---------------
+2019-05-15 16:20:35.841:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductConsultations.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:20:35.842:进入11，请求静默登录http://mail.beidoustar.net/ProductConsultations.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:20:49.357:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:20:49.358:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:20:50.420:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081YKIqC183Wj50yt3rC1RqQqC1YKIqO&state=STATE
+---------------
+2019-05-15 16:20:50.421:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081YKIqC183Wj50yt3rC1RqQqC1YKIqO&state=STATE
+---------------
+2019-05-15 16:20:50.541:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081YKIqC183Wj50yt3rC1RqQqC1YKIqO&state=STATE
+---------------
+2019-05-15 16:20:50.544:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081YKIqC183Wj50yt3rC1RqQqC1YKIqO&state=STATE
+---------------
+2019-05-15 16:20:50.751:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081YKIqC183Wj50yt3rC1RqQqC1YKIqO&state=STATE
+---------------
+2019-05-15 16:20:50.833:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081YKIqC183Wj50yt3rC1RqQqC1YKIqO&state=STATE
+---------------
+2019-05-15 16:20:50.897:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081YKIqC183Wj50yt3rC1RqQqC1YKIqO&state=STATE
+---------------
+2019-05-15 16:20:55.009:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:20:55.010:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:20:55.650:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0719THS12wafNU0EmzQ12wA0T129THSz&state=STATE
+---------------
+2019-05-15 16:20:55.651:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0719THS12wafNU0EmzQ12wA0T129THSz&state=STATE
+---------------
+2019-05-15 16:20:55.764:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0719THS12wafNU0EmzQ12wA0T129THSz&state=STATE
+---------------
+2019-05-15 16:20:55.767:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0719THS12wafNU0EmzQ12wA0T129THSz&state=STATE
+---------------
+2019-05-15 16:20:55.976:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0719THS12wafNU0EmzQ12wA0T129THSz&state=STATE
+---------------
+2019-05-15 16:20:56.067:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0719THS12wafNU0EmzQ12wA0T129THSz&state=STATE
+---------------
+2019-05-15 16:20:56.124:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=0719THS12wafNU0EmzQ12wA0T129THSz&state=STATE
+---------------
+2019-05-15 16:20:58.257:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001FNGb42FbfeO0E2ld42WCCb42FNGbF&state=STATE
+---------------
+2019-05-15 16:20:58.258:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001FNGb42FbfeO0E2ld42WCCb42FNGbF&state=STATE
+---------------
+2019-05-15 16:20:58.359:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001FNGb42FbfeO0E2ld42WCCb42FNGbF&state=STATE
+---------------
+2019-05-15 16:20:58.458:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001FNGb42FbfeO0E2ld42WCCb42FNGbF&state=STATE
+---------------
+2019-05-15 16:22:25.734:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:22:25.735:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:22:26.524:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011TQAOm0xKeCk1PFcQm08BZOm0TQAOO&state=STATE
+---------------
+2019-05-15 16:22:26.524:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011TQAOm0xKeCk1PFcQm08BZOm0TQAOO&state=STATE
+---------------
+2019-05-15 16:22:26.630:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011TQAOm0xKeCk1PFcQm08BZOm0TQAOO&state=STATE
+---------------
+2019-05-15 16:22:26.634:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011TQAOm0xKeCk1PFcQm08BZOm0TQAOO&state=STATE
+---------------
+2019-05-15 16:22:26.827:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011TQAOm0xKeCk1PFcQm08BZOm0TQAOO&state=STATE
+---------------
+2019-05-15 16:22:26.910:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011TQAOm0xKeCk1PFcQm08BZOm0TQAOO&state=STATE
+---------------
+2019-05-15 16:22:26.968:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011TQAOm0xKeCk1PFcQm08BZOm0TQAOO&state=STATE
+---------------
+2019-05-15 16:22:29.897:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011YK5Df23qgiH0RhkBf25d8Df2YK5DZ&state=STATE
+---------------
+2019-05-15 16:22:29.898:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011YK5Df23qgiH0RhkBf25d8Df2YK5DZ&state=STATE
+---------------
+2019-05-15 16:22:29.997:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011YK5Df23qgiH0RhkBf25d8Df2YK5DZ&state=STATE
+---------------
+2019-05-15 16:22:30.089:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011YK5Df23qgiH0RhkBf25d8Df2YK5DZ&state=STATE
+---------------
+2019-05-15 16:23:11.708:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:23:11.709:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:23:12.431:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081IIup42GFxXP0fBSq42wjrp42IIup0&state=STATE
+---------------
+2019-05-15 16:23:12.431:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081IIup42GFxXP0fBSq42wjrp42IIup0&state=STATE
+---------------
+2019-05-15 16:23:12.531:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081IIup42GFxXP0fBSq42wjrp42IIup0&state=STATE
+---------------
+2019-05-15 16:23:12.535:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081IIup42GFxXP0fBSq42wjrp42IIup0&state=STATE
+---------------
+2019-05-15 16:23:12.742:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081IIup42GFxXP0fBSq42wjrp42IIup0&state=STATE
+---------------
+2019-05-15 16:23:12.820:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081IIup42GFxXP0fBSq42wjrp42IIup0&state=STATE
+---------------
+2019-05-15 16:23:12.880:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081IIup42GFxXP0fBSq42wjrp42IIup0&state=STATE
+---------------
+2019-05-15 16:24:02.012:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:24:02.012:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:24:03.672:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=011FfNDp0YQUmm1RP1Gp01MPDp0FfNDD&state=STATE
+---------------
+2019-05-15 16:24:03.672:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=011FfNDp0YQUmm1RP1Gp01MPDp0FfNDD&state=STATE
+---------------
+2019-05-15 16:24:03.785:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=011FfNDp0YQUmm1RP1Gp01MPDp0FfNDD&state=STATE
+---------------
+2019-05-15 16:24:03.788:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=011FfNDp0YQUmm1RP1Gp01MPDp0FfNDD&state=STATE
+---------------
+2019-05-15 16:24:03.990:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=011FfNDp0YQUmm1RP1Gp01MPDp0FfNDD&state=STATE
+---------------
+2019-05-15 16:24:04.070:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=011FfNDp0YQUmm1RP1Gp01MPDp0FfNDD&state=STATE
+---------------
+2019-05-15 16:24:04.130:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=011FfNDp0YQUmm1RP1Gp01MPDp0FfNDD&state=STATE
+---------------
+2019-05-15 16:24:06.649:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021mpqGm0sspQr1zE2Em0XZyGm0mpqGU&state=STATE
+---------------
+2019-05-15 16:24:06.650:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021mpqGm0sspQr1zE2Em0XZyGm0mpqGU&state=STATE
+---------------
+2019-05-15 16:24:06.755:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021mpqGm0sspQr1zE2Em0XZyGm0mpqGU&state=STATE
+---------------
+2019-05-15 16:24:06.867:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021mpqGm0sspQr1zE2Em0XZyGm0mpqGU&state=STATE
+---------------
+2019-05-15 16:27:07.215:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0
+---------------
+2019-05-15 16:27:07.216:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0
+---------------
+2019-05-15 16:27:08.657:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=001uqmoI1QJ3D10oNLoI1o1joI1uqmol&state=STATE
+---------------
+2019-05-15 16:27:08.658:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=001uqmoI1QJ3D10oNLoI1o1joI1uqmol&state=STATE
+---------------
+2019-05-15 16:27:08.795:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=001uqmoI1QJ3D10oNLoI1o1joI1uqmol&state=STATE
+---------------
+2019-05-15 16:27:08.799:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=001uqmoI1QJ3D10oNLoI1o1joI1uqmol&state=STATE
+---------------
+2019-05-15 16:27:09.015:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=001uqmoI1QJ3D10oNLoI1o1joI1uqmol&state=STATE
+---------------
+2019-05-15 16:27:09.111:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=001uqmoI1QJ3D10oNLoI1o1joI1uqmol&state=STATE
+---------------
+2019-05-15 16:27:09.198:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=001uqmoI1QJ3D10oNLoI1o1joI1uqmol&state=STATE
+---------------
+2019-05-15 16:27:11.915:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=021PAF1a2uE7CM0M5N0a2QLQ1a2PAF1j&state=STATE
+---------------
+2019-05-15 16:27:11.915:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=021PAF1a2uE7CM0M5N0a2QLQ1a2PAF1j&state=STATE
+---------------
+2019-05-15 16:27:12.022:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=021PAF1a2uE7CM0M5N0a2QLQ1a2PAF1j&state=STATE
+---------------
+2019-05-15 16:27:12.141:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=021PAF1a2uE7CM0M5N0a2QLQ1a2PAF1j&state=STATE
+---------------
+2019-05-15 16:28:58.105:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:28:58.105:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:28:59.088:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071FSQsu0dxRxh1B2duu0ChHsu0FSQsT&state=STATE
+---------------
+2019-05-15 16:28:59.089:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071FSQsu0dxRxh1B2duu0ChHsu0FSQsT&state=STATE
+---------------
+2019-05-15 16:28:59.197:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071FSQsu0dxRxh1B2duu0ChHsu0FSQsT&state=STATE
+---------------
+2019-05-15 16:28:59.201:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071FSQsu0dxRxh1B2duu0ChHsu0FSQsT&state=STATE
+---------------
+2019-05-15 16:28:59.392:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071FSQsu0dxRxh1B2duu0ChHsu0FSQsT&state=STATE
+---------------
+2019-05-15 16:28:59.478:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071FSQsu0dxRxh1B2duu0ChHsu0FSQsT&state=STATE
+---------------
+2019-05-15 16:28:59.536:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071FSQsu0dxRxh1B2duu0ChHsu0FSQsT&state=STATE
+---------------
+2019-05-15 16:33:14.362:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 16:33:14.362:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 16:33:15.112:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=021c5E6f15w9qz0cnp6f1u6N6f1c5E6H&state=STATE
+---------------
+2019-05-15 16:33:15.112:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=021c5E6f15w9qz0cnp6f1u6N6f1c5E6H&state=STATE
+---------------
+2019-05-15 16:33:15.300:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=021c5E6f15w9qz0cnp6f1u6N6f1c5E6H&state=STATE
+---------------
+2019-05-15 16:39:51.511:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:39:51.512:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:39:53.088:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071DjSWS1jXDX51sJ40T1OvQWS1DjSWj&state=STATE
+---------------
+2019-05-15 16:39:53.088:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071DjSWS1jXDX51sJ40T1OvQWS1DjSWj&state=STATE
+---------------
+2019-05-15 16:39:53.193:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071DjSWS1jXDX51sJ40T1OvQWS1DjSWj&state=STATE
+---------------
+2019-05-15 16:39:53.196:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071DjSWS1jXDX51sJ40T1OvQWS1DjSWj&state=STATE
+---------------
+2019-05-15 16:39:53.401:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071DjSWS1jXDX51sJ40T1OvQWS1DjSWj&state=STATE
+---------------
+2019-05-15 16:39:53.494:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071DjSWS1jXDX51sJ40T1OvQWS1DjSWj&state=STATE
+---------------
+2019-05-15 16:39:53.555:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071DjSWS1jXDX51sJ40T1OvQWS1DjSWj&state=STATE
+---------------
+2019-05-15 16:43:48.124:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:43:48.124:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:43:48.512:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081EFHl70AboUE16L3k70bdJl70EFHlm&state=STATE
+---------------
+2019-05-15 16:43:48.512:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081EFHl70AboUE16L3k70bdJl70EFHlm&state=STATE
+---------------
+2019-05-15 16:43:48.618:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081EFHl70AboUE16L3k70bdJl70EFHlm&state=STATE
+---------------
+2019-05-15 16:43:48.621:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081EFHl70AboUE16L3k70bdJl70EFHlm&state=STATE
+---------------
+2019-05-15 16:43:48.809:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081EFHl70AboUE16L3k70bdJl70EFHlm&state=STATE
+---------------
+2019-05-15 16:43:48.891:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081EFHl70AboUE16L3k70bdJl70EFHlm&state=STATE
+---------------
+2019-05-15 16:43:48.950:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081EFHl70AboUE16L3k70bdJl70EFHlm&state=STATE
+---------------
+2019-05-15 16:49:08.245:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:49:08.246:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 16:49:08.950:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJr8I10WRQ10CVR6I1v8H8I1yJr8R&state=STATE
+---------------
+2019-05-15 16:49:08.950:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJr8I10WRQ10CVR6I1v8H8I1yJr8R&state=STATE
+---------------
+2019-05-15 16:49:09.076:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJr8I10WRQ10CVR6I1v8H8I1yJr8R&state=STATE
+---------------
+2019-05-15 16:49:09.080:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJr8I10WRQ10CVR6I1v8H8I1yJr8R&state=STATE
+---------------
+2019-05-15 16:49:09.288:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJr8I10WRQ10CVR6I1v8H8I1yJr8R&state=STATE
+---------------
+2019-05-15 16:49:09.379:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJr8I10WRQ10CVR6I1v8H8I1yJr8R&state=STATE
+---------------
+2019-05-15 16:49:09.439:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJr8I10WRQ10CVR6I1v8H8I1yJr8R&state=STATE
+---------------
+2019-05-15 16:49:12.542:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001eKVlh2KX44B0qb8mh28MKlh2eKVlu&state=STATE
+---------------
+2019-05-15 16:49:12.543:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001eKVlh2KX44B0qb8mh28MKlh2eKVlu&state=STATE
+---------------
+2019-05-15 16:49:12.661:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001eKVlh2KX44B0qb8mh28MKlh2eKVlu&state=STATE
+---------------
+2019-05-15 16:49:12.760:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001eKVlh2KX44B0qb8mh28MKlh2eKVlu&state=STATE
+---------------
+2019-05-15 16:53:13.541:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:53:13.542:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:53:14.406:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=001wdBWS1mlV041ExsVS1rtzWS1wdBWE&state=STATE
+---------------
+2019-05-15 16:53:14.407:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=001wdBWS1mlV041ExsVS1rtzWS1wdBWE&state=STATE
+---------------
+2019-05-15 16:53:14.531:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=001wdBWS1mlV041ExsVS1rtzWS1wdBWE&state=STATE
+---------------
+2019-05-15 16:53:14.534:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=001wdBWS1mlV041ExsVS1rtzWS1wdBWE&state=STATE
+---------------
+2019-05-15 16:53:14.751:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=001wdBWS1mlV041ExsVS1rtzWS1wdBWE&state=STATE
+---------------
+2019-05-15 16:53:14.847:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=001wdBWS1mlV041ExsVS1rtzWS1wdBWE&state=STATE
+---------------
+2019-05-15 16:53:14.906:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=001wdBWS1mlV041ExsVS1rtzWS1wdBWE&state=STATE
+---------------
+2019-05-15 16:54:12.528:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 16:54:12.528:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 17:02:22.357:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 17:02:22.357:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 17:05:33.124:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 17:05:33.125:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 17:05:33.944:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021HqWIc0k94QB1mDNJc0T41Jc0HqWI3&state=STATE
+---------------
+2019-05-15 17:05:33.945:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021HqWIc0k94QB1mDNJc0T41Jc0HqWI3&state=STATE
+---------------
+2019-05-15 17:05:34.064:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021HqWIc0k94QB1mDNJc0T41Jc0HqWI3&state=STATE
+---------------
+2019-05-15 17:05:34.067:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021HqWIc0k94QB1mDNJc0T41Jc0HqWI3&state=STATE
+---------------
+2019-05-15 17:05:34.288:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021HqWIc0k94QB1mDNJc0T41Jc0HqWI3&state=STATE
+---------------
+2019-05-15 17:05:34.386:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021HqWIc0k94QB1mDNJc0T41Jc0HqWI3&state=STATE
+---------------
+2019-05-15 17:05:34.449:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=021HqWIc0k94QB1mDNJc0T41Jc0HqWI3&state=STATE
+---------------
+2019-05-15 17:05:36.518:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=061pJnSJ1CDTm40ewDRJ1p9hSJ1pJnSX&state=STATE
+---------------
+2019-05-15 17:05:36.519:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=061pJnSJ1CDTm40ewDRJ1p9hSJ1pJnSX&state=STATE
+---------------
+2019-05-15 17:05:36.630:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=061pJnSJ1CDTm40ewDRJ1p9hSJ1pJnSX&state=STATE
+---------------
+2019-05-15 17:05:36.744:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=061pJnSJ1CDTm40ewDRJ1p9hSJ1pJnSX&state=STATE
+---------------
+2019-05-15 17:09:46.712:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MyRanking.aspx?ReferralId=2070
+---------------
+2019-05-15 17:09:46.713:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MyRanking.aspx?ReferralId=2070
+---------------
+2019-05-15 17:16:23.724:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 17:16:23.725:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 17:16:24.147:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=0110tQrs1gd25m0YKpts1Owvrs10tQrb&state=STATE
+---------------
+2019-05-15 17:16:24.148:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=0110tQrs1gd25m0YKpts1Owvrs10tQrb&state=STATE
+---------------
+2019-05-15 17:16:24.262:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=0110tQrs1gd25m0YKpts1Owvrs10tQrb&state=STATE
+---------------
+2019-05-15 17:16:24.266:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=0110tQrs1gd25m0YKpts1Owvrs10tQrb&state=STATE
+---------------
+2019-05-15 17:16:24.455:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=0110tQrs1gd25m0YKpts1Owvrs10tQrb&state=STATE
+---------------
+2019-05-15 17:16:24.539:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=0110tQrs1gd25m0YKpts1Owvrs10tQrb&state=STATE
+---------------
+2019-05-15 17:16:24.596:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=0110tQrs1gd25m0YKpts1Owvrs10tQrb&state=STATE
+---------------
+2019-05-15 17:16:28.912:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071ImMIV05Y9X026SzHV0T6IIV0ImMIm&state=STATE
+---------------
+2019-05-15 17:16:28.912:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071ImMIV05Y9X026SzHV0T6IIV0ImMIm&state=STATE
+---------------
+2019-05-15 17:16:29.014:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071ImMIV05Y9X026SzHV0T6IIV0ImMIm&state=STATE
+---------------
+2019-05-15 17:16:29.104:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=071ImMIV05Y9X026SzHV0T6IIV0ImMIm&state=STATE
+---------------
+2019-05-15 17:33:23.946:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 17:33:23.947:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 17:33:25.114:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001ZjBhl0QzC0r1g5nhl0QGAhl0ZjBha&state=STATE
+---------------
+2019-05-15 17:33:25.115:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001ZjBhl0QzC0r1g5nhl0QGAhl0ZjBha&state=STATE
+---------------
+2019-05-15 17:33:25.226:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001ZjBhl0QzC0r1g5nhl0QGAhl0ZjBha&state=STATE
+---------------
+2019-05-15 17:33:25.230:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001ZjBhl0QzC0r1g5nhl0QGAhl0ZjBha&state=STATE
+---------------
+2019-05-15 17:33:25.419:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001ZjBhl0QzC0r1g5nhl0QGAhl0ZjBha&state=STATE
+---------------
+2019-05-15 17:33:25.512:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001ZjBhl0QzC0r1g5nhl0QGAhl0ZjBha&state=STATE
+---------------
+2019-05-15 17:33:25.571:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001ZjBhl0QzC0r1g5nhl0QGAhl0ZjBha&state=STATE
+---------------
+2019-05-15 17:45:40.162:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 17:45:40.163:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 17:45:40.218:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=2110&from=groupmessage
+---------------
+2019-05-15 17:45:40.218:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=2110&from=groupmessage
+---------------
+2019-05-15 17:45:40.884:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=2110&from=groupmessage&code=071iTkf00B8jvH1Ud7f00c79f00iTkfV&state=STATE
+---------------
+2019-05-15 17:45:40.884:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=2110&from=groupmessage&code=071iTkf00B8jvH1Ud7f00c79f00iTkfV&state=STATE
+---------------
+2019-05-15 17:45:40.983:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=2110&from=groupmessage&code=071iTkf00B8jvH1Ud7f00c79f00iTkfV&state=STATE
+---------------
+2019-05-15 17:45:41.429:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071uagf51J7WWT1HpNg51fkdf51uagfL&state=STATE
+---------------
+2019-05-15 17:45:41.429:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071uagf51J7WWT1HpNg51fkdf51uagfL&state=STATE
+---------------
+2019-05-15 17:45:41.563:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071uagf51J7WWT1HpNg51fkdf51uagfL&state=STATE
+---------------
+2019-05-15 17:45:41.567:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071uagf51J7WWT1HpNg51fkdf51uagfL&state=STATE
+---------------
+2019-05-15 17:45:41.772:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071uagf51J7WWT1HpNg51fkdf51uagfL&state=STATE
+---------------
+2019-05-15 17:45:41.859:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071uagf51J7WWT1HpNg51fkdf51uagfL&state=STATE
+---------------
+2019-05-15 17:45:41.920:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071uagf51J7WWT1HpNg51fkdf51uagfL&state=STATE
+---------------
+2019-05-15 17:45:44.551:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021DTyn42IbsZP001Bn42Dywn42DTyn8&state=STATE
+---------------
+2019-05-15 17:45:44.551:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021DTyn42IbsZP001Bn42Dywn42DTyn8&state=STATE
+---------------
+2019-05-15 17:45:44.675:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021DTyn42IbsZP001Bn42Dywn42DTyn8&state=STATE
+---------------
+2019-05-15 17:45:44.779:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021DTyn42IbsZP001Bn42Dywn42DTyn8&state=STATE
+---------------
+2019-05-15 17:46:09.137:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075
+---------------
+2019-05-15 17:46:09.138:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2075
+---------------
+2019-05-15 17:46:10.471:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075&code=071wKkBc2Sq1xF0AZUzc2MprBc2wKkBk&state=STATE
+---------------
+2019-05-15 17:46:10.471:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075&code=071wKkBc2Sq1xF0AZUzc2MprBc2wKkBk&state=STATE
+---------------
+2019-05-15 17:46:10.549:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075&code=071wKkBc2Sq1xF0AZUzc2MprBc2wKkBk&state=STATE
+---------------
+2019-05-15 17:53:08.686:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 17:53:08.686:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 17:53:09.802:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021eHtPr0vTqBf19hSRr0f5oPr0eHtPK&state=STATE
+---------------
+2019-05-15 17:53:09.802:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021eHtPr0vTqBf19hSRr0f5oPr0eHtPK&state=STATE
+---------------
+2019-05-15 17:53:09.916:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021eHtPr0vTqBf19hSRr0f5oPr0eHtPK&state=STATE
+---------------
+2019-05-15 17:53:09.919:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021eHtPr0vTqBf19hSRr0f5oPr0eHtPK&state=STATE
+---------------
+2019-05-15 17:53:10.109:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021eHtPr0vTqBf19hSRr0f5oPr0eHtPK&state=STATE
+---------------
+2019-05-15 17:53:10.187:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021eHtPr0vTqBf19hSRr0f5oPr0eHtPK&state=STATE
+---------------
+2019-05-15 17:53:10.249:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=021eHtPr0vTqBf19hSRr0f5oPr0eHtPK&state=STATE
+---------------
+2019-05-15 17:53:12.158:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081ZUXG41kfCgS1pxwH41pbPG41ZUXGU&state=STATE
+---------------
+2019-05-15 17:53:12.158:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081ZUXG41kfCgS1pxwH41pbPG41ZUXGU&state=STATE
+---------------
+2019-05-15 17:53:12.253:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081ZUXG41kfCgS1pxwH41pbPG41ZUXGU&state=STATE
+---------------
+2019-05-15 17:53:12.355:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081ZUXG41kfCgS1pxwH41pbPG41ZUXGU&state=STATE
+---------------
+2019-05-15 17:54:53.876:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075
+---------------
+2019-05-15 17:54:53.877:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2075
+---------------
+2019-05-15 17:54:54.919:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075&code=081bbG5c1Nd1Cx02sC9c1Fjr5c1bbG5E&state=STATE
+---------------
+2019-05-15 17:54:54.920:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075&code=081bbG5c1Nd1Cx02sC9c1Fjr5c1bbG5E&state=STATE
+---------------
+2019-05-15 17:54:55.142:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2075&code=081bbG5c1Nd1Cx02sC9c1Fjr5c1bbG5E&state=STATE
+---------------
+2019-05-15 17:59:09.210:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 17:59:09.211:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0
+---------------
+2019-05-15 17:59:09.892:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=08109a9m0rc46s1i0Lcm0wwc9m009a9Y&state=STATE
+---------------
+2019-05-15 17:59:09.893:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=08109a9m0rc46s1i0Lcm0wwc9m009a9Y&state=STATE
+---------------
+2019-05-15 17:59:10.019:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=08109a9m0rc46s1i0Lcm0wwc9m009a9Y&state=STATE
+---------------
+2019-05-15 17:59:10.023:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=08109a9m0rc46s1i0Lcm0wwc9m009a9Y&state=STATE
+---------------
+2019-05-15 17:59:10.215:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=08109a9m0rc46s1i0Lcm0wwc9m009a9Y&state=STATE
+---------------
+2019-05-15 17:59:10.300:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=08109a9m0rc46s1i0Lcm0wwc9m009a9Y&state=STATE
+---------------
+2019-05-15 17:59:10.351:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=08109a9m0rc46s1i0Lcm0wwc9m009a9Y&state=STATE
+---------------
+2019-05-15 17:59:12.687:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081gtxZ40JW7LC1fAOZ40SjzZ40gtxZd&state=STATE
+---------------
+2019-05-15 17:59:12.688:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081gtxZ40JW7LC1fAOZ40SjzZ40gtxZd&state=STATE
+---------------
+2019-05-15 17:59:12.795:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081gtxZ40JW7LC1fAOZ40SjzZ40gtxZd&state=STATE
+---------------
+2019-05-15 17:59:12.911:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&isappinstalled=0&code=081gtxZ40JW7LC1fAOZ40SjzZ40gtxZd&state=STATE
+---------------
+2019-05-15 18:22:24.311:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 18:22:24.312:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 18:22:25.378:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001cGgrr1VQmzk06bBrr1MWVqr1cGgr5&state=STATE
+---------------
+2019-05-15 18:22:25.378:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001cGgrr1VQmzk06bBrr1MWVqr1cGgr5&state=STATE
+---------------
+2019-05-15 18:22:25.481:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001cGgrr1VQmzk06bBrr1MWVqr1cGgr5&state=STATE
+---------------
+2019-05-15 18:22:25.485:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001cGgrr1VQmzk06bBrr1MWVqr1cGgr5&state=STATE
+---------------
+2019-05-15 18:22:25.687:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001cGgrr1VQmzk06bBrr1MWVqr1cGgr5&state=STATE
+---------------
+2019-05-15 18:22:25.776:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001cGgrr1VQmzk06bBrr1MWVqr1cGgr5&state=STATE
+---------------
+2019-05-15 18:22:25.832:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=001cGgrr1VQmzk06bBrr1MWVqr1cGgr5&state=STATE
+---------------
+2019-05-15 18:22:28.523:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071JCIwW0Jr3q22cYIuW0pMPwW0JCIw8&state=STATE
+---------------
+2019-05-15 18:22:28.524:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071JCIwW0Jr3q22cYIuW0pMPwW0JCIw8&state=STATE
+---------------
+2019-05-15 18:22:28.645:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071JCIwW0Jr3q22cYIuW0pMPwW0JCIw8&state=STATE
+---------------
+2019-05-15 18:22:28.751:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071JCIwW0Jr3q22cYIuW0pMPwW0JCIw8&state=STATE
+---------------
+2019-05-15 18:22:47.244:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:22:47.245:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:22:47.830:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=081W1Rcn1XWp2r07Ambn1QJEcn1W1RcJ&state=STATE
+---------------
+2019-05-15 18:22:47.830:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=081W1Rcn1XWp2r07Ambn1QJEcn1W1RcJ&state=STATE
+---------------
+2019-05-15 18:22:47.937:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=081W1Rcn1XWp2r07Ambn1QJEcn1W1RcJ&state=STATE
+---------------
+2019-05-15 18:22:47.941:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=081W1Rcn1XWp2r07Ambn1QJEcn1W1RcJ&state=STATE
+---------------
+2019-05-15 18:22:48.396:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=081W1Rcn1XWp2r07Ambn1QJEcn1W1RcJ&state=STATE
+---------------
+2019-05-15 18:22:48.485:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=081W1Rcn1XWp2r07Ambn1QJEcn1W1RcJ&state=STATE
+---------------
+2019-05-15 18:22:48.538:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=081W1Rcn1XWp2r07Ambn1QJEcn1W1RcJ&state=STATE
+---------------
+2019-05-15 18:22:51.020:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=011KaOii0lpiap1XpPhi0uGMii0KaOin&state=STATE
+---------------
+2019-05-15 18:22:51.021:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=011KaOii0lpiap1XpPhi0uGMii0KaOin&state=STATE
+---------------
+2019-05-15 18:22:51.137:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=011KaOii0lpiap1XpPhi0uGMii0KaOin&state=STATE
+---------------
+2019-05-15 18:22:51.232:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=011KaOii0lpiap1XpPhi0uGMii0KaOin&state=STATE
+---------------
+2019-05-15 18:23:33.985:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:23:33.985:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:23:34.536:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001xWlNu0Bd5uj15w1Lu05EVMu0xWlN8&state=STATE
+---------------
+2019-05-15 18:23:34.536:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001xWlNu0Bd5uj15w1Lu05EVMu0xWlN8&state=STATE
+---------------
+2019-05-15 18:23:34.767:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001xWlNu0Bd5uj15w1Lu05EVMu0xWlN8&state=STATE
+---------------
+2019-05-15 18:23:34.771:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001xWlNu0Bd5uj15w1Lu05EVMu0xWlN8&state=STATE
+---------------
+2019-05-15 18:23:35.185:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001xWlNu0Bd5uj15w1Lu05EVMu0xWlN8&state=STATE
+---------------
+2019-05-15 18:23:35.274:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001xWlNu0Bd5uj15w1Lu05EVMu0xWlN8&state=STATE
+---------------
+2019-05-15 18:23:35.336:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001xWlNu0Bd5uj15w1Lu05EVMu0xWlN8&state=STATE
+---------------
+2019-05-15 18:23:38.136:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0712A6nx1XVXbh0gavjx11q3nx12A6no&state=STATE
+---------------
+2019-05-15 18:23:38.136:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0712A6nx1XVXbh0gavjx11q3nx12A6no&state=STATE
+---------------
+2019-05-15 18:23:38.225:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0712A6nx1XVXbh0gavjx11q3nx12A6no&state=STATE
+---------------
+2019-05-15 18:23:38.340:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0712A6nx1XVXbh0gavjx11q3nx12A6no&state=STATE
+---------------
+2019-05-15 18:24:15.334:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 18:24:15.334:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 18:24:15.861:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001spZIV1NGzVY0rpvMV18L6JV1spZIT&state=STATE
+---------------
+2019-05-15 18:24:15.861:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001spZIV1NGzVY0rpvMV18L6JV1spZIT&state=STATE
+---------------
+2019-05-15 18:24:16.080:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001spZIV1NGzVY0rpvMV18L6JV1spZIT&state=STATE
+---------------
+2019-05-15 18:24:16.084:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001spZIV1NGzVY0rpvMV18L6JV1spZIT&state=STATE
+---------------
+2019-05-15 18:24:16.269:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001spZIV1NGzVY0rpvMV18L6JV1spZIT&state=STATE
+---------------
+2019-05-15 18:24:16.353:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001spZIV1NGzVY0rpvMV18L6JV1spZIT&state=STATE
+---------------
+2019-05-15 18:24:16.406:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001spZIV1NGzVY0rpvMV18L6JV1spZIT&state=STATE
+---------------
+2019-05-15 18:27:00.634:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:27:00.634:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:27:01.312:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0213omKG0URoWd23geJG0GmDKG03omKX&state=STATE
+---------------
+2019-05-15 18:27:01.312:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0213omKG0URoWd23geJG0GmDKG03omKX&state=STATE
+---------------
+2019-05-15 18:27:01.534:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0213omKG0URoWd23geJG0GmDKG03omKX&state=STATE
+---------------
+2019-05-15 18:27:01.537:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0213omKG0URoWd23geJG0GmDKG03omKX&state=STATE
+---------------
+2019-05-15 18:27:01.948:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0213omKG0URoWd23geJG0GmDKG03omKX&state=STATE
+---------------
+2019-05-15 18:27:02.044:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0213omKG0URoWd23geJG0GmDKG03omKX&state=STATE
+---------------
+2019-05-15 18:27:02.097:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0213omKG0URoWd23geJG0GmDKG03omKX&state=STATE
+---------------
+2019-05-15 18:27:16.085:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2119
+---------------
+2019-05-15 18:27:16.086:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=2119
+---------------
+2019-05-15 18:27:39.856:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:27:39.856:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:27:40.597:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001e1JCX1KD3k11ZpWAX1lwICX1e1JC4&state=STATE
+---------------
+2019-05-15 18:27:40.598:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001e1JCX1KD3k11ZpWAX1lwICX1e1JC4&state=STATE
+---------------
+2019-05-15 18:27:40.683:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=001e1JCX1KD3k11ZpWAX1lwICX1e1JC4&state=STATE
+---------------
+2019-05-15 18:28:16.504:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2119
+---------------
+2019-05-15 18:28:16.504:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2119
+---------------
+2019-05-15 18:28:22.807:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2119
+---------------
+2019-05-15 18:28:22.808:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2119
+---------------
+2019-05-15 18:28:48.824:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/EditShippingAddress.aspx?ReferralId=2119
+---------------
+2019-05-15 18:28:48.824:进入11，请求静默登录http://mail.beidoustar.net/Vshop/EditShippingAddress.aspx?ReferralId=2119
+---------------
+2019-05-15 18:28:49.972:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/ShippingAddresses.aspx?ReferralId=2119
+---------------
+2019-05-15 18:28:49.973:进入11，请求静默登录http://mail.beidoustar.net/Vshop/ShippingAddresses.aspx?ReferralId=2119
+---------------
+2019-05-15 18:29:02.419:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductList.aspx?categoryId=1&ReferralId=2119
+---------------
+2019-05-15 18:29:02.419:进入11，请求静默登录http://mail.beidoustar.net/ProductList.aspx?categoryId=1&ReferralId=2119
+---------------
+2019-05-15 18:29:14.848:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/vshop/UserInfo.aspx?ReferralId=2119
+---------------
+2019-05-15 18:29:14.849:进入11，请求静默登录http://mail.beidoustar.net/vshop/UserInfo.aspx?ReferralId=2119
+---------------
+2019-05-15 18:29:24.820:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2119
+---------------
+2019-05-15 18:29:24.820:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=2119
+---------------
+2019-05-15 18:29:39.916:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorInfo.aspx?ReferralId=2119
+---------------
+2019-05-15 18:29:39.916:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorInfo.aspx?ReferralId=2119
+---------------
+2019-05-15 18:29:49.755:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2119
+---------------
+2019-05-15 18:29:49.755:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2119
+---------------
+2019-05-15 18:29:50.691:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2119&code=081tXIlD07XCzj24MEnD0bZ0mD0tXIlJ&state=STATE
+---------------
+2019-05-15 18:29:50.691:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2119&code=081tXIlD07XCzj24MEnD0bZ0mD0tXIlJ&state=STATE
+---------------
+2019-05-15 18:29:50.820:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2119&code=081tXIlD07XCzj24MEnD0bZ0mD0tXIlJ&state=STATE
+---------------
+2019-05-15 18:31:50.301:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:31:50.302:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:31:51.132:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061Ndak80dkjXF1NgZl80pRVj80NdakP&state=STATE
+---------------
+2019-05-15 18:31:51.132:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061Ndak80dkjXF1NgZl80pRVj80NdakP&state=STATE
+---------------
+2019-05-15 18:31:51.346:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061Ndak80dkjXF1NgZl80pRVj80NdakP&state=STATE
+---------------
+2019-05-15 18:31:51.350:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061Ndak80dkjXF1NgZl80pRVj80NdakP&state=STATE
+---------------
+2019-05-15 18:31:51.771:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061Ndak80dkjXF1NgZl80pRVj80NdakP&state=STATE
+---------------
+2019-05-15 18:31:51.860:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061Ndak80dkjXF1NgZl80pRVj80NdakP&state=STATE
+---------------
+2019-05-15 18:31:51.915:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061Ndak80dkjXF1NgZl80pRVj80NdakP&state=STATE
+---------------
+2019-05-15 18:31:54.558:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=011RKx9x1P5T7h0z4f8x1ArM9x1RKx9d&state=STATE
+---------------
+2019-05-15 18:31:54.559:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=011RKx9x1P5T7h0z4f8x1ArM9x1RKx9d&state=STATE
+---------------
+2019-05-15 18:31:54.662:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=011RKx9x1P5T7h0z4f8x1ArM9x1RKx9d&state=STATE
+---------------
+2019-05-15 18:31:54.775:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=011RKx9x1P5T7h0z4f8x1ArM9x1RKx9d&state=STATE
+---------------
+2019-05-15 18:31:57.039:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/StorePromotion.aspx?UserID=                                1616&ReferralId=1616
+---------------
+2019-05-15 18:31:57.039:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/StorePromotion.aspx?UserID=                                1616&ReferralId=1616
+---------------
+2019-05-15 18:33:00.213:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:33:00.214:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:34:10.777:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=2070
+---------------
+2019-05-15 18:34:10.778:进入11，请求静默登录http://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=2070
+---------------
+2019-05-15 18:34:13.893:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MyMembers.aspx?gradeId=1&UserID=                                2070&ReferralId=2070
+---------------
+2019-05-15 18:34:13.894:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MyMembers.aspx?gradeId=1&UserID=                                2070&ReferralId=2070
+---------------
+2019-05-15 18:52:23.614:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:52:23.615:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 18:52:24.551:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061pn92g1RljGr00Ix1g1NLy2g1pn92J&state=STATE
+---------------
+2019-05-15 18:52:24.551:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061pn92g1RljGr00Ix1g1NLy2g1pn92J&state=STATE
+---------------
+2019-05-15 18:52:24.775:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061pn92g1RljGr00Ix1g1NLy2g1pn92J&state=STATE
+---------------
+2019-05-15 18:52:24.779:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061pn92g1RljGr00Ix1g1NLy2g1pn92J&state=STATE
+---------------
+2019-05-15 18:52:25.272:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061pn92g1RljGr00Ix1g1NLy2g1pn92J&state=STATE
+---------------
+2019-05-15 18:52:25.357:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061pn92g1RljGr00Ix1g1NLy2g1pn92J&state=STATE
+---------------
+2019-05-15 18:52:25.409:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061pn92g1RljGr00Ix1g1NLy2g1pn92J&state=STATE
+---------------
+2019-05-15 18:52:27.173:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071YSXa22Tnd1X0sKme223QQa22YSXaa&state=STATE
+---------------
+2019-05-15 18:52:27.174:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071YSXa22Tnd1X0sKme223QQa22YSXaa&state=STATE
+---------------
+2019-05-15 18:52:27.290:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071YSXa22Tnd1X0sKme223QQa22YSXaa&state=STATE
+---------------
+2019-05-15 18:52:27.390:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=071YSXa22Tnd1X0sKme223QQa22YSXaa&state=STATE
+---------------
+2019-05-15 18:54:06.072:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberOrders.aspx?status=1&ReferralId=2070
+---------------
+2019-05-15 18:54:06.073:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberOrders.aspx?status=1&ReferralId=2070
+---------------
+2019-05-15 18:54:15.023:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/EditShippingAddress.aspx?ReferralId=2070
+---------------
+2019-05-15 18:54:15.024:进入11，请求静默登录http://mail.beidoustar.net/Vshop/EditShippingAddress.aspx?ReferralId=2070
+---------------
+2019-05-15 18:54:15.047:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/ShippingAddresses.aspx?ReferralId=2070
+---------------
+2019-05-15 18:54:15.047:进入11，请求静默登录http://mail.beidoustar.net/Vshop/ShippingAddresses.aspx?ReferralId=2070
+---------------
+2019-05-15 18:54:41.903:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 18:54:41.903:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 18:54:42.935:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AMzEk2uQNzE0ov8Dk2lxCEk2AMzEa&state=STATE
+---------------
+2019-05-15 18:54:42.935:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AMzEk2uQNzE0ov8Dk2lxCEk2AMzEa&state=STATE
+---------------
+2019-05-15 18:54:43.061:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AMzEk2uQNzE0ov8Dk2lxCEk2AMzEa&state=STATE
+---------------
+2019-05-15 18:54:43.064:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AMzEk2uQNzE0ov8Dk2lxCEk2AMzEa&state=STATE
+---------------
+2019-05-15 18:54:43.264:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AMzEk2uQNzE0ov8Dk2lxCEk2AMzEa&state=STATE
+---------------
+2019-05-15 18:54:43.343:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AMzEk2uQNzE0ov8Dk2lxCEk2AMzEa&state=STATE
+---------------
+2019-05-15 18:54:43.400:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AMzEk2uQNzE0ov8Dk2lxCEk2AMzEa&state=STATE
+---------------
+2019-05-15 18:54:47.955:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071oTsIc0b3pOB1FrsLc09O9Ic0oTsII&state=STATE
+---------------
+2019-05-15 18:54:47.956:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071oTsIc0b3pOB1FrsLc09O9Ic0oTsII&state=STATE
+---------------
+2019-05-15 18:54:48.056:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071oTsIc0b3pOB1FrsLc09O9Ic0oTsII&state=STATE
+---------------
+2019-05-15 18:54:48.169:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=071oTsIc0b3pOB1FrsLc09O9Ic0oTsII&state=STATE
+---------------
+2019-05-15 19:04:50.820:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 19:04:50.821:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 19:08:27.662:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 19:08:27.662:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 19:08:28.303:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071uMBac0MPr5A1mgCac0ItVac0uMBaM&state=STATE
+---------------
+2019-05-15 19:08:28.304:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071uMBac0MPr5A1mgCac0ItVac0uMBaM&state=STATE
+---------------
+2019-05-15 19:08:28.516:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071uMBac0MPr5A1mgCac0ItVac0uMBaM&state=STATE
+---------------
+2019-05-15 19:08:28.520:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071uMBac0MPr5A1mgCac0ItVac0uMBaM&state=STATE
+---------------
+2019-05-15 19:08:28.714:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071uMBac0MPr5A1mgCac0ItVac0uMBaM&state=STATE
+---------------
+2019-05-15 19:08:28.798:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071uMBac0MPr5A1mgCac0ItVac0uMBaM&state=STATE
+---------------
+2019-05-15 19:08:28.855:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071uMBac0MPr5A1mgCac0ItVac0uMBaM&state=STATE
+---------------
+2019-05-15 19:08:29.442:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071wBFJS1Jd7U31miZJS1xCNJS1wBFJ1&state=STATE
+---------------
+2019-05-15 19:08:29.443:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071wBFJS1Jd7U31miZJS1xCNJS1wBFJ1&state=STATE
+---------------
+2019-05-15 19:08:29.552:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071wBFJS1Jd7U31miZJS1xCNJS1wBFJ1&state=STATE
+---------------
+2019-05-15 19:08:29.641:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=071wBFJS1Jd7U31miZJS1xCNJS1wBFJ1&state=STATE
+---------------
+2019-05-15 19:11:07.749:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 19:11:07.750:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 19:11:09.038:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJ38g1K11lr0gpS6g1Np28g1yJ38E&state=STATE
+---------------
+2019-05-15 19:11:09.039:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJ38g1K11lr0gpS6g1Np28g1yJ38E&state=STATE
+---------------
+2019-05-15 19:11:09.157:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJ38g1K11lr0gpS6g1Np28g1yJ38E&state=STATE
+---------------
+2019-05-15 19:11:09.161:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJ38g1K11lr0gpS6g1Np28g1yJ38E&state=STATE
+---------------
+2019-05-15 19:11:09.356:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJ38g1K11lr0gpS6g1Np28g1yJ38E&state=STATE
+---------------
+2019-05-15 19:11:09.451:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJ38g1K11lr0gpS6g1Np28g1yJ38E&state=STATE
+---------------
+2019-05-15 19:11:09.507:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011yJ38g1K11lr0gpS6g1Np28g1yJ38E&state=STATE
+---------------
+2019-05-15 19:11:12.868:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AY2rQ0iKvw62WMRqQ0nm1rQ0AY2r-&state=STATE
+---------------
+2019-05-15 19:11:12.869:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AY2rQ0iKvw62WMRqQ0nm1rQ0AY2r-&state=STATE
+---------------
+2019-05-15 19:11:12.975:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AY2rQ0iKvw62WMRqQ0nm1rQ0AY2r-&state=STATE
+---------------
+2019-05-15 19:11:13.093:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=011AY2rQ0iKvw62WMRqQ0nm1rQ0AY2r-&state=STATE
+---------------
+2019-05-15 19:33:12.123:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1396
+---------------
+2019-05-15 19:33:12.124:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=1396
+---------------
+2019-05-15 19:33:48.863:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=150
+---------------
+2019-05-15 19:33:48.863:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=150
+---------------
+2019-05-15 19:34:10.777:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:34:10.777:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:34:12.139:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1396
+---------------
+2019-05-15 19:34:12.140:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=1396
+---------------
+2019-05-15 19:34:20.436:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:34:20.436:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:34:23.384:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061NXscX0xiwdV1jndcX00sTcX0NXscp&state=STATE
+---------------
+2019-05-15 19:34:23.385:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061NXscX0xiwdV1jndcX00sTcX0NXscp&state=STATE
+---------------
+2019-05-15 19:34:23.626:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061NXscX0xiwdV1jndcX00sTcX0NXscp&state=STATE
+---------------
+2019-05-15 19:34:23.629:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061NXscX0xiwdV1jndcX00sTcX0NXscp&state=STATE
+---------------
+2019-05-15 19:34:24.064:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061NXscX0xiwdV1jndcX00sTcX0NXscp&state=STATE
+---------------
+2019-05-15 19:34:24.150:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061NXscX0xiwdV1jndcX00sTcX0NXscp&state=STATE
+---------------
+2019-05-15 19:34:24.201:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061NXscX0xiwdV1jndcX00sTcX0NXscp&state=STATE
+---------------
+2019-05-15 19:34:28.706:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0814Jp842p1MXN0wez842Z3F8424Jp8Q&state=STATE
+---------------
+2019-05-15 19:34:28.706:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0814Jp842p1MXN0wez842Z3F8424Jp8Q&state=STATE
+---------------
+2019-05-15 19:34:28.819:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0814Jp842p1MXN0wez842Z3F8424Jp8Q&state=STATE
+---------------
+2019-05-15 19:34:28.932:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0814Jp842p1MXN0wez842Z3F8424Jp8Q&state=STATE
+---------------
+2019-05-15 19:34:45.295:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1767
+---------------
+2019-05-15 19:34:45.296:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=1767
+---------------
+2019-05-15 19:34:49.144:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=150
+---------------
+2019-05-15 19:34:49.144:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=150
+---------------
+2019-05-15 19:34:49.455:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:34:49.455:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:34:50.247:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=01188JLu1VuKff0dCIMu1VRFLu188JLO&state=STATE
+---------------
+2019-05-15 19:34:50.247:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=01188JLu1VuKff0dCIMu1VRFLu188JLO&state=STATE
+---------------
+2019-05-15 19:34:50.359:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=01188JLu1VuKff0dCIMu1VRFLu188JLO&state=STATE
+---------------
+2019-05-15 19:34:50.364:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=01188JLu1VuKff0dCIMu1VRFLu188JLO&state=STATE
+---------------
+2019-05-15 19:34:50.833:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=01188JLu1VuKff0dCIMu1VRFLu188JLO&state=STATE
+---------------
+2019-05-15 19:34:50.910:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=01188JLu1VuKff0dCIMu1VRFLu188JLO&state=STATE
+---------------
+2019-05-15 19:34:50.967:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=01188JLu1VuKff0dCIMu1VRFLu188JLO&state=STATE
+---------------
+2019-05-15 19:34:54.368:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0812dfQo1T2rUi0kT5Po1V6FQo12dfQm&state=STATE
+---------------
+2019-05-15 19:34:54.369:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0812dfQo1T2rUi0kT5Po1V6FQo12dfQm&state=STATE
+---------------
+2019-05-15 19:34:54.478:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0812dfQo1T2rUi0kT5Po1V6FQo12dfQm&state=STATE
+---------------
+2019-05-15 19:34:54.594:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0812dfQo1T2rUi0kT5Po1V6FQo12dfQm&state=STATE
+---------------
+2019-05-15 19:35:45.168:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1767
+---------------
+2019-05-15 19:35:45.169:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=1767
+---------------
+2019-05-15 19:39:04.625:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:39:04.626:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:39:05.772:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021Day6J1CK6U20nan6J1MYp6J1Day6Q&state=STATE
+---------------
+2019-05-15 19:39:05.773:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021Day6J1CK6U20nan6J1MYp6J1Day6Q&state=STATE
+---------------
+2019-05-15 19:39:06.010:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021Day6J1CK6U20nan6J1MYp6J1Day6Q&state=STATE
+---------------
+2019-05-15 19:39:06.013:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021Day6J1CK6U20nan6J1MYp6J1Day6Q&state=STATE
+---------------
+2019-05-15 19:39:06.430:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021Day6J1CK6U20nan6J1MYp6J1Day6Q&state=STATE
+---------------
+2019-05-15 19:39:06.492:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021Day6J1CK6U20nan6J1MYp6J1Day6Q&state=STATE
+---------------
+2019-05-15 19:39:06.552:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021Day6J1CK6U20nan6J1MYp6J1Day6Q&state=STATE
+---------------
+2019-05-15 19:39:09.023:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061YTLnN08UAQb2SZYjN0qWHnN0YTLnn&state=STATE
+---------------
+2019-05-15 19:39:09.023:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061YTLnN08UAQb2SZYjN0qWHnN0YTLnn&state=STATE
+---------------
+2019-05-15 19:39:09.139:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061YTLnN08UAQb2SZYjN0qWHnN0YTLnn&state=STATE
+---------------
+2019-05-15 19:39:09.252:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=061YTLnN08UAQb2SZYjN0qWHnN0YTLnn&state=STATE
+---------------
+2019-05-15 19:39:14.057:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:39:14.058:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:42:32.745:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:42:32.745:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:54:19.077:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1616
+---------------
+2019-05-15 19:54:19.078:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=1616
+---------------
+2019-05-15 19:54:19.812:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=061uMiiI0ZogCg2cy5jI0h94iI0uMiiq&state=STATE
+---------------
+2019-05-15 19:54:19.812:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=061uMiiI0ZogCg2cy5jI0h94iI0uMiiq&state=STATE
+---------------
+2019-05-15 19:54:20.058:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=061uMiiI0ZogCg2cy5jI0h94iI0uMiiq&state=STATE
+---------------
+2019-05-15 19:54:20.062:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=061uMiiI0ZogCg2cy5jI0h94iI0uMiiq&state=STATE
+---------------
+2019-05-15 19:54:20.629:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=061uMiiI0ZogCg2cy5jI0h94iI0uMiiq&state=STATE
+---------------
+2019-05-15 19:54:20.741:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=061uMiiI0ZogCg2cy5jI0h94iI0uMiiq&state=STATE
+---------------
+2019-05-15 19:54:20.806:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=061uMiiI0ZogCg2cy5jI0h94iI0uMiiq&state=STATE
+---------------
+2019-05-15 19:54:24.912:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=071U5anx1i2Tbh0aK2jx19xXmx1U5anI&state=STATE
+---------------
+2019-05-15 19:54:24.913:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=071U5anx1i2Tbh0aK2jx19xXmx1U5anI&state=STATE
+---------------
+2019-05-15 19:54:25.020:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=071U5anx1i2Tbh0aK2jx19xXmx1U5anI&state=STATE
+---------------
+2019-05-15 19:54:25.135:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=1616&code=071U5anx1i2Tbh0aK2jx19xXmx1U5anI&state=STATE
+---------------
+2019-05-15 19:54:51.662:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:54:51.662:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:54:52.626:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021ufORn0UQ3Sl1gjCRn0M8PRn0ufOR5&state=STATE
+---------------
+2019-05-15 19:54:52.627:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021ufORn0UQ3Sl1gjCRn0M8PRn0ufOR5&state=STATE
+---------------
+2019-05-15 19:54:52.847:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021ufORn0UQ3Sl1gjCRn0M8PRn0ufOR5&state=STATE
+---------------
+2019-05-15 19:54:52.850:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021ufORn0UQ3Sl1gjCRn0M8PRn0ufOR5&state=STATE
+---------------
+2019-05-15 19:54:53.256:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021ufORn0UQ3Sl1gjCRn0M8PRn0ufOR5&state=STATE
+---------------
+2019-05-15 19:54:53.345:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021ufORn0UQ3Sl1gjCRn0M8PRn0ufOR5&state=STATE
+---------------
+2019-05-15 19:54:53.396:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021ufORn0UQ3Sl1gjCRn0M8PRn0ufOR5&state=STATE
+---------------
+2019-05-15 19:54:55.940:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=06114Qt40qH03K1GTTv401xVt4014QtL&state=STATE
+---------------
+2019-05-15 19:54:55.941:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=06114Qt40qH03K1GTTv401xVt4014QtL&state=STATE
+---------------
+2019-05-15 19:54:56.047:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=06114Qt40qH03K1GTTv401xVt4014QtL&state=STATE
+---------------
+2019-05-15 19:54:56.147:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=06114Qt40qH03K1GTTv401xVt4014QtL&state=STATE
+---------------
+2019-05-15 19:55:19.480:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=1616
+---------------
+2019-05-15 19:55:19.480:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=1616
+---------------
+2019-05-15 19:56:48.185:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberOrders.aspx?ReferralId=2070
+---------------
+2019-05-15 19:56:48.186:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberOrders.aspx?ReferralId=2070
+---------------
+2019-05-15 19:56:50.702:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:56:50.702:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 19:56:51.812:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0711xi5P0YQGk32swW4P0luB5P01xi5D&state=STATE
+---------------
+2019-05-15 19:56:51.812:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0711xi5P0YQGk32swW4P0luB5P01xi5D&state=STATE
+---------------
+2019-05-15 19:56:52.032:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=0711xi5P0YQGk32swW4P0luB5P01xi5D&state=STATE
+---------------
+2019-05-15 19:59:27.769:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 19:59:27.769:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 19:59:28.774:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081q6eKl1EzrXn0mnPJl1XZDKl1q6eKE&state=STATE
+---------------
+2019-05-15 19:59:28.774:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081q6eKl1EzrXn0mnPJl1XZDKl1q6eKE&state=STATE
+---------------
+2019-05-15 19:59:28.904:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081q6eKl1EzrXn0mnPJl1XZDKl1q6eKE&state=STATE
+---------------
+2019-05-15 19:59:28.907:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081q6eKl1EzrXn0mnPJl1XZDKl1q6eKE&state=STATE
+---------------
+2019-05-15 19:59:29.141:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081q6eKl1EzrXn0mnPJl1XZDKl1q6eKE&state=STATE
+---------------
+2019-05-15 19:59:29.220:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081q6eKl1EzrXn0mnPJl1XZDKl1q6eKE&state=STATE
+---------------
+2019-05-15 19:59:29.277:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081q6eKl1EzrXn0mnPJl1XZDKl1q6eKE&state=STATE
+---------------
+2019-05-15 19:59:31.965:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=061egEr41JbkeS118Pt41KBsr41egErd&state=STATE
+---------------
+2019-05-15 19:59:31.966:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=061egEr41JbkeS118Pt41KBsr41egErd&state=STATE
+---------------
+2019-05-15 19:59:32.084:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=061egEr41JbkeS118Pt41KBsr41egErd&state=STATE
+---------------
+2019-05-15 19:59:32.210:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=061egEr41JbkeS118Pt41KBsr41egErd&state=STATE
+---------------
+2019-05-15 20:01:00.264:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/AddShippingAddress.aspx?returnUrl=http://mail.beidoustar.net/Vshop/SubmmitOrder.aspx?buyAmount=1&productSku=7_6&limitedTimeDiscountId=0&from=signBuy&ReferralId=0
+---------------
+2019-05-15 20:01:00.265:进入11，请求静默登录http://mail.beidoustar.net/Vshop/AddShippingAddress.aspx?returnUrl=http://mail.beidoustar.net/Vshop/SubmmitOrder.aspx?buyAmount=1&productSku=7_6&limitedTimeDiscountId=0&from=signBuy&ReferralId=0
+---------------
+2019-05-15 20:02:17.848:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0
+---------------
+2019-05-15 20:02:17.848:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0
+---------------
+2019-05-15 20:02:19.104:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=071epeTO1M98la1K61SO10YXSO1epeT7&state=STATE
+---------------
+2019-05-15 20:02:19.104:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=071epeTO1M98la1K61SO10YXSO1epeT7&state=STATE
+---------------
+2019-05-15 20:02:19.186:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&code=071epeTO1M98la1K61SO10YXSO1epeT7&state=STATE
+---------------
+2019-05-15 20:03:20.490:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 20:03:20.491:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 20:03:21.652:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021qjNGe1l2gAz0D0RGe149YGe1qjNGY&state=STATE
+---------------
+2019-05-15 20:03:21.652:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021qjNGe1l2gAz0D0RGe149YGe1qjNGY&state=STATE
+---------------
+2019-05-15 20:03:21.901:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021qjNGe1l2gAz0D0RGe149YGe1qjNGY&state=STATE
+---------------
+2019-05-15 20:03:21.904:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021qjNGe1l2gAz0D0RGe149YGe1qjNGY&state=STATE
+---------------
+2019-05-15 20:03:22.355:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021qjNGe1l2gAz0D0RGe149YGe1qjNGY&state=STATE
+---------------
+2019-05-15 20:03:22.444:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021qjNGe1l2gAz0D0RGe149YGe1qjNGY&state=STATE
+---------------
+2019-05-15 20:03:22.499:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=021qjNGe1l2gAz0D0RGe149YGe1qjNGY&state=STATE
+---------------
+2019-05-15 20:03:36.202:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=00166eQV1R6axY0FSwQV1Hx5QV166eQg&state=STATE
+---------------
+2019-05-15 20:03:36.203:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=00166eQV1R6axY0FSwQV1Hx5QV166eQg&state=STATE
+---------------
+2019-05-15 20:03:36.322:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=00166eQV1R6axY0FSwQV1Hx5QV166eQg&state=STATE
+---------------
+2019-05-15 20:03:36.432:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=00166eQV1R6axY0FSwQV1Hx5QV166eQg&state=STATE
+---------------
+2019-05-15 20:22:39.559:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 20:22:39.560:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 20:22:40.161:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=0711zMio0C1sIl1kguko0Ovzio01zMiT&state=STATE
+---------------
+2019-05-15 20:22:40.162:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=0711zMio0C1sIl1kguko0Ovzio01zMiT&state=STATE
+---------------
+2019-05-15 20:22:40.389:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=0711zMio0C1sIl1kguko0Ovzio01zMiT&state=STATE
+---------------
+2019-05-15 20:22:40.393:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=0711zMio0C1sIl1kguko0Ovzio01zMiT&state=STATE
+---------------
+2019-05-15 20:22:40.695:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=0711zMio0C1sIl1kguko0Ovzio01zMiT&state=STATE
+---------------
+2019-05-15 20:22:40.787:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=0711zMio0C1sIl1kguko0Ovzio01zMiT&state=STATE
+---------------
+2019-05-15 20:22:40.852:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=0711zMio0C1sIl1kguko0Ovzio01zMiT&state=STATE
+---------------
+2019-05-15 20:22:41.566:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011fncnu0tWuBh1Ydaru0uB5nu0fncnK&state=STATE
+---------------
+2019-05-15 20:22:41.566:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011fncnu0tWuBh1Ydaru0uB5nu0fncnK&state=STATE
+---------------
+2019-05-15 20:22:41.670:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011fncnu0tWuBh1Ydaru0uB5nu0fncnK&state=STATE
+---------------
+2019-05-15 20:22:41.771:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=011fncnu0tWuBh1Ydaru0uB5nu0fncnK&state=STATE
+---------------
+2019-05-15 20:27:12.235:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=1312
+---------------
+2019-05-15 20:27:12.235:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=1312
+---------------
+2019-05-15 20:28:04.641:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 20:28:04.641:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 20:30:35.818:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=1312
+---------------
+2019-05-15 20:30:35.818:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=1312
+---------------
+2019-05-15 20:35:16.214:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=6290
+---------------
+2019-05-15 20:35:16.214:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=6290
+---------------
+2019-05-15 20:38:53.560:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/FriendsCircle.aspx?UserID=                                6290&ReferralId=6290
+---------------
+2019-05-15 20:38:53.560:进入11，请求静默登录http://mail.beidoustar.net/Vshop/FriendsCircle.aspx?UserID=                                6290&ReferralId=6290
+---------------
+2019-05-15 21:00:42.850:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=1312
+---------------
+2019-05-15 21:00:42.851:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=1312
+---------------
+2019-05-15 21:08:51.508:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/SubmmitOrder.aspx?buyAmount=1&productSku=7_6&limitedTimeDiscountId=0&from=signBuy&ReferralId=1312
+---------------
+2019-05-15 21:08:51.508:进入11，请求静默登录http://mail.beidoustar.net/Vshop/SubmmitOrder.aspx?buyAmount=1&productSku=7_6&limitedTimeDiscountId=0&from=signBuy&ReferralId=1312
+---------------
+2019-05-15 21:21:50.611:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 21:21:50.611:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 21:25:56.352:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=7311
+---------------
+2019-05-15 21:25:56.352:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=7311
+---------------
+2019-05-15 21:26:56.526:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=7311
+---------------
+2019-05-15 21:26:56.527:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=7311
+---------------
+2019-05-15 21:26:57.202:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=7311
+---------------
+2019-05-15 21:26:57.202:进入11，请求静默登录http://mail.beidoustar.net/vshop/DistributorRegCheck.aspx?ReferralId=7311
+---------------
+2019-05-15 21:26:59.440:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MyMembers.aspx?gradeId=1&UserID=                                7311&ReferralId=7311
+---------------
+2019-05-15 21:26:59.440:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MyMembers.aspx?gradeId=1&UserID=                                7311&ReferralId=7311
+---------------
+2019-05-15 21:30:27.168:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/StoreCard.aspx?userId=2070&ReferralId=2070
+---------------
+2019-05-15 21:30:27.169:进入11，请求静默登录http://mail.beidoustar.net/Vshop/StoreCard.aspx?userId=2070&ReferralId=2070
+---------------
+2019-05-15 21:36:13.751:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=3260
+---------------
+2019-05-15 21:36:13.752:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=3260
+---------------
+2019-05-15 21:37:07.610:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=3260
+---------------
+2019-05-15 21:37:07.611:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=3260
+---------------
+2019-05-15 21:44:33.588:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 21:44:33.588:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 21:44:34.699:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001I6tBI1ftYp10r7TCI1Z7dBI1I6tBh&state=STATE
+---------------
+2019-05-15 21:44:34.699:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001I6tBI1ftYp10r7TCI1Z7dBI1I6tBh&state=STATE
+---------------
+2019-05-15 21:44:34.953:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001I6tBI1ftYp10r7TCI1Z7dBI1I6tBh&state=STATE
+---------------
+2019-05-15 21:44:34.957:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001I6tBI1ftYp10r7TCI1Z7dBI1I6tBh&state=STATE
+---------------
+2019-05-15 21:44:35.172:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001I6tBI1ftYp10r7TCI1Z7dBI1I6tBh&state=STATE
+---------------
+2019-05-15 21:44:35.261:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001I6tBI1ftYp10r7TCI1Z7dBI1I6tBh&state=STATE
+---------------
+2019-05-15 21:44:35.331:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=001I6tBI1ftYp10r7TCI1Z7dBI1I6tBh&state=STATE
+---------------
+2019-05-15 21:44:36.498:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081zrK9T0CoyWY1Vsl9T0At2aT0zrK9y&state=STATE
+---------------
+2019-05-15 21:44:36.498:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081zrK9T0CoyWY1Vsl9T0At2aT0zrK9y&state=STATE
+---------------
+2019-05-15 21:44:36.610:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081zrK9T0CoyWY1Vsl9T0At2aT0zrK9y&state=STATE
+---------------
+2019-05-15 21:44:36.727:进入16，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=081zrK9T0CoyWY1Vsl9T0At2aT0zrK9y&state=STATE
+---------------
+2019-05-15 22:04:10.055:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=7311
+---------------
+2019-05-15 22:04:10.055:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=7311
+---------------
+2019-05-15 22:04:30.481:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 22:04:30.481:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=2070
+---------------
+2019-05-15 22:04:31.294:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=081OaZ7704IiSE1NL16700vJ770OaZ7a&state=STATE
+---------------
+2019-05-15 22:04:31.294:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=081OaZ7704IiSE1NL16700vJ770OaZ7a&state=STATE
+---------------
+2019-05-15 22:04:31.377:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=2070&code=081OaZ7704IiSE1NL16700vJ770OaZ7a&state=STATE
+---------------
+2019-05-15 22:06:12.017:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=4311
+---------------
+2019-05-15 22:06:12.017:进入11，请求静默登录http://mail.beidoustar.net/Vshop/DistributorCenter.aspx?ReferralId=4311
+---------------
+2019-05-15 22:20:42.563:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2043
+---------------
+2019-05-15 22:20:42.563:进入1，必须登录的页面，并且无code请求http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2043
+---------------
+2019-05-15 22:21:42.565:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2043
+---------------
+2019-05-15 22:21:42.565:进入11，请求静默登录http://mail.beidoustar.net/Vshop/MemberCenter.aspx?ReferralId=2043
+---------------
+2019-05-15 22:33:11.170:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 22:33:11.171:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage
+---------------
+2019-05-15 22:33:12.389:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081fmK4f0waMEu1mTI3f0xgN4f0fmK4r&state=STATE
+---------------
+2019-05-15 22:33:12.389:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081fmK4f0waMEu1mTI3f0xgN4f0fmK4r&state=STATE
+---------------
+2019-05-15 22:33:12.507:获取到access_tokenhttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081fmK4f0waMEu1mTI3f0xgN4f0fmK4r&state=STATE
+---------------
+2019-05-15 22:33:12.511:开始注册匿名会员http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081fmK4f0waMEu1mTI3f0xgN4f0fmK4r&state=STATE
+---------------
+2019-05-15 22:33:12.717:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081fmK4f0waMEu1mTI3f0xgN4f0fmK4r&state=STATE
+---------------
+2019-05-15 22:33:12.809:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081fmK4f0waMEu1mTI3f0xgN4f0fmK4r&state=STATE
+---------------
+2019-05-15 22:33:12.869:获取不到access_token,说明需要授权登录，去获得code参数http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081fmK4f0waMEu1mTI3f0xgN4f0fmK4r&state=STATE
+---------------
+2019-05-15 22:33:16.613:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081E2XUd2gGRJG0nrjUd2CPXUd2E2XUN&state=STATE
+---------------
+2019-05-15 22:33:16.614:进入4，code请求地址，获取用户基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081E2XUd2gGRJG0nrjUd2CPXUd2E2XUN&state=STATE
+---------------
+2019-05-15 22:33:16.730:进入5，准备获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081E2XUd2gGRJG0nrjUd2CPXUd2E2XUN&state=STATE
+---------------
+2019-05-15 22:33:16.834:进入16，获取到基本信息http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=0&from=groupmessage&code=081E2XUd2gGRJG0nrjUd2CPXUd2E2XUN&state=STATE
+---------------
+2019-05-15 22:35:51.959:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductList.aspx?categoryId=1&keyWord=&sort=VistiCounts&order=asc&ReferralId=0
+---------------
+2019-05-15 22:35:51.960:进入11，请求静默登录http://mail.beidoustar.net/ProductList.aspx?categoryId=1&keyWord=&sort=VistiCounts&order=asc&ReferralId=0
+---------------
+2019-05-15 22:35:53.624:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductList.aspx?categoryId=1&keyWord=&sort=showsaleCounts&order=asc&ReferralId=0
+---------------
+2019-05-15 22:35:53.625:进入11，请求静默登录http://mail.beidoustar.net/ProductList.aspx?categoryId=1&keyWord=&sort=showsaleCounts&order=asc&ReferralId=0
+---------------
+2019-05-15 22:43:56.053:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 22:43:56.053:进入11，请求静默登录http://mail.beidoustar.net/Follow.aspx?ReferralId=0
+---------------
+2019-05-15 22:43:56.963:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=061l68aP0nvXe52RRK9P0oOW9P0l68a3&state=STATE
+---------------
+2019-05-15 22:43:56.963:无openid Cookie，并请求access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=061l68aP0nvXe52RRK9P0oOW9P0l68a3&state=STATE
+---------------
+2019-05-15 22:43:57.220:获取到access_tokenhttp://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=061l68aP0nvXe52RRK9P0oOW9P0l68a3&state=STATE
+---------------
+2019-05-15 22:43:57.224:开始注册匿名会员http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=061l68aP0nvXe52RRK9P0oOW9P0l68a3&state=STATE
+---------------
+2019-05-15 22:43:57.536:进入5，准备获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=061l68aP0nvXe52RRK9P0oOW9P0l68a3&state=STATE
+---------------
+2019-05-15 22:43:57.641:进入116，获取到基本信息http://mail.beidoustar.net/Follow.aspx?ReferralId=0&code=061l68aP0nvXe52RRK9P0oOW9P0l68a3&state=STATE
+---------------
+2019-05-15 22:46:37.716:进入9，获取OpenID的Cookiehttp://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=2110&from=groupmessage
+---------------
+2019-05-15 22:46:37.717:进入11，请求静默登录http://mail.beidoustar.net/ProductDetails.aspx?productId=7&ReferralId=2110&from=groupmessage
+---------------

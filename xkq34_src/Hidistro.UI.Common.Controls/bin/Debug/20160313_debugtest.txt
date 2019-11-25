@@ -1,0 +1,16 @@
+2016-03-13 13:49:38.400:进入9，获取OpenID的Cookiehttp://www.888158.com/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2016-03-13 13:49:38.400:进入1，必须登录的页面，并且无code请求http://www.888158.com/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2016-03-13 13:49:38.400:进入2，检测为匿名用户，并请求授权登录，去获得code参数http://www.888158.com/Vshop/MemberCenter.aspx?ReferralId=0
+---------------
+2016-03-13 13:49:42.004:进入9，获取OpenID的Cookiehttp://www.888158.com/Vshop/MemberCenter.aspx?ReferralId=0&code=021c571a083423e9a65d3c823f56787k&state=STATE
+---------------
+2016-03-13 13:49:42.004:进入4，code请求地址，获取用户基本信息http://www.888158.com/Vshop/MemberCenter.aspx?ReferralId=0&code=021c571a083423e9a65d3c823f56787k&state=STATE
+---------------
+2016-03-13 13:49:42.238:进入5，准备获取到基本信息http://www.888158.com/Vshop/MemberCenter.aspx?ReferralId=0&code=021c571a083423e9a65d3c823f56787k&state=STATE
+---------------
+2016-03-13 13:49:42.300:进入16，获取到基本信息http://www.888158.com/Vshop/MemberCenter.aspx?ReferralId=0&code=021c571a083423e9a65d3c823f56787k&state=STATE
+---------------
+2016-03-13 13:49:42.300:进入16，检测用户信息为空，清空Cookie并跳转到首页http://www.888158.com/Vshop/MemberCenter.aspx?ReferralId=0&code=021c571a083423e9a65d3c823f56787k&state=STATE
+---------------

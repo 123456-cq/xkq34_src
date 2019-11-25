@@ -1,0 +1,22 @@
+2019-07-31 09:02:42:AliOpneid:
+---------------
+2019-07-31 09:02:42:当前微信模板类型：OrderGetCommission,会员|分销商o1Adz0YELbmqLMbyXd_Kshk7Q9X8|
+---------------
+2019-07-31 09:02:42:当前模板类型：OrderGetCommission,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------
+2019-07-31 11:05:12:当前微信模板类型：DistributorCreate,会员o1Adz0ZRU3KhS358zYfF1_AHdhMk|分销商|
+---------------
+2019-07-31 11:05:12:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-07-31 11:55:11:当前微信模板类型：DistributorCreate,会员o1Adz0Qd2TPttWj-BsbxVBXE_HRM|分销商|
+---------------
+2019-07-31 11:55:11:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-07-31 12:07:19:当前模板类型：PasswordReset,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-07-31 12:07:19:当前微信模板类型：PasswordReset,会员o1Adz0Qd2TPttWj-BsbxVBXE_HRM|分销商|
+---------------
+2019-07-31 17:52:42:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-07-31 17:52:42:当前微信模板类型：DistributorCreate,会员o1Adz0atF3DdtUzL5syNqO1Hk04g|分销商|
+---------------
