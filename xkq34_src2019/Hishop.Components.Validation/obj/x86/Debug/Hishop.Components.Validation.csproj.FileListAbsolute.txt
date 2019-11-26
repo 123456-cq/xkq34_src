@@ -1,0 +1,10 @@
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.Components.Validation\bin\Debug\Hishop.Components.Validation.dll
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.Components.Validation\bin\Debug\Hishop.Components.Validation.pdb
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.Components.Validation\obj\x86\Debug\Hishop.Components.Validation.dll
+D:\kingwoo\销客多3.3\wwwroot1\Hishop.Components.Validation\obj\x86\Debug\Hishop.Components.Validation.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Components.Validation\bin\Debug\Hishop.Components.Validation.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Components.Validation\bin\Debug\Hishop.Components.Validation.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Components.Validation\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Components.Validation\obj\x86\Debug\Hishop.Components.Validation.Properties.Resources.resources
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Components.Validation\obj\x86\Debug\Hishop.Components.Validation.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Components.Validation\obj\x86\Debug\Hishop.Components.Validation.pdb

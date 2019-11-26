@@ -1,0 +1,96 @@
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Messages.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Messages.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\AopSdk.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Core.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Entities.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.SqlDal.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.AlipayFuwu.Api.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Plugins.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Weixin.MP.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Components.Validation.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Newtonsoft.Json.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Core.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Entities.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Plugins.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Weixin.MP.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.AlipayFuwu.Api.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.SqlDal.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Components.Validation.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.pdb
+F:\淘宝上架源码\082 销客多3.4\xkq34_src\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.csprojResolveAssemblyReference.cache
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.csprojResolveAssemblyReference.cache
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Messages.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Messages.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\AopSdk.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Core.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Entities.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.SqlDal.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.AlipayFuwu.Api.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Plugins.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Weixin.MP.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Components.Validation.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Entities.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.SqlDal.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Core.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Plugins.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Weixin.MP.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.AlipayFuwu.Api.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Components.Validation.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.dll
+C:\Users\nsj\Desktop\xkq34_src\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Messages.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Messages.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\AopSdk.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Core.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Entities.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.SqlDal.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.AlipayFuwu.Api.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Plugins.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Weixin.MP.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Components.Validation.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Newtonsoft.Json.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Entities.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.SqlDal.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hidistro.Core.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Plugins.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Weixin.MP.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.AlipayFuwu.Api.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\bin\Debug\Hishop.Components.Validation.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.csprojResolveAssemblyReference.cache
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hidistro.Messages.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hidistro.Messages.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\AopSdk.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hidistro.Core.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hidistro.Entities.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hidistro.SqlDal.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hishop.AlipayFuwu.Api.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hishop.Plugins.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hishop.Weixin.MP.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hishop.Components.Validation.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hidistro.Entities.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hidistro.SqlDal.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hidistro.Core.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hishop.Plugins.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hishop.Weixin.MP.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hishop.AlipayFuwu.Api.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\bin\Debug\Hishop.Components.Validation.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hidistro.Messages\obj\x86\Debug\Hidistro.Messages.pdb

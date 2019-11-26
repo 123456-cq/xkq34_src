@@ -1,0 +1,24 @@
+2019-04-03 10:37:13:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-03 10:37:13:当前微信模板类型：DistributorCreate,会员o1Adz0XTX2xjeQijamyIKBbMFRHw|分销商|
+---------------
+2019-04-03 10:43:50:当前模板类型：OrderCreate,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------
+2019-04-03 10:43:50:当前微信模板类型：OrderCreate,会员o1Adz0XTX2xjeQijamyIKBbMFRHw|分销商o1Adz0XTX2xjeQijamyIKBbMFRHw|
+---------------
+2019-04-03 12:06:44:当前微信模板类型：DistributorCreate,会员o1Adz0Y1ZEa-AzcZdpUZ5qAaj2wQ|分销商|
+---------------
+2019-04-03 12:06:44:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-03 13:58:43:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-03 13:58:43:当前微信模板类型：DistributorCreate,会员o1Adz0SlbXesAdnpJQl19wURDWNw|分销商|
+---------------
+2019-04-03 15:50:08:当前微信模板类型：DistributorCreate,会员o1Adz0Q_rzDdE6kxxpB-FHVGL3LY|分销商|
+---------------
+2019-04-03 15:50:08:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-03 21:14:12:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-03 21:14:12:当前微信模板类型：DistributorCreate,会员o1Adz0cshMzAsNQfxn1GPBFTmnr8|分销商|
+---------------

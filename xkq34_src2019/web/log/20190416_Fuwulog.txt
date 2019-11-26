@@ -1,0 +1,32 @@
+2019-04-16 05:13:28:当前模板类型：ProductAsk,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-16 05:13:28:当前微信模板类型：ProductAsk,会员|分销商|
+---------------
+2019-04-16 05:53:42:当前微信模板类型：DistributorCreate,会员o1Adz0ewFcqhYVAYrbvukpfeVtjg|分销商|
+---------------
+2019-04-16 05:53:42:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-16 06:29:32:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-16 06:29:32:当前微信模板类型：DistributorCreate,会员o1Adz0USGh1RpVL66b9k0wd32KRU|分销商|
+---------------
+2019-04-16 09:39:56:当前微信模板类型：OrderCreate,会员o1Adz0YJUbJGJYiEsSACsOJ-nNvg|分销商o1Adz0ZCe5uNRxxs2GiKHFYLz7cc|
+---------------
+2019-04-16 09:39:56:当前模板类型：OrderCreate,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------
+2019-04-16 09:43:14:当前微信模板类型：OrderCreate,会员o1Adz0YJUbJGJYiEsSACsOJ-nNvg|分销商o1Adz0ZCe5uNRxxs2GiKHFYLz7cc|
+---------------
+2019-04-16 09:43:14:当前模板类型：OrderCreate,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------
+2019-04-16 09:44:47:当前微信模板类型：OrderPay,会员o1Adz0YJUbJGJYiEsSACsOJ-nNvg|分销商o1Adz0ZCe5uNRxxs2GiKHFYLz7cc|
+---------------
+2019-04-16 09:44:47:当前模板类型：OrderPay,会员|分销商|5e21cc85436b48c693fd7816345d6a97
+---------------
+2019-04-16 15:08:42:当前微信模板类型：DistributorCreate,会员o1Adz0VQVYA_VqeTGcNt_a7eHehg|分销商|
+---------------
+2019-04-16 15:08:42:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-16 21:53:08:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-16 21:53:08:当前微信模板类型：DistributorCreate,会员o1Adz0bXwIztCHZX3A_LVUrj4e8Y|分销商|
+---------------

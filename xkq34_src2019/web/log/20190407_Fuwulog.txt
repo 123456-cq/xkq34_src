@@ -1,0 +1,24 @@
+2019-04-07 09:13:08:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-07 09:13:08:当前微信模板类型：DistributorCreate,会员o1Adz0eAo-KQBgiUCRnSRqxR42yA|分销商|
+---------------
+2019-04-07 16:44:10:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-07 16:44:10:当前微信模板类型：DistributorCreate,会员o1Adz0aQkjBsiZ8xqyEn2KGxA6xU|分销商|
+---------------
+2019-04-07 17:57:28:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-07 17:57:28:当前微信模板类型：DistributorCreate,会员o1Adz0TW_JWfUNuxiWFio2oLeQb0|分销商|
+---------------
+2019-04-07 18:36:07:当前模板类型：PasswordReset,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-07 18:36:07:当前微信模板类型：PasswordReset,会员o1Adz0XHcI43ZIxaDWGJbtiYgJ6c|分销商|
+---------------
+2019-04-07 18:36:50:当前微信模板类型：PasswordReset,会员o1Adz0XHcI43ZIxaDWGJbtiYgJ6c|分销商|
+---------------
+2019-04-07 18:36:50:当前模板类型：PasswordReset,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-07 23:08:43:当前模板类型：DistributorCreate,会员|分销商|9e741ecf1d6844c886258004b220d950
+---------------
+2019-04-07 23:08:43:当前微信模板类型：DistributorCreate,会员|分销商|
+---------------

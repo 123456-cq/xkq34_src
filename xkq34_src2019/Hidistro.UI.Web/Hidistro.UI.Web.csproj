@@ -1,0 +1,760 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{50C0B30A-FBF4-426B-9211-BC55DAB3DD3A}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>Hidistro.UI.Web</AssemblyName>
+    <OutputType>Library</OutputType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Hidistro.UI.Web.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;D:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;D:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Hidistro.UI.Web.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;D:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;D:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="C5">
+      <HintPath>..\lib\C5.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging">
+      <HintPath>..\lib\Common.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Hidistro.UI.ControlPanel.Utility">
+      <HintPath>..\Hidistro.UI.ControlPanel.Utility\bin\Debug\Hidistro.UI.ControlPanel.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="LumenWorks.Framework.IO">
+      <HintPath>..\lib\LumenWorks.Framework.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common">
+      <HintPath>..\lib\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder2">
+      <HintPath>..\lib\Microsoft.Practices.ObjectBuilder2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Services3">
+      <HintPath>..\lib\Microsoft.Web.Services3.dll</HintPath>
+    </Reference>
+    <Reference Include="NetDimension.OpenAuth">
+      <HintPath>..\lib\NetDimension.OpenAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="NetDimension.OpenAuth.Sina">
+      <HintPath>..\lib\NetDimension.OpenAuth.Sina.dll</HintPath>
+    </Reference>
+    <Reference Include="Quartz">
+      <HintPath>..\lib\Quartz.dll</HintPath>
+    </Reference>
+    <Reference Include="RazorEngine">
+      <HintPath>..\lib\RazorEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>..\lib\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Extensions">
+      <HintPath>..\lib\System.Net.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks">
+      <HintPath>..\lib\System.Threading.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="Hishop.Weixin.MP">
+      <HintPath>..\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll</HintPath>
+    </Reference>
+    <Reference Include="Hidistro.UI.Common.Controls">
+      <HintPath>..\Hidistro.UI.Common.Controls\bin\Debug\Hidistro.UI.Common.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="ASPNET.WebControls">
+      <HintPath>..\lib\ASPNET.WebControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Hidistro.Core">
+      <HintPath>..\Hidistro.Core\bin\Debug\Hidistro.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Hishop.AlipayFuwu.Api">
+      <HintPath>..\Hishop.AlipayFuwu.Api\bin\Debug\Hishop.AlipayFuwu.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="Hidistro.SaleSystem.Vshop">
+      <HintPath>..\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.SaleSystem.Vshop.dll</HintPath>
+    </Reference>
+    <Reference Include="Hishop.Plugins">
+      <HintPath>..\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\lib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Hishop.Weixin.Pay">
+      <HintPath>..\Hishop.Weixin.Pay\bin\Debug\Hishop.Weixin.Pay.dll</HintPath>
+    </Reference>
+    <Reference Include="AopSdk">
+      <HintPath>..\lib\AopSdk.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Razor">
+      <HintPath>..\lib\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Hidistro.Messages">
+      <HintPath>..\Hidistro.Messages\bin\Debug\Hidistro.Messages.dll</HintPath>
+    </Reference>
+    <Reference Include="Ajax">
+      <HintPath>..\lib\Ajax.dll</HintPath>
+    </Reference>
+    <Reference Include="Hishop.Components.Validation">
+      <HintPath>..\Hishop.Components.Validation\bin\Debug\Hishop.Components.Validation.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>..\lib\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Hishop.MeiQia.Api">
+      <HintPath>..\Hishop.MeiQia.Api\bin\Debug\Hishop.MeiQia.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="ThoughtWorks.QRCode">
+      <HintPath>..\lib\ThoughtWorks.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="HiTemplate">
+      <HintPath>..\HiTemplate\bin\Debug\HiTemplate.dll</HintPath>
+    </Reference>
+    <Reference Include="LitJSON">
+      <HintPath>..\lib\LitJSON.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\lib\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Hishop.TransferManager">
+      <HintPath>..\Hishop.TransferManager\bin\Debug\Hishop.TransferManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Hidistro.Jobs">
+      <HintPath>..\Hidistro.Jobs\bin\Debug\Hidistro.Jobs.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\AccessDenied.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\AdminNew.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\AliFuwu\AliFuwuConfig.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\AliFuwu\AliFuWuMessageTemplates.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\AliFuwu\Alisendalllist.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\AliFuwu\ConcernUrl.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\AliFuwu\EditMenu.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\AliFuwu\ManageAlipayMenu.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\AliFuwu\ReplyEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\AliFuwu\ReplyOnKey.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\AliFuwu\SendAllEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Order_ChargesList.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Order_ItemsList.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Order_ShippingAddress.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\SetMemberRange.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Ascx\ucDateTimePicker.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Bargain\AddBargain.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Bargain\BargainDetial.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Bargain\ManagerBargain.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\CustomDistributorStatistics.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorUpdateList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorUpdateSet.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\ProductSelect.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\StoreCardSet.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\SubStoreCommissions.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\SuperiorSelect.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\test.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\ProductBasePage.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\ProductReviews.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Default.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\BalanceDrawApplyErrorList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\BalanceDrawApplyList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\BalanceDrawRequestList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\BalanceDrawRequestSet.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\BranchAddDistributors.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\CommissionsAllList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\CommissionsList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorApplySet.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorDescription.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorDetails.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorFrozenList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorGradeList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorStatistics.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorStatisticsDetails.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\DistributorSummary.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\EditDistributorGrade.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\FriendExtension.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Fenxiao\MarketingDocuments.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\AddAttribute.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\AddBrandCategory.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\AddSpecification.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ascx\AttributeView.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ascx\SpecificationView.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\BrandCategories.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\CategoryEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\goods\DisplaceCategory.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\EditAttribute.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\EditAttributeValues.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\EditBaseInfo.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\EditBrandCategory.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\EditMemberPrices.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\EditProductType.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\EditSaleCounts.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\EditSpecification.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\EditSpecificationValues.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\EditStocks.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ProductConsultations.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ProductConsultationsReplyed.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ProductEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ProductOnDeleted.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ProductTags.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ProductZero.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ProductOnStock.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ReplyProductConsultation.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ReplyProductConsultations.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\SelectCategory.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\SkuValue.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Login.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Member\api\Hi_Ajax_GetDistributors.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\CustomDistributorAddMembers.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\CustomDistributorDetail.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\CustomDistributorEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\CustomDistributorList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\EditMember.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\member\MembersIntegralDetail.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\member\MembersIntegralQuery.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\member\ManageMembers.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\MemberDetails.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\MemberGrades.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\NoPermissionShow.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\NotPermisson.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Oneyuan\AddOneyuanInfo.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Oneyuan\EditOneyuanInfo.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Oneyuan\OneTaoPartInList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Oneyuan\OneTaoResult.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Oneyuan\OneTaoViewTab.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Oneyuan\OneyuanList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Oneyuan\ProductSelect.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Oneyuan\RefoundList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\OutPay\OneyuanAlipayRefund.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\OutPay\OneyungRefund.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditExchangeProducts.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditLimitedTimeDiscount.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\LimitedTimeDiscountAddProduct.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\LimitedTimeDiscountHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\LimitedTimeDiscountList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\LimitedTimeDiscountProduct.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\PrizeLists.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\PrizeListsDaFuWen.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\PrizeListsEgg.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\PrizeListsGuaGuaLe.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\PrizeListsHaoYun.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\PromotionGamePrizesHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\SelectProductToExchangeHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\SendCouponByManager.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\SetRegisterSendCoupon.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\UCPrizeLists.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\ExpressSet.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\SaveRolePermissionData.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\SetRolePermissions.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\AddNineImages.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Default.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\ImageReplace.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ManageNineImages.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\NoticeEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\NoticeList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ShopEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\UsersSelect.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\testWX.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Sales\MemberRegion.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\MemberRanking_1.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\MemberRoles.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Sales\MemberRanking.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Sales\UserInCreaseStatistics.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\ScoreConfigHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\setScore_share.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\setScore_shopping.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\setScore_sign.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\UserGroupSet.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\OutPay\AliPaynotify_url.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\OutPay\alipayOut.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\ActivityList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddActivity.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddGame.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddGameAct.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddGameDaFuWen.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddGameEgg.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddGameGuaGuaLe.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddGameXingYun.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddProductToActivity.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddProductToActivity_stock.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddProductToCoupon.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddProductToCoupon_stock.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddProductToPointExchange.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddProductToPointExchange_stock.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddShareAct.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\AddVote.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\ConfigHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\CouponsList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\CouponsPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditGame.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditGameDaFuWen.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditGameEgg.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditGameGuaGuaLe.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditGameXingYun.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditProductHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditProductToActivity.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditProductToCoupon.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EditProductToExchange.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\EmailSettings.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\ExChangeList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\GameDaFuWenLists.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\GameEggLists.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\GameGuaGuaLeLists.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\GameLists.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\GameXingYunLists.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\GetCouponDataHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\GetCouponListHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\GetMemberGradesHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\SimpleGradeClass.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\CouponTypes.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\CustomGroup.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\GetVoteItemsHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\hiRegionSelect.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\ImgUpload.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\MemberCouponList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\NewCoupon.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\PointExchange.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\PointToCash.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\PrizeDeliveryDetail.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\PrizeList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\SaveActivityHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\SaveCouponDataHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\SaveVoteHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\SelectProductToActivityHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\SelectProductToCouponHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\ShareActList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\MemberGradeItem.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\UCGameInfo.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\UCGameLists.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\UCGamePrizeInfo.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\promotion\VoteList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Sales\ProductSaleRanking.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Sales\HuiTou.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Sales\OrderStatisticsDetail_L2.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Sales\OrderStatisticsDetail.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Sales\OrderStatistics.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Sales\SaleReport.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\AddExpressTemplate.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\EditExpressTemplate.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\EditShippingTemplate.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\api\Hi_Ajax_Brands.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\api\Hi_Ajax_Categories.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\api\Hi_Ajax_Coupons.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_Graphics.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\api\Hi_Ajax_PointExChange.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\api\Hi_Ajax_Votes.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\AddCustomerService.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\DeleteCustomerService.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\GetCustomerService.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Member\SMSSettings.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\BatchPrintData.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\BatchPrintSendOrderGoods.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\BuyerAlreadyPaid.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\Closed.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\DeliveryOrderPrint.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\EditOrder.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\ExpressOrdersPrint.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\Finished.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\flex\EditXmlData.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\flex\GetPrintData.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\flex\UploadFile.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\flex\XmlData.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Handler1.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_AddFolder.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\api\Hi_Ajax_DelFolder.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\api\Hi_Ajax_DelImg.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_GetFolderTree.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_GetGames.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_GetImgList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_GetItems.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_GetTemplateByID.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_GoodsGourp.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\api\Hi_Ajax_MoveImg.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\api\Hi_Ajax_RenameImg.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_RemoveImgByFolder.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ShopConfigHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\MemberGaiKuang.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ShopIndex.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ShopTempEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\AddExpressTemplate.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\EditExpressTemplate.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\ExpressTemplates.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\ManageOrder.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\OrderDetails.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\OrderSplit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\ProductReviews.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\RecycleStation.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\RecycleStationDetail.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\ReturnsApply.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\SellerAlreadySent.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\SendInfo.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\SendOrderGoods.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\SetLogistics.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\SetOrderOption.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\ShipAddress.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Trade\WaitBuyerPay.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\ArticeSelect.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\EditMenu.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\EditTemplateId.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\GetImagesMsgId.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\GetWeixinProcessor.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\ManyService.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\MessageTemplets.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\RedpackSetting.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\ReplyEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\SendAll.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\SendAllEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\SendAllList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\ValidationService.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\WebForm1.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\WXSendDemo.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\WXConfigChangeBind.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\WXConfigBindOK.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\WXConfig.cs" />
+    <Compile Include="Hidistro\UI\Web\API\AliPayFuwuApi.cs" />
+    <Compile Include="Hidistro\UI\Web\API\AlipayFWMenuProcess.cs" />
+    <Compile Include="Hidistro\UI\Web\API\ExpressReturn.cs" />
+    <Compile Include="Hidistro\UI\Web\API\FootJs1.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_ExchangeProducts.cs" />
+    <Compile Include="Hidistro\UI\Web\API\CreatQRCode.cs" />
+    <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_Game.cs" />
+    <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_GetActivityTopics.cs" />
+    <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_GetProductsCount.cs" />
+    <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_GoodsList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_GoodsListGroup.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_RenameFolder.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_SaveTemplate.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_UploadImg.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Config.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\distributor\DistributorLogoUpload.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\FileCategoryJson.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\FileManagerJson.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\AddProductType.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ExportToPP.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ExportToTB.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ImportFromPP.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ImportFromTB.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ManageCategories1.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ProductOnSales.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Goods\ProductTypes.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\LoginExit.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Member\AddMemberGrade.cs" />
+    <Compile Include="Hidistro\UI\Web\PicRar.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\PIC.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\settings\AddManager.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\AddShippingTemplate.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\COD.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\EditManager.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\EditManagerPassword.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\ExpressComputerpes.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\ExpressTemplates.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\settings\ManageLogs.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\settings\Managers.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\Alipay.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\ChinaBank.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\ManageShippingTemplates.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\OfflinePay.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\PayConfigHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\ShengPay.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\Shippers.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\WeixinPay.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Settings\WeixinRed.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\settings\Roles.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ImageData.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ImageFtp.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ImageType.cs" />
+    <Compile Include="WebSite\Public\plugins\ueditor\controller.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\SaleService.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ShopMenu.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\SimplePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\UploadHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\distributor\upload.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\VsiteHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Articles.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ArticlesEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\AtMessage.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\AutoReply.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Concerned.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\GetArticles.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Goods.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Letter.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\menu.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Message.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\ArticleList.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\MultiArticlesEdit.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Pictures.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Post.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\SelectArtice.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Settings.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\UserTimeline.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\Shop\Timeline.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\ConcernUrl.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\ManageMenu.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\WeiXin\ReplyOnKey.cs" />
+    <Compile Include="Hidistro\UI\Web\Handler\flashupload.cs" />
+    <Compile Include="Hidistro\UI\Web\API\GetQRCode.cs" />
+    <Compile Include="Hidistro\UI\Web\API\GzipExtention.cs" />
+    <Compile Include="Hidistro\UI\Web\Admin\ResourceNotFound.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\Service.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Admin\UploadFileJson.cs" />
+    <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_NavMenu.cs" />
+    <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_OnlineServiceConfig.cs" />
+    <Compile Include="Hidistro\UI\Web\API\MenuProcess.cs" />
+    <Compile Include="Hidistro\UI\Web\API\TaobaoProductHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\API\UpImg.cs" />
+    <Compile Include="Hidistro\UI\Web\API\VshopProcess.cs" />
+    <Compile Include="Hidistro\UI\Web\API\wb.cs" />
+    <Compile Include="Hidistro\UI\Web\API\WeiBoAPI.cs" />
+    <Compile Include="Hidistro\UI\Web\API\WeiboProcess.cs" />
+    <Compile Include="Hidistro\UI\Web\API\wx.cs" />
+    <Compile Include="Hidistro\UI\Web\API\CustomMsgHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\API\WXMenuProcess.cs" />
+    <Compile Include="Hidistro\UI\Web\Vshop\Default.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Global.cs" />
+    <Compile Include="Hidistro\UI\Web\hieditor\ueditor\controls\ucUeditor.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Config.cs" />
+    <Compile Include="Handler.cs" />
+    <Compile Include="ConfigHandler.cs" />
+    <Compile Include="CrawlerHandler.cs" />
+    <Compile Include="Crawler.cs" />
+    <Compile Include="ListFileManager.cs" />
+    <Compile Include="NotSupportedHandler.cs" />
+    <Compile Include="PathFormatter.cs" />
+    <Compile Include="UploadHandler.cs" />
+    <Compile Include="UploadConfig.cs" />
+    <Compile Include="UploadResult.cs" />
+    <Compile Include="UploadState.cs" />
+    <Compile Include="UploadTemplateImagesHandler.cs" />
+    <Compile Include="Hidistro\UI\Web\HomePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Installer\Activation.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Installer\Install.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Installer\Succeed.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\IsvInstall\Isv.cs" />
+    <Compile Include="Hidistro\UI\Web\loginEntry.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Pay\wap_alipaySubmit.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Pay\wap_alipay_notify_url.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Pay\wap_alipay_return_url.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Pay\wxRefundNotify.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Pay\wx_Alarm.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Pay\wx_Feedback.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Pay\wx_OneTaoSubmit.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Pay\wx_Pay.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Pay\wx_Submit.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\TestExpress.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\VerifyCodeImage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Vshop\ArticleShow.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Vshop\_default.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hidistro\UI\Web\Vshop\GetWinXinInfo.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Hidistro.ControlPanel\Hidistro.ControlPanel.csproj">
+      <Project>{692B5F07-B027-4492-8EE4-E4A9C6FB8F02}</Project>
+      <Name>Hidistro.ControlPanel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hidistro.Entities\Hidistro.Entities.csproj">
+      <Project>{0935C13D-C06A-48B4-A6A4-8C251F4024D9}</Project>
+      <Name>Hidistro.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hidistro.SqlDal\Hidistro.SqlDal.csproj">
+      <Project>{DC735563-C0A9-4C64-A9B2-3E2B9952B37A}</Project>
+      <Name>Hidistro.SqlDal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hidistro.UI.SaleSystem.CodeBehind\Hidistro.UI.SaleSystem.CodeBehind.csproj">
+      <Project>{978FBAF5-D0D1-45D6-875A-6119DDFE3701}</Project>
+      <Name>Hidistro.UI.SaleSystem.CodeBehind</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hidistro.UI.SaleSystem.Tags\Hidistro.UI.SaleSystem.Tags.csproj">
+      <Project>{0DDDF188-2993-4A20-8466-C6C427597155}</Project>
+      <Name>Hidistro.UI.SaleSystem.Tags</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hishop.WeiBo.Api\Hishop.WeiBo.Api.csproj">
+      <Project>{24AB4FF0-BF35-405E-AEB0-264EA1BD845A}</Project>
+      <Name>Hishop.WeiBo.Api</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
