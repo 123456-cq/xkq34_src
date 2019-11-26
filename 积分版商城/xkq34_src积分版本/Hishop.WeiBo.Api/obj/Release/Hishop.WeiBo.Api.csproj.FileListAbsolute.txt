@@ -1,7 +1,0 @@
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\bin\Release\Hishop.WeiBo.Api.dll
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\bin\Release\Hishop.WeiBo.Api.pdb
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\bin\Release\Newtonsoft.Json.dll
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\bin\Release\System.Net.Http.dll
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\obj\Release\ResolveAssemblyReference.cache
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\obj\Release\Hishop.WeiBo.Api.dll
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.WeiBo.Api\obj\Release\Hishop.WeiBo.Api.pdb
