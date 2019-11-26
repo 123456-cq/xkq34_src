@@ -1,4 +1,0 @@
-2019-10-28 08:37:09.756:关闭计划任务失败：The Scheduler has been Shutdown.
----------------
-2019-10-28 17:57:37.145:关闭计划任务失败：The Scheduler has been Shutdown.
----------------

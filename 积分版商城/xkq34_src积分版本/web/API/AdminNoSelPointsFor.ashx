@@ -1,1 +1,0 @@
-﻿<%@ WebHandler Language="C#" CodeBehind="AdminNoSelPointsFor.ashx.cs" Class="Hidistro.UI.Web.API.AdminNoSelPointsFor" %>
