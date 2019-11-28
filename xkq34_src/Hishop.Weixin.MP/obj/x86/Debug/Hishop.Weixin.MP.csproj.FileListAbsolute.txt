@@ -1,0 +1,56 @@
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+F:\淘宝上架源码\082 销客多3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+F:\淘宝上架源码\082 销客多3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+F:\淘宝上架源码\082 销客多3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+F:\淘宝上架源码\082 销客多3.4\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+F:\淘宝上架源码\082 销客多3.4\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+C:\Users\nsj\Desktop\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+C:\Users\nsj\Desktop\xkq34_src\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nsj\Desktop\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+C:\Users\nsj\Desktop\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+F:\淘宝上架源码\080 销客多3.4\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+C:\Users\Administrator\Desktop\微信分销\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.csprojAssemblyReference.cache
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.csproj.CoreCompileInputs.cache
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.csproj.CopyComplete
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+E:\其他\xkq34_src20160514 (1)\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+E:\软件打包\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+E:\软件打包\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+E:\软件打包\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+E:\软件打包\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+E:\软件打包\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src20160514 (1)\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.csprojResolveAssemblyReference.cache
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
