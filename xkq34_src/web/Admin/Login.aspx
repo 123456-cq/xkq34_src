@@ -125,6 +125,9 @@
             top: 100px;
             background-position: 0 1px;
         }
+        
+        
+        
         .shoppingimg
         {
             right: -100px;
@@ -143,7 +146,7 @@
             bottom: 120px;
             background-position: 11px -199px;
         }
-        small
+        small 
         {
             clear: both;
         }

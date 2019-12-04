@@ -63,6 +63,8 @@ namespace Hidistro.UI.Web.Admin.Goods
 
         protected System.Web.UI.WebControls.CheckBox cbZeroByOperation;//零元购设置
 
+        protected System.Web.UI.WebControls.CheckBox cbLeaseOpration;//租赁商品设置
+
         protected TrimTextBox txtProductShortName;
 
         protected TrimTextBox txtDisplaySequence;
@@ -219,13 +221,13 @@ namespace Hidistro.UI.Web.Admin.Goods
                 {
                     System.Collections.Generic.Dictionary<int, System.Collections.Generic.IList<int>> attrs;
                     ProductInfo productDetails = ProductHelper.GetProductDetails(this.productId, out attrs, out list);//查询商品详情
-                    int integrals = 0; string integralToNow = ""; int integralCeiling = 0; string ZeroBuy = "";//送积分,积分兑换,积分兑换上限,零元购
+                    int integrals = 0; string integralToNow = ""; int integralCeiling = 0; string ZeroBuy = ""; int LeaseGood = 0;//送积分,积分兑换,积分兑换上限,零元购,租赁
 
                     #region 根据商品编号查询商品积分,积分是否抵现,积分兑换上限
                     SqlDataReader read = null;
                     try
                     {
-                        string sql = "select [integral],[IntegralToNow],[IntegralCeiling],[ZeroBuy] from [dbo].[Hishop_Products] where [ProductId]=@ProductId";
+                        string sql = "select [integral],[IntegralToNow],[IntegralCeiling],[ZeroBuy],[LeaseGood] from [dbo].[Hishop_Products] where [ProductId]=@ProductId";
                         SqlParameter[] param = new SqlParameter[]{
                         new SqlParameter("@ProductId",this.productId)
                         };
@@ -247,6 +249,10 @@ namespace Hidistro.UI.Web.Admin.Goods
                             if (!string.IsNullOrEmpty(read["ZeroBuy"].ToString()))
                             {
                                 ZeroBuy = read["ZeroBuy"].ToString();
+                            }
+                            if (!string.IsNullOrEmpty(read["LeaseGood"].ToString()))
+                            {
+                                LeaseGood = (int)read["LeaseGood"];
                             }
                         }
                     }
@@ -287,6 +293,15 @@ namespace Hidistro.UI.Web.Admin.Goods
                     {
                         productDetails.IntegralCeiling = integralCeiling.ToString();//积分兑换上限
                     }
+                    if (LeaseGood == 1)//租赁商品
+                    {
+                        productDetails.LeaseGood = 1;
+                    }
+                    else
+                    {
+                        productDetails.LeaseGood = 0;
+                    }
+
                     if (productDetails == null)
                     {
                         base.GotoResourceNotFound();
@@ -352,7 +367,7 @@ namespace Hidistro.UI.Web.Admin.Goods
                 {
                     base.Response.Redirect("selectcategory.aspx");
                     base.Response.End();
-                   
+
                 }
             }
         }
@@ -372,10 +387,32 @@ namespace Hidistro.UI.Web.Admin.Goods
             int IntegralToNow = 0;//积分兑换设置
             string integral = "0";//送积分
             string integralCeiling = "0";//兑换积分上限
+            int LeaseGood = 0;//租赁商品
+            int ZeroBuy = 0;//零元购
+
+            if (this.cbLeaseOpration.Checked == true)
+            {
+                LeaseGood = 0;
+
+            }
+            else
+            {
+                LeaseGood = 1;
+            }
+
+            if (this.cbZeroByOperation.Checked == true)//零元购
+            {
+                ZeroBuy = 0;
+            }
+            else
+            {
+                ZeroBuy = 1;
+            }
+
             if (this.cbPointsSetUp.Checked == true)//积分兑换设置按钮被选中
             {
                 IntegralToNow = 0;//不可使用积分兑换
-              
+
             }
             else
             {
@@ -385,6 +422,7 @@ namespace Hidistro.UI.Web.Admin.Goods
                     integralCeiling = this.txtIntegralCeiling.Text.Trim();//为兑换积分上限赋值
                 }
             }
+
             if (this.cbIntegralOperation.Checked)//送积分设置被选中
             {
                 integral = "0";//不支持送积分
@@ -624,43 +662,21 @@ namespace Hidistro.UI.Web.Admin.Goods
                     #region 根据商品编号修改积分
                     try
                     {
-                        string sql = "update Hishop_products set [integral]=@integral where productId=@productId";//数据库修改积分
+                        string sql = "update Hishop_products set [integral]=@integral,[IntegralCeiling]=@IntegralCeiling,[IntegralToNow]=@IntegralToNow,[ZeroBuy]=@ZeroBuy,[LeaseGood]=@LeaseGood where productId=@productId";//数据库修改积分
                         SqlParameter[] param = new SqlParameter[]{
                              new SqlParameter("@integral",integral),
-                        new SqlParameter("@productId",this.productId)
+                             new SqlParameter("@integralCeiling",integralCeiling),
+                             new SqlParameter("@IntegralToNow",IntegralToNow),
+                             new SqlParameter("@ZeroBuy",ZeroBuy),
+                             new SqlParameter("@LeaseGood",LeaseGood),
+                             new SqlParameter("@productId",this.productId)
                         };
                         int nums = help.ExecuteNonQuery(sql, CommandType.Text, param);
                         if (nums > 0)
                         { }
                         else
                         {
-                            this.ShowMsg(this.operatorName + "商品失败，修改送积分失败！", false);
-                            return;
-                        }
-                        string IntegralCeilingSql = "update Hishop_products set [IntegralCeiling]=@IntegralCeiling where productId=@productId";//数据库积分兑换上限
-                        SqlParameter[] IntegralCeilingParam = new SqlParameter[]{
-                             new SqlParameter("@IntegralCeiling",integralCeiling),
-                        new SqlParameter("@productId",this.productId)
-                        };
-                        int IntegralCeilingNums = help.ExecuteNonQuery(IntegralCeilingSql, CommandType.Text, IntegralCeilingParam);
-                        if (IntegralCeilingNums > 0)
-                        { }
-                        else
-                        {
-                            this.ShowMsg(this.operatorName + "商品失败，修改积分上限失败！", false);
-                            return;
-                        }
-                        string sqls = "update Hishop_products set [IntegralToNow]=@IntegralToNow where [ProductId]=@ProductId";//数据库修改积分兑现状态
-                        SqlParameter[] para = new SqlParameter[]{
-                             new SqlParameter("@IntegralToNow",IntegralToNow),
-                        new SqlParameter("@productId",this.productId)
-                        };
-                        int numss = help.ExecuteNonQuery(sqls, CommandType.Text, para);
-                        if (numss > 0)
-                        { }
-                        else
-                        {
-                            this.ShowMsg(this.operatorName + "商品失败，修改设置积分抵现失败！", false);
+                            this.ShowMsg(this.operatorName + "商品修改失败！", false);
                             return;
                         }
                     }
@@ -892,6 +908,15 @@ namespace Hidistro.UI.Web.Admin.Goods
                 this.cbIntegralOperation.Checked = true;
                 this.txtIntegral.Enabled = false;
                 this.txtIntegral.Text = "";
+            }
+
+            if (product.LeaseGood == 1)//租赁商品设置（1能,0否）
+            {
+                this.cbLeaseOpration.Checked = false;
+            }
+            else if (product.LeaseGood == 0)
+            {
+                this.cbLeaseOpration.Checked = true;
             }
 
             if (product.ZeroBuy == 1)//是否能零元购（1能,0否）

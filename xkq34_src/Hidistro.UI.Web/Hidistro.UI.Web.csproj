@@ -978,6 +978,7 @@
     <Compile Include="Hidistro\UI\Web\Admin\Member\AddMemberGrade.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
+    <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_LeaseGoods.cs" />
     <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_PointsForGoods.cs" />
     <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_ShopSendIntegral.cs" />
     <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_ZeroBuyGoods.cs" />

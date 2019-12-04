@@ -41,6 +41,7 @@
         }
         #followtx input
         {
+            
             border-radius: 5px;
             padding: 2px 6px;
             float: right;
@@ -60,7 +61,9 @@
             color: #888;
         }
         /*.g-box{display:inline-block;height:100px;float:left;margin-right:2px}
-         .g-box section{float:left}
+         .g-box section{float:left} 
+
+
          .g-flex{margin-left:0px}*/
         .icon_buy
         {
@@ -121,11 +124,6 @@
     <div id="mmexport">
         <img src="/Admin/Shop/PublicMob/images/mmexport.png" width="100%" alt=""></div>
     <!--关注-->
-
-
-
-
-
     <!-- 悬浮按钮 -->
     <div class="mask_menu" id="menubtn" style="display: none;">
     </div>
@@ -138,11 +136,6 @@
             </div>
         </div>
     </div>
-
-
-
-
-
     <!-- 收藏 -->
     <div class="collectbg">
         <img src="/Admin/Shop/PublicMob/images/collectbg.png" width="100%" alt=""><a href="javascript:;"
@@ -157,24 +150,19 @@
     <H2:MeiQiaSet ID="MeiQiaSet" runat="server"></H2:MeiQiaSet>
     <%--<script src="/Admin/shop/Public/js/dist/lib-min.js"></script>--%>
     <script src="/Admin/shop/Public/js/dist/underscore.js"></script>
-
     <%--导航栏菜单--%>
     <script src="/Utility/ShowIndex.js"></script>
-
     <%--悬浮菜单--%>
     <script src="/Utility/IndexSuspendMenu.js"></script>
-
     <script src="/Utility/jquery.cookie.js"></script>
-
-
     <%-- 更多设置--%>
     <script>
 
-        //        展示购物送积分数据
 
+        //        展示购物送积分数据
         $(function () {
 
-            $.get("/API/Hi_Ajax_ShopSendIntegral.ashx", { ShopNumber: "four", IDs: "7,16,17,18,13,12,11,10,20,21,22,23,24,25,26,27,28,29" }, function (data) {
+            $.get("/API/Hi_Ajax_ShopSendIntegral.ashx", { ShopNumber: "four"}, function (data) {
 
 
                 //                    购物送积分
@@ -194,7 +182,7 @@
 
         $(function () {
             $(function () {
-                $.get("/API/Hi_Ajax_PointsForGoods.ashx", { ShopNumber: "four", IDs: "7,16,17,18,13,12,11,10,20,21,22,23,24,25,26,27,28,29" }, function (data) {
+                $.get("/API/Hi_Ajax_PointsForGoods.ashx", { ShopNumber: "four"}, function (data) {
 
                     //积分兑换
                     for (var i = 0; i < data.goodslist.length; i++) {
@@ -216,7 +204,7 @@
         $(function () {
 
             $(function () {
-                $.get("/API/Hi_Ajax_ZeroBuyGoods.ashx", { ShopNumber: "four", IDs: "7,16,17,18,13,12,11,10,20,21,22,23,24,25,26,27,28,29" }, function (data) {
+                $.get("/API/Hi_Ajax_ZeroBuyGoods.ashx", { ShopNumber: "four"}, function (data) {
 
                     //零元购
                     for (var k = 0; k < data.goodslist.length; k++) {
@@ -232,11 +220,7 @@
         })
 
 
-
     </script>
-
-
-
     <script>
         $(function () {
 
@@ -409,13 +393,9 @@
             })();
         });
     </script>
-
-
     <script type="text/javascript" src="/Admin/Shop/PublicMob/plugins/swipe/swipe.js"></script>
     <script type="text/javascript" src="/Admin/js/jquery-1.8.3.min.js"></script>
-
-
-    <script  type="text/javascript">
+    <script type="text/javascript">
         $(function () {
             var t = new Date().getMinutes();
             $.getJSON("/api/Hi_Ajax_GetProductsCount.ashx?t="+t, function (data) {
@@ -445,7 +425,6 @@
         });
         
     </script>
-
     <%--导航栏--%>
     <script type="text/j-template" id="menu">
       <div class="menuNav" id="menuNav">
@@ -481,10 +460,6 @@
                     <# }) #>
             </ul>
     </div>
-
-
     </script>
-
-
 </body>
 </html>

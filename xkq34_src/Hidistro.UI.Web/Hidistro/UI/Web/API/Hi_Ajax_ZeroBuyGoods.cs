@@ -37,13 +37,10 @@ namespace Hidistro.UI.Web.API
             {
                 string number = context.Request["ShopNumber"];//获取商品显示的数量
 
-                string text = (context.Request["IDs"] != null) ? context.Request["IDs"] : "";
-
                 System.Collections.Generic.List<HiShop_Model_Good> list = new System.Collections.Generic.List<HiShop_Model_Good>();
 
-                if (!string.IsNullOrEmpty(text))
-                {
-                    System.Collections.Generic.IList<ProductInfo> goods = this.GetGoods(context, text, number);//获取零元购商品
+                
+                    System.Collections.Generic.IList<ProductInfo> goods = this.GetGoods(context, number);//获取零元购商品
                     foreach (ProductInfo current in goods)
                     {
                         if (String.IsNullOrEmpty(current.FristPrice.ToString()))
@@ -62,9 +59,9 @@ namespace Hidistro.UI.Web.API
                             FristPrice = current.FristPrice
                         });
                     }
+
+                    hi_Json_GoodGourpContent.goodslist = list;
                 }
-                hi_Json_GoodGourpContent.goodslist = list;
-            }
             catch (Exception)
             {
                 return JsonConvert.SerializeObject(hi_Json_GoodGourpContent);
@@ -73,14 +70,9 @@ namespace Hidistro.UI.Web.API
             return JsonConvert.SerializeObject(hi_Json_GoodGourpContent);
         }
 
-        public System.Collections.Generic.IList<ProductInfo> GetGoods(System.Web.HttpContext context, string ids, string number)
+        public System.Collections.Generic.IList<ProductInfo> GetGoods(System.Web.HttpContext context,  string number)
         {
-            System.Collections.Generic.List<int> productIds = (from s in ids.Split(new char[]
-			{
-				','
-			})
-                                                               select int.Parse(s)).ToList<int>();
-            return service.ZeroBuyGoods(productIds, true, number);//获取零元购商品
+            return service.ZeroBuyGoods(true, number);//获取零元购商品
         }
     }
 }

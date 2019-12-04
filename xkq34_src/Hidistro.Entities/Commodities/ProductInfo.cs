@@ -8,6 +8,9 @@
 
     public class ProductInfo
     {
+
+        public int LeaseGood { get; set; }//租赁商品标识
+
         public int FristPrice { get; set; }//运费
 
         public int ZeroBuy { get; set; }//是否设置零元购（1表示是,0表示否）

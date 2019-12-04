@@ -48,6 +48,7 @@ alter table [dbo].[Hishop_Products] add integral		int null  --添加integral（商品
 alter table [dbo].[Hishop_Products] add IntegralToNow	int null  --添加IntegralToNow（是否能积分兑换（1能,0否））字段
 alter table [dbo].[Hishop_Products] add IntegralCeiling int null  --添加IntegralCeiling（积分兑换上限）字段
 alter table [dbo].[Hishop_Products] add ZeroBuy		    int null  --添加ZeroBuy（零元购标识（0标识否，1标识是））字段
+alter table [dbo].[Hishop_Products] add LeaseGood		int null  --添加LeaseGood（租赁商品标识（0标识否，1标识是））字段
 go
 
 

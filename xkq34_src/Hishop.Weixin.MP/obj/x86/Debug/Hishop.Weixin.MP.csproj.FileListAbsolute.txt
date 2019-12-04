@@ -54,3 +54,9 @@ C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.Weixin.MP
 C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
 C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
 C:\Users\XS D56456UY\Desktop\BDxkq34-src\商城项目\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hishop.Weixin.MP.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
+C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.csprojResolveAssemblyReference.cache

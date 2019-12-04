@@ -186,10 +186,5 @@ namespace IntegralHelp
 
         #endregion
 
-        #region 查询零元购商品数量
-
-        
-
-        #endregion
     }
 }

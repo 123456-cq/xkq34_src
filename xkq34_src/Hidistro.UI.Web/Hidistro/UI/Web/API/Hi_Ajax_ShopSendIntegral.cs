@@ -37,13 +37,9 @@ namespace Hidistro.UI.Web.API
             {
                 string number = context.Request["ShopNumber"];//获取商品显示的数量
 
-                string text = (context.Request["IDs"] != null) ? context.Request["IDs"] : "";
-
                 System.Collections.Generic.List<HiShop_Model_Good> list = new System.Collections.Generic.List<HiShop_Model_Good>();
 
-                if (!string.IsNullOrEmpty(text))
-                {
-                    System.Collections.Generic.IList<ProductInfo> goods = this.GetGoods(context, text, number);//获取购物送积分商品
+                    System.Collections.Generic.IList<ProductInfo> goods = this.GetGoods(context, number);//获取购物送积分商品
                     foreach (ProductInfo current in goods)
                     {
                         if (String.IsNullOrEmpty(current.integral))
@@ -62,7 +58,6 @@ namespace Hidistro.UI.Web.API
                             integral = current.integral.ToString()
                         });
                     }
-                }
                 hi_Json_GoodGourpContent.goodslist = list;
             }
             catch (Exception)
@@ -73,14 +68,9 @@ namespace Hidistro.UI.Web.API
             return JsonConvert.SerializeObject(hi_Json_GoodGourpContent);
         }
 
-        public System.Collections.Generic.IList<ProductInfo> GetGoods(System.Web.HttpContext context, string ids, string number)
+        public System.Collections.Generic.IList<ProductInfo> GetGoods(System.Web.HttpContext context, string number)
         {
-            System.Collections.Generic.List<int> productIds = (from s in ids.Split(new char[]
-			{
-				','
-			})
-                                                               select int.Parse(s)).ToList<int>();
-            return service.ShopSendIntegral(productIds, true, number);//获取购物送积分商品
+            return service.ShopSendIntegral(true, number);//获取购物送积分商品
         }
     }
 }

@@ -1,7 +1,4 @@
-﻿ 
- 
- 
- <%@ Page Title="" Language="C#" MasterPageFile="~/Admin/AdminNew.Master" AutoEventWireup="true" CodeBehind="ProductEdit.aspx.cs" Inherits="Hidistro.UI.Web.Admin.Goods.ProductEdit" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin/AdminNew.Master" AutoEventWireup="true" CodeBehind="ProductEdit.aspx.cs" Inherits="Hidistro.UI.Web.Admin.Goods.ProductEdit" %>
 
 <%@ Register TagPrefix="Hi" Namespace="Hidistro.UI.Common.Controls" Assembly="Hidistro.UI.Common.Controls" %>
 <%@ Register TagPrefix="Hi" Namespace="Hidistro.UI.ControlPanel.Utility" Assembly="Hidistro.UI.ControlPanel.Utility" %>
@@ -242,6 +239,15 @@
                                         </div>
                                         <small>建议尺寸640×640像素</small>
                                         <small>支持批量上传，每个商品最多5张图，每张小于300KB，支持jpg、gif、png格式</small>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="col-xs-2 control-label">租赁商品设置：</label>
+                                <div class="col-xs-4">
+                                    <div class="switch" id="Div4">
+                                        <asp:CheckBox ID="cbLeaseOpration" runat="server" Checked="True" />
                                     </div>
                                 </div>
                             </div>

@@ -1,0 +1,6 @@
+2019-12-02 08:57:17.132:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2019-12-02 08:57:18.167:重启动Application_start失败！
+---------------
+2019-12-02 13:37:52.001:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
