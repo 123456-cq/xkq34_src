@@ -1,0 +1,12 @@
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\bin\Release\Hidistro.Entities.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\bin\Release\Hidistro.Entities.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\bin\Release\Hidistro.Core.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\bin\Release\Hishop.Components.Validation.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\bin\Release\Hidistro.Core.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\bin\Release\Hishop.Components.Validation.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\obj\Release\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\obj\Release\Hidistro.Entities.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hidistro.Entities\obj\Release\Hidistro.Entities.pdb

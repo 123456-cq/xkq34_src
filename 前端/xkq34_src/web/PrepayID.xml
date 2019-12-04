@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <log>
+    <OperTime>2019/7/30 12:37:54</OperTime>
+    <Info>wx301237548656557aef98fae01232819800</Info>
+    <param>&lt;xml&gt;
+&lt;appid&gt;&lt;![CDATA[wx06ef5489be905a63]]&gt;&lt;/appid&gt;
+&lt;body&gt;190730123747758&lt;/body&gt;
+&lt;mch_id&gt;1518291941&lt;/mch_id&gt;
+&lt;nonce_str&gt;2704998&lt;/nonce_str&gt;
+&lt;notify_url&gt;&lt;![CDATA[http://mail.beidoustar.net/pay/wx_Pay.aspx]]&gt;&lt;/notify_url&gt;
+&lt;openid&gt;&lt;![CDATA[o1Adz0b7BqNHoxGloYcw9GZ84Qcs]]&gt;&lt;/openid&gt;
+&lt;out_trade_no&gt;190730123747758&lt;/out_trade_no&gt;
+&lt;sign&gt;&lt;![CDATA[934C9C1C7B67E6ABE752A8F097A33887]]&gt;&lt;/sign&gt;
+&lt;spbill_create_ip&gt;&lt;![CDATA[127.0.0.1]]&gt;&lt;/spbill_create_ip&gt;
+&lt;total_fee&gt;398000&lt;/total_fee&gt;
+&lt;trade_type&gt;&lt;![CDATA[JSAPI]]&gt;&lt;/trade_type&gt;
+&lt;/xml&gt;
+</param>
+    <query>appid=wx06ef5489be905a63&amp;body=190730123747758&amp;mch_id=1518291941&amp;nonce_str=2704998&amp;notify_url=http://mail.beidoustar.net/pay/wx_Pay.aspx&amp;openid=o1Adz0b7BqNHoxGloYcw9GZ84Qcs&amp;out_trade_no=190730123747758&amp;sign=934C9C1C7B67E6ABE752A8F097A33887&amp;spbill_create_ip=127.0.0.1&amp;total_fee=398000&amp;trade_type=JSAPI</query>
+  </log>
+</DocumentElement>

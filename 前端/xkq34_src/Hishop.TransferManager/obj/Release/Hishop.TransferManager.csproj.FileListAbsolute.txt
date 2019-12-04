@@ -1,0 +1,15 @@
+F:\hishop程序_重要\销客多\3.3\销客多3.3_src\wwwroot1\Hishop.TransferManager\bin\Release\Hishop.TransferManager.dll
+F:\hishop程序_重要\销客多\3.3\销客多3.3_src\wwwroot1\Hishop.TransferManager\bin\Release\Hishop.TransferManager.pdb
+F:\hishop程序_重要\销客多\3.3\销客多3.3_src\wwwroot1\Hishop.TransferManager\obj\Release\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.3\销客多3.3_src\wwwroot1\Hishop.TransferManager\obj\Release\Hishop.TransferManager.dll
+F:\hishop程序_重要\销客多\3.3\销客多3.3_src\wwwroot1\Hishop.TransferManager\obj\Release\Hishop.TransferManager.pdb
+F:\hishop程序_重要\销客多\3.31\outputfile\wwwroot1\Hishop.TransferManager\bin\Release\Hishop.TransferManager.dll
+F:\hishop程序_重要\销客多\3.31\outputfile\wwwroot1\Hishop.TransferManager\bin\Release\Hishop.TransferManager.pdb
+F:\hishop程序_重要\销客多\3.31\outputfile\wwwroot1\Hishop.TransferManager\obj\Release\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.31\outputfile\wwwroot1\Hishop.TransferManager\obj\Release\Hishop.TransferManager.dll
+F:\hishop程序_重要\销客多\3.31\outputfile\wwwroot1\Hishop.TransferManager\obj\Release\Hishop.TransferManager.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.TransferManager\bin\Release\Hishop.TransferManager.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.TransferManager\bin\Release\Hishop.TransferManager.pdb
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.TransferManager\obj\Release\ResolveAssemblyReference.cache
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.TransferManager\obj\Release\Hishop.TransferManager.dll
+F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.TransferManager\obj\Release\Hishop.TransferManager.pdb
