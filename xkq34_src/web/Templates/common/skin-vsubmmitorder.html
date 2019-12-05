@@ -304,12 +304,19 @@
 
                 if (PointsFor > IntegralCeiling) {
                     alert_h('对不起,该商品最多能兑换' + IntegralCeiling + "积分！");
+                    $("#aSubmmitorder").attr('disabled', true);
                     return false;
+                } else {
+                    $("#aSubmmitorder").attr('disabled', false);
                 }
+
 
                 if (PointsFor > Points) {
                     alert_h('对不起,您的积分余额不足！');
+                    $("#aSubmmitorder").attr('disabled', true);
                     return false;
+                } else {
+                    $("#aSubmmitorder").attr('disabled', false);
                 }
 
                 if (PointsFor != 0) {

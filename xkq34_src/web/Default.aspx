@@ -188,8 +188,6 @@
                     for (var i = 0; i < data.goodslist.length; i++) {
                         $("#duigoods").append("<li class='mingoods'><a href=" + data.goodslist[i].link + "  style='height:295px'><img src=" + data.goodslist[i].pic + " width='100%; height:295px'></a><span class='replace' style='color:#999'><i></i>￥" + Math.round(data.goodslist[i].price) + "</span> <p style='color:#f00; font-size:18px; font-weight:bold'><b style='font-size:16px'>￥</b>" + Math.round(data.goodslist[i].price) + " <b style='font-size:18px'>+</b> " + data.goodslist[i].IntegralCeiling + " <b style='font-size:16px'>分</b></p></li>")
                     }
-
-
                 }, "json")
 
             });
