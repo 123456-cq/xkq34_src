@@ -1,9 +1,0 @@
-D:\kingwoo\销客多3.3\wwwroot1\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
-D:\kingwoo\销客多3.3\wwwroot1\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
-D:\kingwoo\销客多3.3\wwwroot1\Hishop.Plugins\obj\x86\Debug\Hishop.Plugins.dll
-D:\kingwoo\销客多3.3\wwwroot1\Hishop.Plugins\obj\x86\Debug\Hishop.Plugins.pdb
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Plugins\obj\x86\Debug\ResolveAssemblyReference.cache
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Plugins\obj\x86\Debug\Hishop.Plugins.dll
-F:\hishop程序_重要\销客多\3.4\xkq34_src\Hishop.Plugins\obj\x86\Debug\Hishop.Plugins.pdb
