@@ -41,7 +41,6 @@
         }
         #followtx input
         {
-            
             border-radius: 5px;
             padding: 2px 6px;
             float: right;
@@ -158,11 +157,29 @@
     <%-- 更多设置--%>
     <script>
 
+        //        租赁商品
+
+        $(function () {
+
+            $.get("/API/Hi_Ajax_ShopSendIntegral.ashx", { ShopNumber: "four" }, function (data) {
+
+
+                //                    租赁商品
+                for (var j = 0; j < data.goodslist.length; j++) {
+                    $("#zulin").append("<li class='mingoods'><a href='Templates/common/Skin-Clickrental.html' style='height:295px'><img src=" + data.goodslist[j].pic + " width='100%; height:295px'></a><span class='replace' style='color:#999'><i></i>￥" + Math.round(data.goodslist[j].price) + "<span class='original_price'></span></span> <p style='color:#f00; font-size:18px; font-weight:bold'><b style='font-size:16px'>￥</b>" + Math.round(data.goodslist[j].price) + " <b style='font-size:16px'>送</b> "
+                      + data.goodslist[j].integral + " <b style='font-size:16px'>分</b></p ></li>")
+                }
+
+
+            }, "json")
+        });
+
+
 
         //        展示购物送积分数据
         $(function () {
 
-            $.get("/API/Hi_Ajax_ShopSendIntegral.ashx", { ShopNumber: "four"}, function (data) {
+            $.get("/API/Hi_Ajax_ShopSendIntegral.ashx", { ShopNumber: "four" }, function (data) {
 
 
                 //                    购物送积分
@@ -182,7 +199,7 @@
 
         $(function () {
             $(function () {
-                $.get("/API/Hi_Ajax_PointsForGoods.ashx", { ShopNumber: "four"}, function (data) {
+                $.get("/API/Hi_Ajax_PointsForGoods.ashx", { ShopNumber: "four" }, function (data) {
 
                     //积分兑换
                     for (var i = 0; i < data.goodslist.length; i++) {
@@ -202,7 +219,7 @@
         $(function () {
 
             $(function () {
-                $.get("/API/Hi_Ajax_ZeroBuyGoods.ashx", { ShopNumber: "four"}, function (data) {
+                $.get("/API/Hi_Ajax_ZeroBuyGoods.ashx", { ShopNumber: "four" }, function (data) {
 
                     //零元购
                     for (var k = 0; k < data.goodslist.length; k++) {

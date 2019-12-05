@@ -64,4 +64,3 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Newt
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
-C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.csprojResolveAssemblyReference.cache

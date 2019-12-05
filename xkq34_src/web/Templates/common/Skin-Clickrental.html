@@ -1,0 +1,447 @@
+﻿<!--一键租赁页面-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>北斗BDS1+国星卡 -国星商城</title>
+	</head>
+
+    <style>
+        
+       body{
+        width: 100%;
+        max-width: 650px;
+        font-family: "Arial", "Microsoft YaHei", "Tahoma";
+        font-size: 12px;
+        margin: 0 auto;
+        padding-bottom: 50px;
+        background-color: #F5F5F5; 
+        
+    }
+    
+	ul{
+		list-style: none;
+	}
+	a{
+		text-decoration: none;
+	}
+	em,i{
+		font-style: normal;
+	}
+    
+    
+
+/*顶部商品详情*/
+	.navtop
+	{
+	    max-width: 650px;
+		height: 40px;
+    	background-color: #F8F8F8;
+    	position: relative;
+	}
+	.navtop h1
+	{
+	    max-width: 650px;
+		font-size: 16px;
+	    color: #333333;
+	    height: 40px;
+	    line-height: 24px;
+	    text-align: center;	
+	    position:absolute;
+	    left:45%;
+	}
+	 .return{
+	    position: absolute;
+	    left: 10px;
+	    top: 10px;
+	    display: block;
+	    width: 20px;
+	    height: 20px;
+	    text-indent: -9999px;
+	    background: url(images/iconfont-fanhui.png) no-repeat;	
+	}
+	 .y-index{
+		position: absolute;
+	    top: 5px;
+	    right: 45px;
+	    width: 30px;
+	    height: 30px;
+	    text-indent: -9999px;
+	    background: url(images/iconfont-shouye.png?v3.2) no-repeat;	
+	}
+
+	 .collection{
+	    position: absolute;
+	    top: 7px;
+	    right: 10px;
+	    width: 25px;
+	    height: 25px;
+	    text-indent: -9999px;
+	    background: url(images/star-null.png) no-repeat;
+	    background-size: 25px;	
+	}
+
+
+   /* 轮播图效果*/
+   
+	.ban-con{
+		width: 100%;
+		height:676px;
+		position:relative;
+		overflow: hidden;
+	}
+	.ban-con .banner{
+		width: 620px;
+        position: absolute;
+        left: 43%;
+        margin-left: -330px;
+	}
+	.ban-con .banner li{
+		width: 100%;
+		
+		
+		position: absolute;
+	}
+	.ban-con .banner img{
+		width:100%;
+	}
+	.ban-con .banner li.on{
+		display: block;
+	}
+	.ban-con .btn{
+		position: absolute;
+		left: 3.5%;
+		top: 286px;
+		width:595px;
+	}
+
+	.ban-con .btn a i{
+		display: block;
+		color: #F3EFEC;
+		font-size: 30px;
+		font-weight: 400;
+		width:38px;
+		height: 60px;
+		line-height: 60px;
+		text-align: center;
+		background:rgba(0,0,0,.3);
+	}
+	.btn a.prev i.btn-l{
+		float: left;
+		background-position: -365px -109px;
+		border-radius: 0 8px 8px 0;
+	}
+	.btn a.next i.btn-r{
+		float: right;
+		background-position: -365px 0px;
+		border-radius: 8px 0 0 8px;
+	}
+	.ban-con .btn a i:hover{
+		font-size: 36px;
+		background:#cfaa79;
+	}
+	.ban-con .dot{
+		position: absolute;
+		bottom: 10px;
+		left: 45.5%;
+	}
+	.ban-con .dot span{
+		display: inline-block;
+		vertical-align: middle;
+		width: 8px;
+		height: 8px;
+		border:2px solid #fff;
+		border-radius: 50%;
+		text-indent: -999px;
+		opacity: 0.5;
+		margin:0 5px;
+		cursor: pointer;
+	}
+	.ban-con .dot span.active{
+		width: 10px;
+		height: 10px;
+		border: 3px solid #ccaa7a;
+		opacity: 1;
+		background-color: #fff;
+	}
+
+
+/*国兴卡热卖*/
+    .cont
+    {
+        background:#fff;
+        margin-top:8px;
+        }
+    .prob-card
+    {
+        padding-top:4px;
+        }
+    .good-info
+    {
+        width:650px;
+        margin-left:-34px;
+        }
+    
+    .title-goods
+    {
+        font-weight: bold;
+        margin-top: 5px; 
+        font-size: 16px;
+        margin-bottom:6px;
+        }
+    
+     .title-goods .products
+     {
+         color:#1CA47D;
+         }
+     
+     .instro
+     {
+        font-size: 12px;
+        color: Black;
+         }
+         
+    
+/*商城价*/
+    .pricefix
+    {
+        font-size: 14px;
+        margin-bottom: 10px;
+        }
+
+    .title
+    {
+        color: #434a54;
+        line-height: 20px;
+        }
+
+    .sala
+    {
+        color: #fe3d3d;
+        font-weight: bold;  
+        }
+    .muted
+    {
+        margin-left:2px;
+        font-size:11px;
+        text-
+        } 
+     
+     
+/*租金设定*/
+    .zujin
+    {
+        font-size: 14px;
+        margin-left: -40px;
+        }
+
+    .zujin li
+    {
+        margin-right:15px;
+        display:inline;
+        }
+
+    .zujin li input
+    {
+        width: 38px;
+        font-size: 12px;
+        height: 24px;
+        text-align: center;
+        border-radius: 3px;
+        margin-bottom: 6px;
+        margin: 0;
+        color: #666;
+        outline:none;
+        border: 1px solid #aab2bd;
+        }
+
+    
+ 
+ 
+    </style>
+	<body>
+	<!--顶部商品详情-->
+		<div class="navtop">
+            <h1>租赁商品详情</h1>
+			<a class="return" href="/Default.aspx">返回</a>
+			<a class="y-index" href="/Default.aspx">首页</a>
+			<a id="addF" class="collection" href="javascript:;" onclick="AddFavorite()">收藏</a>
+			<a id="addedF" class="collection active hide" href="javascript:void(0)">
+                已收藏</a>
+		</div>
+		
+	<!--轮播图效果-->
+		
+		<div class="ban-con">
+
+	<!-- 轮播图开始 -->
+			<ul class="banner">
+				<li class="on"><a href="#"><img src="/Storage/master/product/images/517fe815f3564989af4e84800d3e36c9.png" alt=""></a></li>
+				<li><a href="#"><img src="/Storage/master/product/images/a4bdc3fec8634d6ca05c523ecda8a07f.png" alt=""></a></li>
+				<li><a href="#"><img src="/Storage/master/product/images/e396b0319cf447bc9b591dbe50362367.png" alt=""></a></li>
+				
+			</ul>
+
+		<!-- 左右点击开始 -->
+		<div class="btn">
+			<a href="javascript:;" class="prev"><i class="btn-l"><</i></a>
+			<a href="javascript:;" class="next"><i class="btn-r">></i></a>
+
+		</div>
+
+		<!-- 下方小圆点开始 -->
+		<div class="dot">
+			<span class="active"></span>
+			<span></span>
+			<span></span>
+
+		</div>
+
+	  </div>
+		
+
+<!--国兴卡热卖-->
+
+   <div class="cont">
+         <div class="prob-card">
+        <ul class="good-info">
+			<div class="title-goods">
+				<span class="products">
+					【热卖】
+				</span>
+				北斗BDS1+国星卡
+			</div>
+
+			<div class="instro">
+           	 北斗BDS1+国星卡套餐，免话费，免费流量，仅售2980元。
+        
+			</div>
+			
+			<div class="pricefix">
+				<span class="title">商城价:</span>
+				<span style="color: red;">￥</span>
+				<span class="sala">2980.00</span>
+				<span class="muted">¥4980.00</span>
+			</div>
+		<!--租金设定-->
+			<ul class="zujin">
+				<p class="title">租金设定:</p>
+				
+				<li>
+					<span>月租金</span>
+					<input type="text" name="" id="" value="" />
+				</li>
+				
+				<li>
+					<span>租期</span>
+					<input type="text" name="" id="" value="" />
+				</li>
+				
+				<li>
+					<span>总租金</span>
+					<input type="text" name="" id="" value="" />
+				</li>
+				
+			</ul>
+			
+			
+			
+        </div>
+   </div>
+    
+   	
+		
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+	</body>
+</html>
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script>
+
+
+    //banner的js部分
+
+    $(function () {
+        var $index = 0, timer = null; //第一张图片下标
+
+        //右侧按钮点击
+        $(".next").click(function () {
+            $index++;
+            if ($index > $(".banner li").length - 1) {
+                $index = 0;
+            }
+            $("banner li").eq($index).stop().fadeIn().siblings().fadeOut();
+            showImg($index);
+        });
+
+        //左侧按钮点击
+        $(".prev").click(function () {
+            $index--;
+            if ($index < 0) {
+                $index = $(".banner li").length - 1;
+            }
+            $("banner li").eq($index).stop().fadeIn().siblings().fadeOut();
+            showImg($index);
+        });
+
+        //小圆点点击
+        $(".dot span").click(function () {
+            var $i = $(this).index(); //获取小圆点索引号
+            $index = $i;
+            showImg($index);
+
+        });
+
+        function showImg(k) {
+            $(".banner li").eq(k).stop().fadeIn().siblings("li").stop().fadeOut();
+            $(".dot span").eq(k).addClass("active").siblings("span").removeClass("active");
+
+        }
+
+
+        //自动轮播
+        function autoPlay() {
+            timer = setInterval(function () {
+
+                $(".next").trigger("click"); //模拟事件
+
+            }, 3000);
+        }
+        autoPlay();
+
+        //鼠标移入移除事件
+        $(".ban-con").mouseover(function () {
+            clearInterval(timer);
+            $(".btn").css("display", "block");
+        }).mouseout(function () {
+            autoPlay();
+            $(".btn").css("display", "none");
+        });
+
+    });
+
+    // //窗口大小变化触发事件 .onresize()
+    // $(window).resize(function(){
+    // 	showModel();
+    // });
+    // function showModel(){
+    // 	var $vw = $(window).outerWidth();//浏览器宽度
+    // 	var $vh = $(window).outerHeight();//浏览器高度
+    // 	var $w = $("box").outerWidth();//div宽度
+    // 	var $h = $("box").outerHeight();//div高度
+    // 	var $left = ($vw - $w) / 2;
+    // 	var $top = ($vh - $h) / 2;
+    // 	$(".box").css({"left":$left + 'px',"top":$top + 'px'});
+
+    // };
+
+
+</script>

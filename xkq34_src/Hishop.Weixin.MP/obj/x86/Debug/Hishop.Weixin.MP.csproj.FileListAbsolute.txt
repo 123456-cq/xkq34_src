@@ -59,4 +59,3 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\bin\Debug\Hish
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\bin\Debug\Newtonsoft.Json.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.pdb
-C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.MP\obj\x86\Debug\Hishop.Weixin.MP.csprojResolveAssemblyReference.cache

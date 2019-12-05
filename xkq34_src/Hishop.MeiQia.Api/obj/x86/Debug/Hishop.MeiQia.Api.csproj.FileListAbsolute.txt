@@ -54,3 +54,4 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.MeiQia.Api\bin\Debug\His
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.MeiQia.Api\bin\Debug\Newtonsoft.Json.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.MeiQia.Api\obj\x86\Debug\Hishop.MeiQia.Api.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.MeiQia.Api\obj\x86\Debug\Hishop.MeiQia.Api.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.MeiQia.Api\obj\x86\Debug\Hishop.MeiQia.Api.csprojResolveAssemblyReference.cache
