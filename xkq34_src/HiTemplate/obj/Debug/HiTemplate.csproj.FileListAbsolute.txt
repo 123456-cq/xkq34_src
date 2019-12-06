@@ -99,6 +99,5 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\HiTemplate
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\Newtonsoft.Json.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\RazorEngine.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\System.Web.Razor.dll
-C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.csprojResolveAssemblyReference.cache
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.pdb

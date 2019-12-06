@@ -71,7 +71,8 @@ namespace Hidistro.UI.SaleSystem.CodeBehind
                 base.GotoResourceNotFound("");
             }
 
-            ProductInfo product = ProductBrowser.GetProduct(MemberProcessor.GetCurrentMember(), this.productId);
+            ProductInfo product = ProductBrowser.GetProduct(MemberProcessor.GetCurrentMember(), this.productId);//获取商品详情
+
             if (null == product)
             {
                 base.GotoResourceNotFound("此商品已不存在");
@@ -111,7 +112,7 @@ namespace Hidistro.UI.SaleSystem.CodeBehind
 
             #region 获取改商品所送积分值,为所送积分框赋值
             int Integral = 0;//送积分
-            DataTable dt = new IntegralOperation().GetProductIntegralInfo(this.productId);//获取该商品积分信息详情
+            DataTable dt = new IntegralOperation().GetProductIntegralInfo(this.productId);//获取该商品积分详情
             foreach (DataRow dr in dt.Rows)
             {
                 if (!string.IsNullOrEmpty(dr["Integral"].ToString()))
@@ -122,7 +123,7 @@ namespace Hidistro.UI.SaleSystem.CodeBehind
                 {
                     Integral = 0;
                 }
-                if (string.IsNullOrEmpty(dr["FristPrice"].ToString()) == false)
+                if (string.IsNullOrEmpty(dr["FristPrice"].ToString()) == false)//快递费赋值
                 {
                     string money = dr["FristPrice"].ToString();
                     this.labCourierFees.Attributes.Add("style", "color:#fe3d3d;font-weight:bold");
@@ -135,7 +136,7 @@ namespace Hidistro.UI.SaleSystem.CodeBehind
 
                 if (!string.IsNullOrEmpty(dr["Integral"].ToString()))
                 {
-                    Integral = Convert.ToInt32(dr["Integral"]);//快递费赋值
+                    Integral = Convert.ToInt32(dr["Integral"]);
                 }
                 else
                 {

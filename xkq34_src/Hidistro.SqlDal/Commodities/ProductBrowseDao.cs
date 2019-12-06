@@ -70,6 +70,13 @@
             return data;
         }
 
+
+        /// <summary>
+        /// //商品详情
+        /// </summary>
+        /// <param name="member">用户信息</param>
+        /// <param name="productId">商品ID</param>
+        /// <returns></returns>
         public ProductInfo GetProduct(MemberInfo member, int productId)
         {
             int discount = 100;

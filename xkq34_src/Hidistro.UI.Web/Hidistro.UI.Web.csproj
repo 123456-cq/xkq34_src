@@ -931,6 +931,7 @@
     <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_Game.cs" />
     <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_GetActivityTopics.cs" />
     <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_GetProductsCount.cs" />
+    <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_GoodsDetails.cs" />
     <Compile Include="Hidistro\UI\Web\API\Hi_Ajax_GoodsList.cs" />
     <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_GoodsListGroup.cs" />
     <Compile Include="Hidistro\UI\Web\Admin\Shop\Hi_Ajax_RenameFolder.cs" />
