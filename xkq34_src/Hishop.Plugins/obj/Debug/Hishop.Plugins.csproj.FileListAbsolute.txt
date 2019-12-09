@@ -58,3 +58,7 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Plugins\bin\Debug\Hishop
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Plugins\bin\Debug\Hishop.Plugins.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Plugins\obj\Debug\Hishop.Plugins.pdb

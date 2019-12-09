@@ -118,3 +118,14 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.Entities\bin\Debug\His
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.Entities\obj\x86\Debug\Hidistro.Entities.csprojResolveAssemblyReference.cache
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.Entities\obj\x86\Debug\Hidistro.Entities.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.Entities\obj\x86\Debug\Hidistro.Entities.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\bin\Debug\Hidistro.Entities.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\bin\Debug\Hidistro.Entities.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\bin\Debug\Hidistro.Core.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\bin\Debug\Hishop.Components.Validation.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\bin\Debug\Hidistro.Core.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\bin\Debug\Hishop.Components.Validation.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\obj\x86\Debug\Hidistro.Entities.csprojResolveAssemblyReference.cache
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\obj\x86\Debug\Hidistro.Entities.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.Entities\obj\x86\Debug\Hidistro.Entities.pdb

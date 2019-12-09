@@ -102,3 +102,10 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\System.Web
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.csprojResolveAssemblyReference.cache
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\HiTemplate.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\HiTemplate.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\RazorEngine.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.csprojResolveAssemblyReference.cache
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.pdb

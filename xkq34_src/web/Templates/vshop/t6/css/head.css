@@ -3,7 +3,7 @@
 }
 
 .members_search {
-    width: 100% !important;
+    width: 80% !important;
     border: 0;
     border-bottom: #dbdada solid 1px !important;
     border-radius: 0;
@@ -12,3 +12,4 @@
 .membersbox-box {
     margin-top: -10px;
 }
+

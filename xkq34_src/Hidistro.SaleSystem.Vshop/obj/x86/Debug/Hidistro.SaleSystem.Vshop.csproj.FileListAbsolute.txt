@@ -266,3 +266,30 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\D
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\obj\x86\Debug\Hidistro.SaleSystem.Vshop.csprojResolveAssemblyReference.cache
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\obj\x86\Debug\Hidistro.SaleSystem.Vshop.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\obj\x86\Debug\Hidistro.SaleSystem.Vshop.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.SaleSystem.Vshop.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.SaleSystem.Vshop.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.Core.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.Entities.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.Messages.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.SqlDal.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\IntegralHelp.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hishop.Components.Validation.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hishop.Plugins.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hishop.AlipayFuwu.Api.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hishop.Weixin.MP.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\AopSdk.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.Core.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.Entities.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.Messages.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hidistro.SqlDal.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\IntegralHelp.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hishop.Components.Validation.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hishop.Plugins.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hishop.AlipayFuwu.Api.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\bin\Debug\Hishop.Weixin.MP.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\obj\x86\Debug\Hidistro.SaleSystem.Vshop.csprojResolveAssemblyReference.cache
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\obj\x86\Debug\Hidistro.SaleSystem.Vshop.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hidistro.SaleSystem.Vshop\obj\x86\Debug\Hidistro.SaleSystem.Vshop.pdb

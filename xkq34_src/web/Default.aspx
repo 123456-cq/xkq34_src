@@ -78,6 +78,13 @@
         {
             font-size: 14px;
         }
+        
+       <%-- 购物送积分颜色改变--%>
+       .j-title a
+       {
+           color:#fff;
+           }
+        
     </style>
     <script src="/Utility/WeixinApi.js?v=3.7"></script>
     <script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
@@ -104,28 +111,36 @@
         position: relative;">
         <Hi:HomePage runat="server" ID="H_Page">
         </Hi:HomePage>
+
         <section class="members_bottom" style="visibility: hidden;">
             <section>
-                <a href="/Default.aspx">商城首页<i></i></a>
-                <a href="/ProductList.aspx">所有商品<i></i></a>
-                <a href="/Vshop/MemberCenter.aspx">会员中心<i></i></a>
+                <a href="/Default.aspx">首页<i></i></a>
+                <a href="/ProductList.aspx">代理中心<i></i></a>
                 <a href="/Vshop/ShoppingCart.aspx">购物车<i></i></a>
+                <a href="/Vshop/MemberCenter.aspx">我的<i></i></a>
                 <a href="/Vshop/DistributorCenter.aspx">分销申请<i></i></a>
             </section>
         </section>
+
+
         <section class="members_bottom"><%if (ShowCopyRight != "1")
                                           { %>  
             <section style="height:48px;visibility: hidden"><a href="http://www.hishop.com.cn/support/" target="_blank" style="color: #b3b3b3;">HiShop技术支持 </a></section>
         <%} %>
         
         </section>
+
+
     </div>
     <div id="mmexport">
-        <img src="/Admin/Shop/PublicMob/images/mmexport.png" width="100%" alt=""></div>
+        <img src="/Admin/Shop/PublicMob/images/mmexport.png" width="100%" alt="">
+    </div>
+
     <!--关注-->
     <!-- 悬浮按钮 -->
     <div class="mask_menu" id="menubtn" style="display: none;">
     </div>
+
     <div class="menu" id="menufloat">
         <i class="icon-menu"></i>
     </div>
@@ -135,6 +150,8 @@
             </div>
         </div>
     </div>
+
+
     <!-- 收藏 -->
     <div class="collectbg">
         <img src="/Admin/Shop/PublicMob/images/collectbg.png" width="100%" alt=""><a href="javascript:;"
@@ -184,7 +201,7 @@
 
                 //                    购物送积分
                 for (var j = 0; j < data.goodslist.length; j++) {
-                    $("#songjifen").append("<li class='mingoods'><a href=" + data.goodslist[j].link + "  style='height:295px'><img src=" + data.goodslist[j].pic + " width='100%; height:295px'></a><span class='replace' style='color:#999'><i></i>￥" + Math.round(data.goodslist[j].price) + "<span class='original_price'></span></span> <p style='color:#f00; font-size:18px; font-weight:bold'><b style='font-size:16px'>￥</b>" + Math.round(data.goodslist[j].price) + " <b style='font-size:16px'>送</b> "
+                    $("#songjifen").append("<li class='mingoods'><a href=" + data.goodslist[j].link + "  style='height:295px; color:#fff'><img src=" + data.goodslist[j].pic + " width='100%; height:295px'></a><span class='replace' style='color:#999'><i></i>￥" + Math.round(data.goodslist[j].price) + "<span class='original_price'></span></span> <p style='color:#f00; font-size:18px; font-weight:bold'><b style='font-size:16px'>￥</b>" + Math.round(data.goodslist[j].price) + " <b style='font-size:16px'>送</b> "
                       + data.goodslist[j].integral + " <b style='font-size:16px'>分</b></p></li>")
                 }
 
@@ -228,6 +245,20 @@
 
 
                 }, "json")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
             });

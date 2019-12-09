@@ -85,7 +85,7 @@
                 </div>
             </div>
             <div class="form-group">
-                <label for="inputEmail1" class="col-xs-2 control-label"><em>*</em>会员折扣：</label>
+                <label for="inputEmail1" class="col-xs-2 control-label"><em>*</em>省委会员：</label>
                 <div class="col-xs-4">
                     现价×<asp:TextBox ID="txtValue" CssClass="form-control inl ml5" Width="90px" runat="server" /> %
                 <br />

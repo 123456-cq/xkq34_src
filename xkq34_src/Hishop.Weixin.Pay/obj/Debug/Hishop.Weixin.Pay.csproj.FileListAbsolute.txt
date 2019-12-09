@@ -126,3 +126,12 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\bin\Debug\His
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\obj\Debug\Hishop.Weixin.Pay.csprojResolveAssemblyReference.cache
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\obj\Debug\Hishop.Weixin.Pay.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\obj\Debug\Hishop.Weixin.Pay.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\bin\Debug\Hishop.Weixin.Pay.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\bin\Debug\Hishop.Weixin.Pay.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\bin\Debug\Hishop.Weixin.MP.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\bin\Debug\LitJSON.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\bin\Debug\Hishop.Weixin.MP.pdb
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\obj\Debug\Hishop.Weixin.Pay.csprojResolveAssemblyReference.cache
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\obj\Debug\Hishop.Weixin.Pay.dll
+C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Weixin.Pay\obj\Debug\Hishop.Weixin.Pay.pdb
