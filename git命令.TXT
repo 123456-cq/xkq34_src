@@ -1,0 +1,18 @@
+克隆合并提交代码：
+
+
+git add .			把所有代码都添加到暂存区
+
+git commit -m "说明" 	提交到本地分支
+
+git checkout 123456wy	切换到123456wy分支（跟远程分支绑定）
+
+git merge dev 		将dev分支合并到123456wy分支
+
+git push 			提交分支
+
+git checkout dev 		切换到开发分支
+
+git branch 		查看分支
+
+git clone xxx		克隆

@@ -1,15 +1,68 @@
-﻿body {
-    background: #f1f1f1;
-}
+﻿            body {
+                background: #f1f1f1;
+            }
 
-.members_search {
-    width: 80% !important;
-    border: 0;
-    border-bottom: #dbdada solid 1px !important;
-    border-radius: 0;
-}
+            .members_search {
+                width: 258% !important;
+                border: rgba(255,255,255,0.2) solid 1px;
+                border-radius: 4px;
+                background: rgba(255,255,255,0.2);
+            }
 
-.membersbox-box {
-    margin-top: -10px;
-}
+                
+            .members_search input
+            {
+                width:80%;
+                padding-left:3%;
+            }
+
+                
+            .myinfo
+            {
+                display: inline;
+                position: absolute;
+                right: 11px;
+                top: 15px;
+                font-size:16px;
+            }
+             .my-message img
+            {
+                display: block;
+                width: 54px;
+                height: 54px;
+                }
+
+            .t-nav{
+                margin:30px 0;
+            }
+            ul.tubiao li
+            {
+                width:128px;
+                height:127px;
+                text-align:center;
+                flex:1;
+                }
+            .tubiao li .zu{
+	            width: 88px;
+                height: 88px;
+                margin-bottom: 13px;
+                background: linear-gradient(135deg,#f24610,#fc2b5f);
+                display: inline-flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 50%;
+            }
+            .tubiao li p{
+	            color: #333;
+                font-size: 16px;
+                padding-bottom: 5px;
+            }
+
+
+
+            .membersbox-box {
+                margin-top: -10px;
+            }
+            
+
 
