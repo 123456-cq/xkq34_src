@@ -9,6 +9,9 @@ using Newtonsoft.Json;
 
 namespace Hidistro.UI.Web.API
 {
+    /// <summary>
+    /// 商品详情数据
+    /// </summary>
     public class Hi_Ajax_GoodsDetails : System.Web.IHttpHandler
     {
         public bool IsReusable
@@ -32,12 +35,7 @@ namespace Hidistro.UI.Web.API
             {
                 int productId = Convert.ToInt32(context.Request["productId"]);
 
-                if (productId == 0 || productId == null)
-                {
-                    return "商品编号不存在";
-                }
-
-                ProductInfo product = ProductBrowser.GetProduct(MemberProcessor.GetCurrentMember(), productId);//获取商品详情
+                ProductInfo product = ProductBrowser.GetProduct(MemberProcessor.GetCurrentMember(), productId);//商品详情
 
                 if (product == null)
                 {
@@ -57,8 +55,6 @@ namespace Hidistro.UI.Web.API
                 return "Error";
                 throw;
             }
-
         }
-
     }
 }

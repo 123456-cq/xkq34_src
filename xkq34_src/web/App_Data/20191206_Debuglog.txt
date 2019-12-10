@@ -1,2 +1,4 @@
 2019-12-06 13:36:50.458:关闭计划任务失败：The Scheduler has been Shutdown.
 ---------------
+2019-12-06 18:05:53.800:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------

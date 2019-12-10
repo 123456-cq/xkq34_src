@@ -70,3 +70,4 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.Core\bin\Debug\Microso
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.Core\obj\x86\Debug\Hidistro.Core.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.Core\obj\x86\Debug\Hidistro.Core.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\Hidistro.Core\obj\x86\Debug\Hidistro.Core.csprojResolveAssemblyReference.cache

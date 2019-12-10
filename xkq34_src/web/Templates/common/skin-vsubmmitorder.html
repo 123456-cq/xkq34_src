@@ -539,6 +539,7 @@
 
         SumMoney(TemplateId);
     }
+
     //送货时间
     $('.selectShipToDate li a').click(function () {
         $('.selectShipToDate button').html($(this).html() + '<span class="caret"></span>');
@@ -555,6 +556,7 @@
             refreshShippingTypes($(this).val())
         });
     }
+
     //计算运费
     function countfreighttype(TemplateId, ModeId) {
         //TemplateId=0,表示合并付款

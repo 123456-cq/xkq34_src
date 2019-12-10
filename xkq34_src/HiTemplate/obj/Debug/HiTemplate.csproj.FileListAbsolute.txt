@@ -101,3 +101,4 @@ C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\RazorEngin
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\bin\Debug\System.Web.Razor.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.dll
 C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.pdb
+C:\Users\XS D56456UY\Desktop\xkq34_src\xkq34_src\HiTemplate\obj\Debug\HiTemplate.csprojResolveAssemblyReference.cache

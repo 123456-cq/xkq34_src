@@ -26,6 +26,7 @@ namespace Hidistro.UI.Web.API
             context.Response.Write(this.GoodGroupJson(context));
         }
 
+
         public string GoodGroupJson(System.Web.HttpContext context)
         {
             Hi_Json_GoodGourpContent hi_Json_GoodGourpContent = new Hi_Json_GoodGourpContent();

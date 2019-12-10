@@ -247,7 +247,6 @@ function submmitorder() {//确认订单页面点击提交订单
             }
         }
     });
-
 }
 
 function isWeiXin() {

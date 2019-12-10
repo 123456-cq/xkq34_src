@@ -13,7 +13,8 @@ select * from Hishop_FreightTemplate_SpecifyRegionGroups
 --订单详情表
 select * from Hishop_OrderItems
 --订单记录表
-select * from Hishop_Orders
+select * from Hishop_Orders 
+
 --评论表
 select * from Hishop_OrderReturns
 --交易成功表

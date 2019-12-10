@@ -12,6 +12,9 @@ using IntegralHelp;
 
 namespace Hidistro.UI.Web.API
 {
+    /// <summary>
+    /// 租赁商品展示数据
+    /// </summary>
     public class Hi_Ajax_LeaseGoods : System.Web.IHttpHandler
     {
         HomePageClassService service = new HomePageClassService();//首页分类数据类
@@ -40,7 +43,7 @@ namespace Hidistro.UI.Web.API
                 System.Collections.Generic.List<HiShop_Model_Good> list = new System.Collections.Generic.List<HiShop_Model_Good>();
 
 
-                System.Collections.Generic.IList<ProductInfo> goods = this.GetGoods(context, number);//获取零元购商品
+                System.Collections.Generic.IList<ProductInfo> goods = this.GetGoods(context, number);//获取租赁商品
                 foreach (ProductInfo current in goods)
                 {
                     if (String.IsNullOrEmpty(current.FristPrice.ToString()))
