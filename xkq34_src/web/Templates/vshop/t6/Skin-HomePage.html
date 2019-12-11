@@ -1,11 +1,17 @@
 ﻿<%@ Control Language="C#" %>
 <%@ Register TagPrefix="Hi" Namespace="HiTemplate" Assembly="HiTemplate" %>
 
-        <div class="members_con">
+        <div class="members_con" style="
+                position: absolute;
+                top: -16px;
+                left: 30px;
+                text-indent: initial;
+                z-index: 999;">
+
             <section class="members_search">
-                  <form action="/ProductList.aspx" method="get" style="width:100%">
+                  <form action="/ProductList.aspx" method="get" style="width:118%">
                     <input type="text" name="keyWord" id="keyWord" value="" placeholder="商品搜索：请输入商品关键字">
-                     <button type="submit"></button>
+                     <button type="submit" style="float:left; margin: 10px 5px 0 8px;"></button>
                   </form>
                   <div class="myinfo">
                     <a class="my-message" href="http://localhost:9925/Vshop/notice.aspx?ReferralId=15959">
@@ -123,7 +129,7 @@
 			    <li>
 				    <div class="zu">
 					    <a href="#">
-                            <img src="../../../Storage/template/20190304/1@2x.png" />
+                            <img src="../../../Storage/template/20190304/6@2x.png" />
                             <p>优享租机</p>
 					    </a>
 				    </div>
@@ -150,7 +156,7 @@
 			    <li>
 				    <div class="zu">
 					    <a href="#">
-						    <img src="../../../Storage/template/20190304/4@2x.png" />
+                            <img src="../../../Storage/template/20190304/4@2x.png" />
                             <p>活动中心</p>
 					    </a>
 				    </div>
@@ -173,8 +179,8 @@
 
    <!-- 精选租机-->
         <div class="members_con"  style="margin:0">
-            <section class="members_special center " style="background-color:#fff;height:30px;" >
-                 <h2 class="j-title"  style="color:#FFF;font-size: 14px;line-height:30px; background-color:#666; font-weight:bold">
+            <section class="members_special center" >
+                 <h2 class="j-title"  style="color:#333333;font-size: 20px;line-height:30px; font-weight:bold; float:left; margin-left:10px">
                     
                     精选租机
                 </h2>
@@ -183,21 +189,19 @@
 
     <!--3列-->
         <div class="members_con" 
-            style="margin:0 auto; 
-             position: absolute;
-                top: -16px;
-                left: 2px;
-                text-indent: initial;
-                z-index: 999;
-        
-        ">
+            style="margin:0 auto">
             
             <section class="members_imgad">
                 <ul class="clearfix"> 
 
                     <li style="margin-bottom:0px">
-                        <a href="/ProductDetails.aspx?productId=7&ReferralId=3" title="">
+                        <a href="/ProductDetails.aspx?productId=7&ReferralId=3" title="" class="zuji">
                             <img src="../../../Storage/template/20190304/6368729580482747228504244.png" width="100%" />
+
+                            <h3>北斗复兴手机三代</h3>
+	                        <p>真香！北斗复兴手机100元/月起！！</p>
+	                        <h2>￥400/月</h2>
+
                         </a>
                     </li>
                     
@@ -212,8 +216,12 @@
                 <ul class="clearfix"> 
 
                     <li style="margin-bottom:0px">
-                        <a href="/ProductDetails.aspx?productId=7&ReferralId=3" title="">
+                        <a href="/ProductDetails.aspx?productId=7&ReferralId=3" title="" class="zuji">
                             <img src="../../../Storage/template/20190304/6368729580482747228504244.png" width="100%" />
+                       
+                             <h3>北斗复兴手机三代</h3>
+	                        <p>真香！北斗复兴手机100元/月起！！</p>
+	                        <h2>￥400/月</h2>
                         </a>
                     </li>
                     
@@ -228,8 +236,12 @@
                 <ul class="clearfix"> 
 
                     <li style="margin-bottom:0px">
-                        <a href="/ProductDetails.aspx?productId=7&ReferralId=3" title="">
+                        <a href="/ProductDetails.aspx?productId=7&ReferralId=3" title="" class="zuji">
                             <img src="../../../Storage/template/20190304/6368729580482747228504244.png" width="100%" />
+                            
+                            <h3>北斗复兴手机三代</h3>
+	                        <p>真香！北斗复兴手机100元/月起！！</p>
+	                        <h2>￥400/月</h2>
                         </a>
                     </li>
                     
@@ -241,8 +253,9 @@
 
    <!-- 活动中心-->
         <div class="members_con"  style="margin:0">
-            <section class="members_special center " style="background-color:#fff;height:30px;" >
-                <h2 class="j-title"  style="color:#FFF;font-size: 14px;line-height:30px; background-color:#666; font-weight:bold">
+             <section class="members_special center" >
+                 <h2 class="j-title"  style="color:#333333;font-size: 20px;line-height:30px; font-weight:bold; float:left; margin:40px 0 0 10px">
+                    
                     活动中心
                 </h2>
             </section>
@@ -316,13 +329,13 @@
 
     <!--展示热门兑换-->
         <div class="members_con"  style="margin:0">
-            <section class="members_special center " style="background-color:#fff;height:30px;" >
-                <h2 class="j-title"  style="color:#FFF;font-size: 14px;line-height:30px; background-color:#666; font-weight:bold">
+            <section class="members_special center ">
+                <h2 class="j-title"  style="color:#333333;font-size: 20px;line-height:30px; font-weight:bold; float:left; margin:40px 0 0 10px">
                     热门兑换
 
 
                       <a href="/Vshop/Moresend.aspx?ReferralId=0" class="vs-more2">
-                        <b style=" color:#FFF; position:absolute; right:10px"  >更多</b>
+                        <b style=" color:#333333; position:absolute; right:10px; font-size:16px"  >更多</b>
                       
                     </a>
 

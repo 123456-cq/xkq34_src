@@ -142,7 +142,7 @@
     <div class="mask_menu" id="menubtn" style="display: none;">
     </div>
 
-    <div class="menu" id="menufloat">
+<%--    <div class="menu" id="menufloat">
         <i class="icon-menu"></i>
     </div>
     <div class="menu-c notel nofocus" id="menufloat-c" style="">
@@ -150,7 +150,7 @@
             <div class="menu-c-inner" id="menuIn">
             </div>
         </div>
-    </div>
+    </div>--%>
 
 
     <!-- 收藏 -->

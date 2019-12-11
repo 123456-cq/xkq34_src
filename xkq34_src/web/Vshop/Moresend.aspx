@@ -125,7 +125,6 @@
 
         $(function () {
             $.get("/API/Hi_Ajax_PointsForGoods.ashx", { ShopNumber: "all", IDs: "7,16,17,18,13,12,11,10,20,21,22,23,24,25,26,27,28,29" }, function (data) {
-                debugger
 
                 //                    积分兑换
                 for (var i = 0; i < data.goodslist.length; i++) {

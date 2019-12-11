@@ -99,3 +99,9 @@ C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Components.Validation\ob
 C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Components.Validation\obj\Debug\Hishop.Components.Validation.csproj.GenerateResource.Cache
 C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Components.Validation\obj\Debug\Hishop.Components.Validation.dll
 C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.Components.Validation\obj\Debug\Hishop.Components.Validation.pdb
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.Components.Validation\bin\Debug\Hishop.Components.Validation.dll
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.Components.Validation\bin\Debug\Hishop.Components.Validation.pdb
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.Components.Validation\obj\Debug\Hishop.Components.Validation.Properties.Resources.resources
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.Components.Validation\obj\Debug\Hishop.Components.Validation.csproj.GenerateResource.Cache
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.Components.Validation\obj\Debug\Hishop.Components.Validation.dll
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.Components.Validation\obj\Debug\Hishop.Components.Validation.pdb

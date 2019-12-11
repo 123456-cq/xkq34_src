@@ -122,11 +122,8 @@
 
         $(function () {
 
-
-
             $.get("/API/Hi_Ajax_ShopSendIntegral.ashx", { ShopNumber: "all", IDs: "7,16,17,18,13,12,11,10,20,21,22,23,24,25,26,27,28,29" }, function (data) {
 
-                debugger
 
                 //                    购物送积分
                 for (var j = 0; j < data.goodslist.length; j++) {

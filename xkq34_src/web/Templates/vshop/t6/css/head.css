@@ -12,7 +12,6 @@
                 
             .members_search input
             {
-                width:80%;
                 padding-left:3%;
             }
 
@@ -21,8 +20,8 @@
             {
                 display: inline;
                 position: absolute;
-                right: 11px;
-                top: 15px;
+                right: -195%;
+                top: 3px;
                 font-size:16px;
             }
              .my-message img
@@ -33,7 +32,7 @@
                 }
 
             .t-nav{
-                margin:30px 0;
+                margin: 37px 0 14px 0;
             }
             ul.tubiao li
             {
@@ -46,7 +45,6 @@
 	            width: 88px;
                 height: 88px;
                 margin-bottom: 13px;
-                background: linear-gradient(135deg,#f24610,#fc2b5f);
                 display: inline-flex;
                 justify-content: center;
                 align-items: center;
@@ -55,7 +53,8 @@
             .tubiao li p{
 	            color: #333;
                 font-size: 16px;
-                padding-bottom: 5px;
+                padding:10px 0 5px 0;
+                font-weight: bold;
             }
 
 
@@ -63,6 +62,32 @@
             .membersbox-box {
                 margin-top: -10px;
             }
-            
-
-
+            .zuji
+            {
+                position:relative;
+                
+                }
+            .zuji h3
+            {
+                margin-top:15px;
+                font-size:16px;
+                color:#333333;
+                font-weight:bold;
+                margin-left:12px;
+                }
+            .zuji p
+            {
+                font-size:12px;
+                color:#666666;
+                font-weight:bold;
+                margin:5px 0 25px 12px;
+                }
+            .zuji h2
+            {
+                font-size:20px;
+                color:#E52334;
+                font-weight:bold;
+                position:absolute;
+                right:10px;
+                top:114px;
+                }

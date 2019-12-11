@@ -62,3 +62,7 @@ C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.TransferManager\bin\Debu
 C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.TransferManager\bin\Debug\Hishop.TransferManager.pdb
 C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.TransferManager\obj\Debug\Hishop.TransferManager.dll
 C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.TransferManager\obj\Debug\Hishop.TransferManager.pdb
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.TransferManager\bin\Debug\Hishop.TransferManager.dll
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.TransferManager\bin\Debug\Hishop.TransferManager.pdb
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.TransferManager\obj\Debug\Hishop.TransferManager.dll
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.TransferManager\obj\Debug\Hishop.TransferManager.pdb

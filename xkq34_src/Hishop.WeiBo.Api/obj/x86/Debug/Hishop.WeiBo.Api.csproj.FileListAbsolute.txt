@@ -71,3 +71,10 @@ C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Syst
 C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.csprojResolveAssemblyReference.cache
 C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
 C:\Users\8FYETU\Desktop\shop\xkq34_src\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.dll
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Hishop.WeiBo.Api.pdb
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.WeiBo.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.WeiBo.Api\bin\Debug\System.Net.Http.dll
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.csprojResolveAssemblyReference.cache
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.dll
+C:\Users\8FYETU\Desktop\商城\xkq34_src\Hishop.WeiBo.Api\obj\x86\Debug\Hishop.WeiBo.Api.pdb
